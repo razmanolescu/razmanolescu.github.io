@@ -1,0 +1,297 @@
+<html>
+	<head>
+		<title>Help</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<script src="assets/js/d3.v3.min.js"></script>
+		<!-- <link rel="stylesheet" href="http://billmill.org/css/style.css" /> -->
+		<link rel="icon" type="image/x-icon" href="images/logo.png" />
+	</head>
+	<body class="no-sidebar">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<div id="header-wrapper" class="wrapper">
+					<div id="header">
+
+						<!-- Logo -->
+							<div id="logo">
+								<h1><a href="index.html">FOPA</a></h1>
+								<p>Football Online Analysis and Prediction</p>
+							</div>
+
+						<!-- Nav -->
+							<nav id="nav">
+								<ul>
+									<li><a href="index.html">Home</a></li>
+									<!-- <li>
+										<a href="#">Dropdown</a>
+										<ul>
+											<li><a href="#">Lorem ipsum</a></li>
+											<li><a href="#">Magna veroeros</a></li>
+											<li><a href="#">Etiam nisl</a></li>
+											<li>
+												<a href="#">Sed consequat</a>
+												<ul>
+													<li><a href="#">Lorem dolor</a></li>
+													<li><a href="#">Amet consequat</a></li>
+													<li><a href="#">Magna phasellus</a></li>
+													<li><a href="#">Etiam nisl</a></li>
+													<li><a href="#">Sed feugiat</a></li>
+												</ul>
+											</li>
+											<li><a href="#">Nisl tempus</a></li>
+										</ul>
+									</li> 
+									<li><a href="left-sidebar.html">Left Sidebar</a></li>
+									<li><a href="right-sidebar.html">Right Sidebar</a></li> -->
+									<li>Decision visualization(soon)</li> 
+									<li><a href="prediction.html">Prediction</a></li>
+									<li><a href="history.html">Historical</a></li>
+									<li class="current"><a href="help.html">Help</a></li>
+								</ul>
+							</nav>
+
+					</div>
+				</div>
+
+			<div>  											
+			
+			
+			<style>
+							table {
+							  vertical-align:bottom;
+							  border-collapse: collapse;
+							}
+							th {
+							  border-bottom: 2px solid #ddd;
+							  padding: 8px;
+							  font-weight: bold;
+							}
+							td {
+							  padding: 8px;
+							  border-top: 1px solid #ddd;
+							}
+							#chart {
+							  padding: 10px;
+							}
+							.xaxislabel {
+							  font-size: 11px;
+							}
+		</style>
+		
+					<!-- Main -->
+				<div class="wrapper style2">
+					<div class="title">Help</div>
+					<div id="main" class="container">
+						<div class="row 150%">
+							<div class="4u 12u(mobile)">
+
+								<!-- Sidebar -->
+									<div id="sidebar">
+										<section class="box">
+											<p>Get more familiarized with the terms used and the automatic process that we use to generate predictions.</p>
+											<a href="prediction.html" class="button style1">Go to predictions </a>
+										</section>
+										<section class="box">
+											<header>
+												<h2>Concepts</h2>
+											</header>
+											<ul class="style2">
+												<li>
+													<article class="box post-excerpt">
+														<a class="image left"><img src="images/help2.png" alt="" /></a>
+														<h3>Confidence</h3>
+														<p>This is an internal metric to track how often this scenario came up before in our model. If a team has been in a certain situation lots of times with the same outcome, then we can confidently say it's going to do the same (high confidence). If it only came up once, the prediction is going to have low confidence.</p>
+													</article>
+												</li>
+												<li>
+													<article class="box post-excerpt">
+														<a class="image left"><img src="images/help3.png" alt="" /></a>
+														<h3>ROI</h3>
+														<p>Return of Investment. This the benefit resulting from investing in a resource. For us, this is calculated like  our prediction accuracy - betting odds  . 
+This is basically your profit in the long run (assuming LLN) as a percentage of your investment. 
+
+</p>
+													</article>
+												</li>
+												<li>
+													<article class="box post-excerpt">
+														<a class="image left"><img src="images/help4.png" alt="" /></a>
+														<h3>Accuracy</a></h3>
+														<p>The percentage of correct predictions.</p>
+													</article>
+												</li>
+											</ul>
+										</section>
+										<section class="box">
+										</section>
+									</div>
+
+							</div>
+							<div class="8u 12u(mobile) important(mobile)">
+
+								<!-- Content -->
+									<div id="content">
+										<article class="box post">
+											<header class="style1">
+												<h2>Tips on using the site</h2>
+												<p>Learn how to use prediction advantages for your betting needs</p>
+											</header>
+											<a class="image featured">
+												<img src="images/help1.png" alt="" />
+											</a>
+											<p><b>Example of using ROI:</b></br>
+Say you bet 1 coin on an event that we say we can predict accurately 75% of the time. </br>
+
+Your betting agency tells you that the odds of winning are 50%. This means that you win 2 coins. </br></br>
+
+If this happens 20 times, you're going to win 15 times (75%) and lose 5  times. </br>
+This means you have 15 * 2  - 5 * 1  = 25 coins. Your initial investment is 20 coins, so your profit is 5 (25%) . This is exactly your ROI (75% - 50% =  25%).</p>
+											<p><b>Example of using History:</b></br>
+												First of all, it's important to note that <b>the algorithm is subject to change</b>. This means that accuracy may vary from week to week.  
+												For that reason, I felt it was important to have a clear history of the predictions, focusing on the latest fixtures. </br>
+												
+												If you want to bet on a league, check the latest two weeks, for each confidence level. Get a feel of how well predictions is holing up.</br>
+												Normally, I'm expecting accuracy to be constantly above <b>60%</b>.
+											</p>
+											
+											
+												<p id="bettingNotation"><b>Example of using Betting notation:</b></br>
+												
+												This site uses standard betting 1X2 betting notation: 
+												<ol>
+													<li><b>1 2</b> - home team/away team will win</li>
+													<li><b>X</b> - match will end in a <b>draw</b> </li>
+													<li>combined (<b>1X, X2</b>) - home/away team will win <b>or draw</b> </li>
+													<li>combined (<b>12</b>) - home <b>or</b> away team will win </li>
+													<li><b>BTTS</b> - both teams will score (a minimum of one goal)</li>
+												</ol>
+											</p>
+										</article>
+
+									</div>
+
+							</div>
+						</div>
+					</div>
+				</div>
+		
+
+			<!-- Highlights -->
+				<div class="wrapper style3">
+					<div class="title">Where</div>
+					<div id="highlights" class="container">
+						<div class="row 150%">
+							<div class="4u 12u(mobile)">
+								<section class="highlight">
+									<a href="https://twitter.com/fopabot" class="image featured"><img src="images/FOPAIco.jpg" alt="" /></a>
+									<h3><a href="https://twitter.com/fopabot">Twitter</a></h3>
+									<p>Results are posted here and updates are sent from Twitter bot</p>
+									<ul class="actions">
+										<li><a href="https://twitter.com/fopabot" class="button style1">Visit</a></li>
+									</ul>
+								</section>
+							</div>
+							<div class="4u 12u(mobile)">
+								<section class="highlight">
+									<a href="https://twitter.com/fopabot" class="image featured"><img src="images/logo.png" alt="" /></a>
+									<h3><a href="https://twitter.com/fopabot">Website</a></h3>
+									<p>Website coming soon.</p>
+									<ul class="actions">
+										<li><a href="https://twitter.com/fopabot" class="button style1">Visit</a></li>
+									</ul>
+								</section>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			<!-- Footer -->
+				<div id="footer-wrapper" class="wrapper">
+					<div class="title">Contact</div>
+					<div id="footer" class="container">
+						<header class="style1">
+							<h2>Got questions? Suggestions?</h2>
+							<p>
+								Suggestions are always apprechiated and I'll do my best to implement them as soon as possible<br />
+								so we can have better prediction model.
+							</p>
+						</header>
+						<hr />
+						<div class="row 150%">
+							<div class="6u 12u(mobile)">
+
+								<!-- Contact Form -->
+									<section>
+										<form method="post" action="#">
+											<div class="row 50%">
+												<div class="6u 12u(mobile)">
+													<input type="text" name="name" id="contact-name" placeholder="Name" />
+												</div>
+												<div class="6u 12u(mobile)">
+													<input type="text" name="email" id="contact-email" placeholder="Email" />
+												</div>
+											</div>
+											<div class="row 50%">
+												<div class="12u">
+													<textarea name="message" id="contact-message" placeholder="Message" rows="4"></textarea>
+												</div>
+											</div>
+											<div class="row">
+												<div class="12u">
+													<ul class="actions">
+														<li><input type="submit" class="style1" value="Send" /></li>
+														<li><input type="reset" class="style2" value="Reset" /></li>
+													</ul>
+												</div>
+											</div>
+										</form>
+									</section>
+
+							</div>
+							<div class="6u 12u(mobile)">
+
+								<!-- Contact -->
+									<section class="feature-list small">
+										<div class="row">
+											<div class="6u 12u(mobile)">
+												<section>
+													<h3 class="icon fa-comment">Social</h3>
+													<p>
+														<a href="http://www.twitter.com/fopabot">twitter.com/fopabot</a><br />
+														<a href="http://www.twitter.com/fopabot">facebook.com/fopabot</a>
+													</p>
+												</section>
+											</div>
+										</div>
+									</section>
+
+							</div>
+						</div>
+						<hr />
+					</div>
+					<div id="copyright">
+						<ul>
+							<li>&copy; FOPA</li>
+						</ul>
+					</div>
+				</div>
+
+		</div>
+
+		<!-- Scripts -->
+		
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/skel-viewport.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

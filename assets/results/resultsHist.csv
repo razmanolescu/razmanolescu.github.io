@@ -1,0 +1,1684 @@
+league,opp,opp2,result,conf,ROI,date,outcome
+primera-division,Granada,Alaves,12,High conf,+75,07.12.19,win
+primera-division,Levante,Valencia,1X,High conf,+35,07.12.19,lose
+primera-division,Barcelona,Mallorca,1X,High conf,-4,07.12.19,win
+primera-division,Real Madrid,Espanol,1,High conf,+0,07.12.19,win
+liga-1,Chindia Targoviste,Poli Iasi,12,High conf,+95,07.12.19,win
+liga-1,FC Hermannstadt,Din. Bucuresti,2,High conf,+39,07.12.19,lose
+primeira-liga,Maritimo,Santa Clara,1X,Med conf,+21,07.12.19,win
+primeira-liga,Aves,Sp Braga,X2,High conf,+24,07.12.19,lose
+jupiler-league,Mechelen,Kortrijk,1,Med conf,+41,07.12.19,lose
+jupiler-league,Cercle Brugge,Genk,2,Low conf,-27,07.12.19,win
+jupiler-league,Gent,Waregem,>2.5,Low conf,-26,07.12.19,lose
+jupiler-league,St Truiden,Club Brugge,2,Low conf,-27,07.12.19,win
+championship,Huddersfield,Leeds,12,High conf,+31,07.12.19,win
+championship,Blackburn,Derby,12,High conf,+95,07.12.19,win
+championship,Cardiff,Barnsley,1,Med conf,+16,07.12.19,win
+championship,Fulham,Bristol City,12,High conf,+32,07.12.19,win
+championship,Hull,Stoke,1X,Med conf,+12,07.12.19,win
+championship,QPR,Preston,X2,Med conf,+29,07.12.19,lose
+championship,Reading,Birmingham,>2.5,Med conf,+7,07.12.19,win
+championship,Sheffield Weds,Brentford,>2.5,Med conf,+7,07.12.19,win
+bundesliga,Dortmund,Fortuna Dusseldorf,1,Med conf,-7,07.12.19,win
+bundesliga,M'gladbach,Bayern Munich,X2,Med conf,+62,07.12.19,lose
+bundesliga,Augsburg,Mainz,1X,Med conf,+1,07.12.19,win
+bundesliga,RB Leipzig,Hoffenheim,12,High conf,+83,07.12.19,win
+bundesliga,Freiburg,Wolfsburg,X,Med conf,+31,07.12.19,win
+bundesliga,Leverkusen,Schalke 04,>2.5,Low conf,+5,07.12.19,win
+serie-a,Atalanta,Verona,1,Low conf,+23,07.12.19,win
+serie-a,Udinese,Napoli,12,High conf,+95,07.12.19,lose
+serie-a,Lazio,Juventus,X2,High conf,+79,07.12.19,lose
+premier-league,Everton,Chelsea,2,High conf,+36,07.12.19,lose
+premier-league,Bournemouth,Liverpool,2,High conf,+12,07.12.19,win
+premier-league,Tottenham,Burnley,1,Med conf,+5,07.12.19,win
+premier-league,Watford,Crystal Palace,1,Med conf,+36,07.12.19,lose
+premier-league,Man City,Man United,12,Med conf,+1,07.12.19,win
+primera-division,Eibar,Barcelona,<2.5,Med conf,+7,19.10.19,lose
+primera-division,Ath Madrid,Valencia,1X,Med conf,-12,19.10.19,win
+primera-division,Getafe,Leganes,1,Med conf,+12,19.10.19,win
+primera-division,Mallorca,Real Madrid,X2,Med conf,+2,19.10.19,lose
+liga-1,CFR Cluj,Univ. Craiova,X2,Low conf,-5,19.10.19,lose
+jupiler-league,Standard,Genk,1X,Med conf,-0,19.10.19,win
+jupiler-league,Kortrijk,Waregem,X,Low conf,+14,19.10.19,lose
+jupiler-league,Oostende,Eupen,1,Med conf,+18,19.10.19,lose
+jupiler-league,Gent,Waasland-Beveren,1,Med conf,-16,19.10.19,win
+ligue-1,Lyon,Dijon,12,Med conf,-7,19.10.19,lose
+ligue-1,Metz,Nantes,2,Med conf,+37,19.10.19,lose
+ligue-1,Nimes,Amiens,X,Med conf,+49,19.10.19,win
+ligue-1,Reims,Montpellier,1X,Med conf,+28,19.10.19,win
+ligue-1,Toulouse,Lille,2,Med conf,+25,19.10.19,lose
+super-league,Guangzhou R&F,Shandong Luneng,2,High conf,+35,19.10.19,win
+super-league,Beijing Guoan,Shanghai SIPG,1X,High conf,+23,19.10.19,lose
+championship,Blackburn,Huddersfield,1,Low conf,+20,19.10.19,lose
+championship,Barnsley,Swansea,X2,Med conf,+3,19.10.19,win
+championship,Brentford,Millwall,1,Low conf,+0,19.10.19,win			
+championship,Hull,QPR,12,High conf,+20,19.10.19,win
+championship,Leeds,Birmingham,12,High conf,+27,19.10.19,win
+championship,Middlesbrough,West Brom,12,High conf,+19,19.10.19,win
+championship,Reading,Preston,12,High conf,+39,19.10.19,win
+championship,Stoke,Fulham,1X,High conf,+28,19.10.19,win
+bundesliga,Augsburg,Bayern Munich,2,Med conf,-15,19.10.19,lose
+bundesliga,Fortuna Dusseldorf,Mainz,X2,High conf,+44,19.10.19,lose
+bundesliga,RB Leipzig,Wolfsburg,X,High conf,+95,19.10.19,win 
+bundesliga,Union Berlin,Freiburg,12,High conf,+39,19.10.19,win
+bundesliga,Werder Bremen,Hertha,X2,Med conf,+30,19.10.19,win
+bundesliga,Dortmund,M'gladbach,>2.5,High conf,+95,19.10.19,lose
+serie-a,Lazio,Atalanta,1,High conf,+75,19.10.19,lose
+serie-a,Napoli,Verona,1,Low conf,+10,19.10.19,win
+serie-a,Juventus,Bologna,1,Low conf,+10,19.10.19,win
+premier-league,Everton,West Ham,<2.5,Med conf,+27,19.10.19,win
+premier-league,Aston Villa,Brighton,1,Med conf,+28,19.10.19,win
+premier-league,Bournemouth,Norwich,1X,Med conf,+28,19.10.19,win
+premier-league,Chelsea,Newcastle,1X,Med conf,-14,19.10.19,win
+premier-league,Leicester,Burnley,12,Med conf,+5,19.10.19,win
+premier-league,Tottenham,Watford,1,Med conf,+1,19.10.19,lose
+premier-league,Wolves,Southampton,<2.5,Med conf,+27,19.10.19,win
+premier-league,Crystal Palace,Man City,1X,Med conf,+38,19.10.19,lose
+liga-1,Voluntari,Academica Clinceni,X2,Low conf,-3,21.09.19,win
+liga-1,Sepsi,FC Hermannstadt,X2,Low conf,-3,21.09.19,lose
+liga-1,Astra,Din. Bucuresti,12,High conf,+37,21.09.19,win
+primeira-liga,Belenenses,Rio Ave,1X,Low conf,-1,21.09.19,lose
+primeira-liga,Moreirense,Benfica,2,Med conf,+6,21.09.19,win
+jupiler-league,Charleroi,St Truiden,1,Med conf,+41,21.09.19,lose
+jupiler-league,Antwerp,Cercle Brugge,1,Med conf,+41,21.09.19,win
+jupiler-league,Waasland-Beveren,Mouscron,2,Med conf,+24,21.09.19,lose
+jupiler-league,Genk,Oostende,1,Med conf,-9,21.09.19,win
+ligue-1,Marseille,Montpellier,1X,High conf,+18,21.09.19,win
+ligue-1,Metz,Amiens,X2,Low conf,-49,21.09.19,win
+ligue-1,Nice,Dijon,>2.5,Low conf,+4,21.09.19,win
+ligue-1,Nimes,Toulouse,X,Low conf,-29,21.09.19,lose
+ligue-1,Reims,Monaco,2,Low conf,-205,21.09.19,lose
+super-league,Dalian Yifang F.C.,Shenzhen,1,High conf,+22,21.09.19,win
+super-league,Hebei,Tianjin Teda,>2.5,Low conf,-3,21.09.19,win
+super-league,Shandong Luneng,Shanghai Shenhua,1,High conf,+21,21.09.19,win
+bundesliga,Leverkusen,Union Berlin,12,High conf,+24,21.09.19,win
+bundesliga,Bayern Munich,FC Koln,12,High conf,+11,21.09.19,win
+bundesliga,Hertha,Paderborn,12,High conf,+33,21.09.19,win
+bundesliga,Freiburg,Augsburg,>2.5,Med conf,+14,21.09.19,lose
+bundesliga,Werder Bremen,RB Leipzig,X,High conf,+77,21.09.19,lose
+serie-a,Udinese,Brescia,2,Med conf,+28,21.09.19,win
+serie-a,Juventus,Verona,1,Low conf,-5,21.09.19,win
+serie-a,Milan,Inter,X2,Med conf,+46,21.09.19,win
+premier-league,Leicester,Tottenham,BTTS,Low conf,--,21.09.19,win
+premier-league,Burnley,Norwich,1X,High conf,+23,21.09.19,win
+premier-league,Everton,Sheffield United,2,Low conf,+38,21.09.19,win
+premier-league,Man City,Watford,1X,High conf,-5,21.09.19,win
+premier-league,Newcastle,Brighton,>2.5,High conf,+47,21.09.19,lose
+primera-division,Mallorca,Ath Bilbao,<2.5,High conf,+47,13.09.19,win
+liga-1,Academica Clinceni,Astra,X2,High conf,+95,13.09.19,win
+liga-1,CFR Cluj,Voluntari,1,Med conf,+0,13.09.19,win
+primeira-liga,Setubal,Sp Braga,2,Med conf,+18,13.09.19,lose
+jupiler-league,Charleroi,Genk,12,Low conf,-13,13.09.19,win
+ligue-1,Lille,Angers,1X,High conf,+34,13.09.19,win
+ligue-1,Amiens,Lyon,2,Med conf,+2,13.09.19,lose
+championship,Derby,Cardiff,1,Low conf,+3,13.09.19,lose
+bundesliga,Fortuna Dusseldorf,Wolfsburg,X2,High conf,+41,13.09.19,win
+super-league,Jiangsu Suning,Guangzhou Evergrande,2,Med conf,+15,13.09.19,lose
+super-league,Shandong Luneng,Shanghai SIPG,2,Med conf,+28,13.09.19,lose
+super-league,Shenzhen,Beijing Guoan,>2.5,Low conf,-20,13.09.19,lose
+ligue-1,Lyon,Bordeaux,1,Low conf,-47,31.08.19,lose
+ligue-1,Angers,Dijon,1,Low conf,-33,31.08.19,win
+ligue-1,Nantes,Montpellier,1,Low conf,-20,31.08.19,win
+ligue-1,Nimes,Brest,2,High conf,+73,31.08.19,lose
+ligue-1,Toulouse,Amiens,X2,High conf,+50,31.08.19,lose
+championship,Bristol City,Middlesbrough,1,Med conf,+18,31.08.19,lose
+championship,Birmingham,Stoke,X2,Low conf,-5,31.08.19,win
+championship,Brentford,Derby,1X,Med conf,+15,31.08.19,win
+championship,Leeds,Swansea,1X,Med conf,-4,31.08.19,lose
+championship,Millwall,Hull,1,Med conf,+21,31.08.19,lose
+championship,Nott'm Forest,Preston,1X,Med conf,+5,31.08.19,win
+championship,Sheffield Weds,QPR,1X,Med conf,+2,31.08.19,lose
+championship,West Brom,Blackburn,X2,Med conf,+23,31.08.19,lose
+championship,Wigan,Barnsley,1X,Med conf,+19,31.08.19,win
+bundesliga,Leverkusen,Hoffenheim,X,High conf,+80,31.08.19,win
+bundesliga,Bayern Munich,Mainz,<2.5,High conf,+47,31.08.19,lose
+bundesliga,Schalke 04,Hertha,12,High conf,+38,31.08.19,win
+bundesliga,Freiburg,FC Koln,X2,Low conf,-20,31.08.19,win
+bundesliga,Wolfsburg,Paderborn,X2,Low conf,+1,31.08.19,win
+bundesliga,Union Berlin,Dortmund,12,High conf,+22,31.08.19,win
+serie-a,Milan,Brescia,1,Low conf,-5,31.08.19,win
+serie-a,Juventus,Napoli,12,High conf,+95,31.08.19,win
+premier-league,Southampton,Man United,2,High conf,+36,31.08.19,lose
+premier-league,Chelsea,Sheffield United,X,High conf,+73,31.08.19,win
+premier-league,Crystal Palace,Aston Villa,<2.5,Low conf,-3,31.08.19,win
+premier-league,Leicester,Bournemouth,<2.5,Low conf,-3,31.08.19,lose
+premier-league,Man City,Brighton,1,Low conf,-61,31.08.19,win
+premier-league,Newcastle,Watford,<2.5,Low conf,-3,31.08.19,win
+premier-league,West Ham,Norwich,1X,High conf,+58,31.08.19,win
+premier-league,Burnley,Liverpool,2,High conf,+8,31.08.19,win
+primera-division,Sevilla,Celta,1,Low conf,-40,30.08.19,lose
+primera-division,Ath Bilbao,Sociedad,12,Low conf,-5,30.08.19,win
+liga-1,FC Botosani,Academica Clinceni,1X,High conf,+24,30.08.19,win
+liga-1,Voluntari,Univ. Craiova,<2.5,High conf,+33,30.08.19,lose
+primeira-liga,Moreirense,Portimonense,1,High conf,+61,30.08.19,win
+primeira-liga,Belenenses,Boavista,<2.5,Med conf,+14,30.08.19,win
+jupiler-league,Mechelen,Mouscron,1,Med conf,+65,30.08.19,lose
+ligue-1,Metz,Paris SG,2,High conf,+30,30.08.19,win
+championship,Cardiff,Fulham,2,Med conf,+21,30.08.19,lose
+bundesliga,M'gladbach,RB Leipzig,<2.5,High conf,+95,30.08.19,lose
+serie-a,Bologna,Spal,1X,Low conf,--,30.08.19,win
+mls,New York City,New York Red Bulls,1,Med conf,+10,25.08.19,win
+mls,New England Revolution,Chicago Fire,1,Med conf,+12,25.08.19,win
+mls,Philadelphia Union,DC United,>2.5,Low conf,-7,25.08.19,win
+mls,Toronto FC,Montreal Impact,1,Med conf,+3,25.08.19,win
+mls,Real Salt Lake,Colorado Rapids,1,Med conf,-3,25.08.19,win
+mls,San Jose Earthquakes,Vancouver Whitecaps,1,Med conf,-16,25.08.19,win
+mls,Orlando City,Atlanta United,2,Med conf,+15,24.08.19,lose
+mls,Portland Timbers,Seattle Sounders,1,Med conf,+10,24.08.19,win
+primera-division,Granada,Sevilla,>2.5,Low conf,--,23.08.19,lose
+primera-division,Levante,Villarreal,X2,Low conf,-54,23.08.19,lose
+liga-1,Univ. Craiova,Astra,12,Med conf,+1,23.08.19,win
+liga-1,Poli Iasi,Chindia Targoviste,1,High conf,+85,23.08.19,lose
+primeira-liga,Setubal,Moreirense,<2.5,Low conf,-53,23.08.19,win
+primeira-liga,Rio Ave,Aves,12,High conf,+34,23.08.19,win
+jupiler-league,Genk,Anderlecht,1,Med conf,+52,23.08.19,win
+bundesliga,FC Koln,Dortmund,2,Low conf,-65,23.08.19,win
+premier-league,Aston Villa,Everton,<2.5,Low conf,-53,23.08.19,win
+mls,Portland Timbers,Atlanta United,12,High conf,+28,19.08.19,win
+primera-division,Alaves,Levante,1,Med conf,+52,18.08.19,win
+primera-division,Espanol,Sevilla,1,Med conf,+38,18.08.19,lose
+primera-division,Betis,Valladolid,1,Med conf,+9,18.08.19,lose
+primera-division,Ath Madrid,Getafe,12,High conf,+9,18.08.19,win
+liga-1,FC Botosani,Univ. Craiova,12,Med conf,+36,18.08.19,lose
+liga-1,FC Steaua Bucuresti,Poli Iasi,12,Med conf,+36,18.08.19,win
+primeira-liga,Aves,Maritimo,<2.5,Med conf,+9,18.08.19,lose
+primeira-liga,Pacos Ferreira,Santa Clara,1,High conf,+41,18.08.19,lose
+primeira-liga,Guimaraes,Boavista,1,High conf,+22,18.08.19,lose
+primeira-liga,Sp Lisbon,Sp Braga,1,High conf,+32,18.08.19,lose
+jupiler-league,Standard,Mouscron,12,Med conf,-5,18.08.19,win
+jupiler-league,Antwerp,St Truiden,1,Med conf,+36,18.08.19,win
+jupiler-league,Gent,Oostende,1,Med conf,-11,18.08.19,win
+ligue-1,St Etienne,Brest,1X,High conf,+29,18.08.19,win
+ligue-1,Reims,Strasbourg,1X,High conf,+35,18.08.19,win
+ligue-1,Rennes,Paris SG,2,Low conf,-47,18.08.19,lose
+championship,Reading,Cardiff,<2.5,High conf,+47,18.08.19,lose
+bundesliga,Ein Frankfurt,Hoffenheim,12,Med conf,-2,18.08.19,win
+bundesliga,Union Berlin,RB Leipzig,12,Med conf,-7,18.08.19,win
+premier-league,Sheffield United,Crystal Palace,1,Med conf,+28,18.08.19,win
+premier-league,Chelsea,Leicester,1,Med conf,+9,18.08.19,lose
+mls,New York Red Bulls,New England Revolution,1,Med conf,+15,18.08.19,lose
+mls,Columbus Crew,Toronto FC,X2,High conf,+46,18.08.19,win
+mls,Montreal Impact,FC Dallas,1,Med conf,+21,18.08.19,lose
+mls,Chicago Fire,Philadelphia Union,1,Med conf,+21,18.08.19,win
+primera-division,Celta,Real Madrid,2,Low conf,-33,17.08.19,win
+primera-division,Valencia,Sociedad,12,High conf,+14,17.08.19,lose
+primera-division,Mallorca,Eibar,1X,High conf,+45,17.08.19,win
+primera-division,Leganes,Osasuna,1,Med conf,+21,17.08.19,lose
+primera-division,Villarreal,Granada,1,Med conf,+52,17.08.19,lose
+liga-1,Sepsi,CFR Cluj,12,Med conf,+2,17.08.19,lose
+primeira-liga,Moreirense,Gil Vicente,<2.5,Med conf,+9,17.08.19,lose
+primeira-liga,Belenenses,Benfica,12,High conf,+0,17.08.19,win
+primeira-liga,Porto,Setubal,1,High conf,-2,17.08.19,win
+jupiler-league,Kortrijk,Anderlecht,2,High conf,+75,17.08.19,lose
+jupiler-league,Mechelen,Cercle Brugge,1,Med conf,+36,17.08.19,win
+jupiler-league,Waasland-Beveren,Genk,2,High conf,+13,17.08.19,win
+ligue-1,Nantes,Marseille,1,Med conf,+32,17.08.19,lose
+ligue-1,Amiens,Lille,2,Low conf,-16,17.08.19,lose
+ligue-1,Bordeaux,Montpellier,1X,High conf,+42,17.08.19,win
+ligue-1,Metz,Monaco,X,Low conf,--,17.08.19,lose
+ligue-1,Nimes,Nice,X,Low conf,-29,17.08.19,lose
+ligue-1,Toulouse,Dijon,1X,High conf,+36,17.08.19,win
+championship,Blackburn,Middlesbrough,<2.5,High conf,+47,17.08.19,win
+championship,Brentford,Hull,1,Low conf,-10,17.08.19,lose
+championship,Bristol City,QPR,1X,Low conf,-64,17.08.19,win
+championship,Millwall,Sheffield Weds,2,Low conf,-0,17.08.19,lose
+championship,Nott'm Forest,Birmingham,2,Low conf,+8,17.08.19,lose
+championship,Stoke,Derby,X,High conf,+68,17.08.19,win
+championship,Swansea,Preston,2,Low conf,+3,17.08.19,lose
+championship,Wigan,Leeds,2,Low conf,-21,17.08.19,win
+bundesliga,Leverkusen,Paderborn,12,Med conf,-20,17.08.19,win
+bundesliga,Dortmund,Augsburg,1,Med conf,-17,17.08.19,win
+bundesliga,Freiburg,Mainz,2,Low conf,+27,17.08.19,lose
+bundesliga,Wolfsburg,FC Koln,2,Low conf,+31,17.08.19,lose
+bundesliga,Werder Bremen,Fortuna Dusseldorf,1,Med conf,+8,17.08.19,lose
+bundesliga,M'gladbach,Schalke 04,12,Med conf,+28,17.08.19,lose
+premier-league,Arsenal,Burnley,1,Med conf,+46,17.08.19,win
+premier-league,Aston Villa,Bournemouth,1,Med conf,+24,17.08.19,lose
+premier-league,Brighton,West Ham,2,Med conf,+33,17.08.19,lose
+premier-league,Everton,Watford,12,Low conf,-16,17.08.19,win
+premier-league,Norwich,Newcastle,<2.5,High conf,+47,17.08.19,lose
+premier-league,Southampton,Liverpool,2,Med conf,-1,17.08.19,win
+premier-league,Man City,Tottenham,12,Low conf,-26,17.08.19,lose
+primera-division,Ath Bilbao,Barcelona,12,High conf,+15,16.08.19,win
+liga-1,FC Hermannstadt,Academica Clinceni,>2.5,Low conf,-3,16.08.19,win
+liga-1,Chindia Targoviste,Din. Bucuresti,2,Med conf,+70,16.08.19,lose
+jupiler-league,Club Brugge,Eupen,1,Med conf,+36,16.08.19,lose
+ligue-1,Lyon,Angers,12,High conf,+9,16.08.19,win
+championship,Huddersfield,Fulham,2,Low conf,-11,16.08.19,win
+bundesliga,Bayern Munich,Hertha,12,Med conf,+28,16.08.19,lose
+mls,Toronto FC,Orlando City,>2.5,Low conf,+24,11.08.19,lose
+liga-1,Gaz Metan Medias,Astra,X2,High conf,+87,10.08.19,lose
+liga-1,CFR Cluj,FC Hermannstadt,1X,Med conf,+46,10.08.19,win
+primeira-liga,Gil Vicente,Porto,X2,Low conf,+17,10.08.19,lose
+primeira-liga,Benfica,Pacos Ferreira,1,High conf,+74,10.08.19,win
+jupiler-league,Oostende,Club Brugge,2,Low conf,--,10.08.19,win
+jupiler-league,Eupen,Waasland-Beveren,12,High conf,+78,10.08.19,lose
+jupiler-league,Club Brugge,Kortrijk,>2.5,Low conf,--,10.08.19,lose
+jupiler-league,Genk,Waregem,X,Low conf,--,10.08.19,lose
+ligue-1,Marseille,Reims,1X,Med conf,+39,10.08.19,lose
+ligue-1,Angers,Bordeaux,12,Med conf,+50,10.08.19,win
+ligue-1,Dijon,St Etienne,2,Low conf,-27,10.08.19,win
+ligue-1,Montpellier,Rennes,X,Med conf,+54,10.08.19,lose
+ligue-1,Nice,Amiens,1,Low conf,+13,10.08.19,win
+ligue-1,Brest,Toulouse,1,Low conf,+13,10.08.19,win
+mls,Seattle Sounders,New England Revolution,X2,Low conf,-129,10.08.19,win
+super-league,Hebei,Shandong Luneng,X2,Low conf,-17,10.08.19,win
+super-league,Tianjin Teda,Wuhan Zall,2,Med conf,+39,10.08.19,lose
+premier-league,West Ham,Man City,12,High conf,+95,10.08.19,win
+premier-league,Bournemouth,Sheffield United,1,Med conf,+43,10.08.19,lose
+premier-league,Burnley,Southampton,1,Med conf,+43,10.08.19,win
+premier-league,Crystal Palace,Everton,12,High conf,+95,10.08.19,lose
+premier-league,Watford,Brighton,X,Low conf,-108,10.08.19,lose
+premier-league,Tottenham,Aston Villa,1,Med conf,+43,10.08.19,win
+liga-1,FC Botosani,Gaz Metan Medias,<2.5,Med conf,+34,03.08.19,win
+liga-1,Chindia Targoviste,CFR Cluj,X2,Low conf,-39,03.08.19,win
+jupiler-league,Standard,Waregem,1,Low conf,+16,03.08.19,win
+jupiler-league,Kortrijk,Charleroi,1X,Med conf,+61,03.08.19,win
+jupiler-league,Oostende,Club Brugge,2,Low conf,+10,03.08.19,lose
+jupiler-league,Mechelen,Genk,1X,Med conf,+40,03.08.19,win
+super-league,Tianjin Teda,Henan Jianye,12,Med conf,+5,03.08.19,win
+super-league,Shandong Luneng,Guangzhou Evergrande,X2,Low conf,-25,03.08.19,win
+super-league,Shanghai SIPG,Tianjin Tianhai,1,High conf,+6,03.08.19,lose	
+championship,Barnsley,Fulham,1X,Med conf,+56,03.08.19,win
+championship,Brentford,Birmingham,1X,High conf,+88,03.08.19,lose
+championship,Millwall,Preston,X,Low conf,-108,03.08.19,lose
+championship,Reading,Sheffield Weds,12,Med conf,+50,03.08.19,win
+championship,Stoke,QPR,1,Low conf,-24,03.08.19,lose
+championship,Swansea,Hull,X2,High conf,+79,03.08.19,lose
+championship,Wigan,Cardiff,X,Low conf,-35,03.08.19,lose
+championship,Nott'm Forest,West Brom,1X,High conf,+89,03.08.19,lose
+mls,Atlanta United,Los Angeles Galaxy,>2.5,Low conf,-12,04.08.19,win
+mls,New York Red Bulls,Toronto FC,1,Med conf,+41,04.08.19,win
+mls,New England Revolution,Los Angeles FC,1X,Med conf,+42,04.08.19,lose
+mls,Orlando City,FC Dallas,2,Med conf,+34,04.08.19,lose
+mls,Colorado Rapids,Montreal Impact,1,Med conf,+56,04.08.19,win
+mls,Houston Dynamo,Chicago Fire,X,Low conf,-160,04.08.19,lose
+mls,Real Salt Lake,New York City,2,Med conf,+64,04.08.19,lose
+mls,San Jose Earthquakes,Columbus Crew,12,Med conf,+34,04.08.19,lose
+liga-1,Din. Bucuresti,Academica Clinceni,1X,High conf,+72,02.08.19,win
+jupiler-league,Club Brugge,St Truiden,12,Med conf,+38,02.08.19,win
+primera-division,Espanol,Alaves,2,Low conf,+39,13.04.19,lose
+primera-division,Huesca,Barcelona,X2,High conf,+17,13.04.19,win
+primera-division,Ath Madrid,Celta,1,Med conf,+11,13.04.19,win
+primera-division,Sevilla,Betis,1,Low conf,-2,13.04.19,win
+primeira-liga,Portimonense,Porto,2,Med conf,-9,13.04.19,win
+primeira-liga,Aves,Sp Lisbon,12,Med conf,-1,13.04.19,win
+ligue-1,Marseille,Nimes,1X,Med conf,-2,13.04.19,win
+ligue-1,Caen,Angers,>1.5,Low conf,-21,13.04.19,lose
+ligue-1,Monaco,Reims,1X,Med conf,+7,13.04.19,win
+ligue-1,Strasbourg,Guingamp,1,Med conf,+19,13.04.19,lose
+championship,Aston Villa,Bristol City,1,Low conf,-22,13.04.19,win
+championship,Derby,Bolton,>2.5,Med conf,+25,13.04.19,win
+championship,Ipswich,Birmingham,>2.5,High conf,+32,13.04.19,lose
+championship,Middlesbrough,Hull,>2.5,High conf,+30,13.04.19,lose
+championship,Nott'm Forest,Blackburn,1,Med conf,+15,13.04.19,lose
+championship,QPR,Swansea,X2,Low conf,-1,13.04.19,lose
+championship,Reading,Brentford,X2,High conf,+20,13.04.19,lose
+championship,Sheffield United,Millwall,X2,Low conf,+12,13.04.19,win
+championship,Stoke,Rotherham,X2,Med conf,+17,13.04.19,win
+championship,West Brom,Preston,1X,Med conf,+2,13.04.19,win
+championship,Leeds,Sheffield Weds,1,Low conf,-19,13.04.19,win
+bundesliga,Hannover,M'gladbach,2,Med conf,+42,13.04.19,win
+bundesliga,RB Leipzig,Wolfsburg,12,Med conf,-9,13.04.19,win
+bundesliga,Stuttgart,Leverkusen,1,Med conf,+39,13.04.19,lose
+bundesliga,Werder Bremen,Freiburg,>2.5,Med conf,+10,13.04.19,win
+bundesliga,Dortmund,Mainz,1,High conf,+11,13.04.19,win
+serie-a,Spal,Juventus,12,Med conf,+5,13.04.19,win
+serie-a,Roma,Udinese,1,Med conf,+13,13.04.19,win
+serie-a,Milan,Lazio,1X,Low conf,+3,13.04.19,win
+premier-league,Tottenham,Huddersfield,1,High conf,+4,13.04.19,win
+premier-league,Brighton,Bournemouth,12,Med conf,+20,13.04.19,win
+premier-league,Burnley,Cardiff,1X,Med conf,+12,13.04.19,win
+premier-league,Fulham,Everton,X2,Med conf,-1,13.04.19,lose
+premier-league,Southampton,Wolves,12,Med conf,+21,13.04.19,win
+premier-league,Man United,West Ham,1,High conf,+16,13.04.19,win
+primera-division,Getafe,Leganes,12,High conf,+18,30.03.19,win
+primera-division,Barcelona,Espanol,X2,Med conf,+56,30.03.19,lose
+primera-division,Celta,Villarreal,X2,Med conf,+25,30.03.19,lose
+primera-division,Alaves,Ath Madrid,1X,Low conf,+20,30.03.19,lose
+liga-1,CFR Cluj,Astra,12,Low conf,+17,30.03.19,win
+primeira-liga,Sp Braga,Porto,2,Med conf,+20,30.03.19,win
+primeira-liga,Chaves,Sp Lisbon,2,Low conf,-2,30.03.19,win
+primeira-liga,Benfica,Tondela,1,Med conf,-12,30.03.19,win
+ligue-1,Marseille,Angers,1X,Med conf,-10,30.03.19,win
+mls,Chicago Fire,New York Red Bulls,2,Med conf,+48,30.03.19,lose
+mls,New England Revolution,Minnesota,1X,Med conf,+52,30.03.19,win
+mls,Sporting Kansas City,Montreal Impact,1,Low conf,+26,30.03.19,win
+mls,San Jose Earthquakes,Los Angeles FC,1X,Low conf,+5,30.03.19,lose
+mls,Toronto FC,New York City,1,Med conf,+61,30.03.19,win
+championship,Aston Villa,Blackburn,1,Low conf,-9,30.03.19,win
+championship,Derby,Rotherham,12,Med conf,+13,30.03.19,win
+championship,Ipswich,Hull,X2,Med conf,+8,30.03.19,win
+championship,Leeds,Millwall,X,Low conf,+25,30.03.19,lose
+championship,Nott'm Forest,Swansea,X,Low conf,+11,30.03.19,lose
+championship,QPR,Bolton,1X,High conf,+16,30.03.19,lose
+championship,Reading,Preston,X2,Low conf,-14,30.03.19,lose
+championship,Sheffield United,Bristol City,<2.5,Low conf,-11,30.03.19,lose
+championship,Stoke,Sheffield Weds,X2,Low conf,+4,30.03.19,win
+championship,Wigan,Brentford,1X,Med conf,+22,30.03.19,win
+championship,Middlesbrough,Norwich,X2,Med conf,+7,30.03.19,win
+bundesliga,Dortmund,Wolfsburg,X,Low conf,+9,30.03.19,lose
+bundesliga,Nurnberg,Augsburg,1,Low conf,+20,30.03.19,win
+bundesliga,Fortuna Dusseldorf,M'gladbach,2,High conf,+80,30.03.19,lose
+bundesliga,Freiburg,Bayern Munich,2,High conf,+8,30.03.19,lose
+bundesliga,Werder Bremen,Mainz,1,High conf,+21,30.03.19,win
+bundesliga,RB Leipzig,Hertha,X2,Low conf,+13,30.03.19,lose
+serie-a,Udinese,Genoa,12,Low conf,-5,30.03.19,win
+serie-a,Juventus,Empoli,1,Med conf,-4,30.03.19,win
+serie-a,Sampdoria,Milan,X2,Low conf,-3,30.03.19,lose
+premier-league,Fulham,Man City,2,Med conf,-11,30.03.19,win
+premier-league,Brighton,Southampton,12,Med conf,+9,30.03.19,win
+premier-league,Burnley,Wolves,1X,High conf,+33,30.03.19,win
+premier-league,Crystal Palace,Huddersfield,1X,High conf,+10,30.03.19,win
+premier-league,Leicester,Bournemouth,1,High conf,+31,30.03.19,win
+premier-league,Man United,Watford,1,High conf,+16,30.03.19,win
+premier-league,West Ham,Everton,1,Low conf,+16,30.03.19,lose
+primera-division,Alaves,Eibar,X2,Low conf,+15,09.03.19,win
+primera-division,Ath Madrid,Leganes,1,High conf,+25,09.03.19,win
+primera-division,Barcelona,Vallecano,1,High conf,+4,09.03.19,win
+primera-division,Getafe,Huesca,1X,Low conf,-17,09.03.19,win
+liga-1,FC Hermannstadt,Gaz Metan Medias,1X,Low conf,-4,09.03.19,lose
+liga-1,CFR Cluj,Sepsi,1X,Med conf,+32,09.03.19,win
+primeira-liga,Maritimo,Moreirense,12,Med conf,+11,09.03.19,win
+primeira-liga,Sp Braga,Guimaraes,<2.5,Low conf,-6,09.03.19,win
+primeira-liga,Boavista,Sp Lisbon,X2,Low conf,-25,09.03.19,win
+ligue-1,Strasbourg,Lyon,12,Low conf,-11,09.03.19,lose
+ligue-1,Amiens,Nimes,1X,High conf,+24,09.03.19,win
+ligue-1,Dijon,Reims,X2,Med conf,+8,09.03.19,win
+ligue-1,Monaco,Bordeaux,X2,High conf,+45,09.03.19,win
+mls,Chicago Fire,Orlando City,1X,Med conf,+62,09.03.19,win
+mls,New England Revolution,Columbus Crew,1,Low conf,+22,09.03.19,lose
+mls,FC Dallas,Los Angeles Galaxy,2,Low conf,-490,09.03.19,lose
+bundesliga,Bayern Munich,Wolfsburg,1,Med conf,+36,09.03.19,win
+bundesliga,Dortmund,Stuttgart,1,High conf,+13,09.03.19,win
+bundesliga,RB Leipzig,Augsburg,<2.5,Low conf,+3,09.03.19,win
+bundesliga,Freiburg,Hertha,2,Low conf,+13,09.03.19,lose
+bundesliga,Mainz,M'gladbach,12,Low conf,-17,09.03.19,win
+serie-a,Parma,Genoa,2,Med conf,+35,09.03.19,lose
+serie-a,Chievo,Milan,1X,Med conf,+35,09.03.19,lose
+premier-league,Crystal Palace,Brighton,<2.5,Med conf,+14,09.03.19,lose
+premier-league,Cardiff,West Ham,X2,Low conf,-11,09.03.19,lose
+premier-league,Huddersfield,Bournemouth,1X,Med conf,+15,09.03.19,lose
+premier-league,Leicester,Fulham,1X,Med conf,-2,09.03.19,win
+premier-league,Newcastle,Everton,12,Med conf,+16,09.03.19,win
+premier-league,Southampton,Tottenham,1,Med conf,+37,09.03.19,win
+premier-league,Man City,Watford,1,Med conf,-12,09.03.19,win
+primera-division,Valencia,Sevilla,X2,Med conf,+17,08.12.18,win
+primera-division,Villarreal,Celta,12,Med conf,+5,08.12.18,win
+primera-division,Espanol,Barcelona,<2.5,Low conf,+7,08.12.18,lose
+primera-division,Ath Madrid,Alaves,1,Low conf,-27,08.12.18,win
+liga-1,FC Hermannstadt,Din. Bucuresti,1X,Low conf,-2,08.12.18,win
+liga-1,CFR Cluj,Gaz Metan Medias,1X,Med conf,-11,08.12.18,win
+primeira-liga,Belenenses,Chaves,1X,Low conf,+26,08.12.18,win
+primeira-liga,Tondela,Sp Braga,1X,Med conf,+40,08.12.18,lose
+primeira-liga,Setubal,Benfica,12,Med conf,+43,08.12.18,win
+jupiler-league,Genk,Kortrijk,1,Low conf,-22,08.12.18,lose
+jupiler-league,Oostende,Lokeren,1X,Low conf,-12,08.12.18,win
+jupiler-league,Mouscron,Waregem,2,Med conf,+22,08.12.18,lose
+jupiler-league,St Truiden,Standard,12,Low conf,+16,08.12.18,lose
+ligue-1,Guingamp,Amiens,12,Med conf,+18,08.12.18,win
+ligue-1,Rennes,Dijon,X2,Low conf,+17,08.12.18,lose
+super-lig,Trabzonspor,Konyaspor,X2,Low conf,+7,08.12.18,lose
+super-lig,Galatasaray,Rizespor,1X,Med conf,-12,08.12.18,win
+championship,Birmingham,Bristol City,1X,Med conf,+65,08.12.18,lose
+championship,Brentford,Swansea,X2,High conf,+39,08.12.18,win
+championship,Leeds,QPR,X2,Low conf,+3,08.12.18,lose
+championship,Middlesbrough,Blackburn,1,Med conf,+10,08.12.18,lose
+championship,Millwall,Hull,12,High conf,+21,08.12.18,lose
+championship,Norwich,Bolton,12,Med conf,-6,08.12.18,win
+championship,Nott'm Forest,Preston,12,High conf,+19,08.12.18,win
+championship,Sheffield Weds,Rotherham,<2.5,Med conf,+12,08.12.18,lose
+championship,Stoke,Ipswich,12,High conf,+14,08.12.18,win
+championship,Wigan,Derby,X2,Low conf,-7,08.12.18,win
+championship,Reading,Sheffield United,X2,High conf,+16,08.12.18,win
+bundesliga,Leverkusen,Augsburg,>2.5,Low conf,+5,08.12.18,lose
+bundesliga,Bayern Munich,Nurnberg,1X,High conf,+95,08.12.18,win
+bundesliga,Schalke 04,Dortmund,X2,Med conf,+4,08.12.18,win
+bundesliga,Freiburg,RB Leipzig,1,Med conf,+40,08.12.18,win
+bundesliga,Wolfsburg,Hoffenheim,1X,Low conf,-6,08.12.18,win
+bundesliga,Hertha,Ein Frankfurt,1,Med conf,+24,08.12.18,win
+serie-a,Napoli,Frosinone,1X,Med conf,-17,08.12.18,win
+serie-a,Cagliari,Roma,X2,High conf,+75,08.12.18,win
+serie-a,Lazio,Sampdoria,X,Low conf,+23,08.12.18,win
+premier-league,Bournemouth,Liverpool,X2,Low conf,-31,08.12.18,win
+premier-league,Arsenal,Huddersfield,1X,Med conf,+34,08.12.18,win
+premier-league,Burnley,Brighton,2,Low conf,+23,08.12.18,lose
+premier-league,Cardiff,Southampton,1X,Med conf,+22,08.12.18,win
+premier-league,Man United,Fulham,1X,High conf,+4,08.12.18,win
+premier-league,West Ham,Crystal Palace,1X,Med conf,+19,08.12.18,win
+premier-league,Chelsea,Man City,2,High conf,+34,08.12.18,lose
+premier-league,Leicester,Tottenham,>2.5,Low conf,+7,08.12.18,lose
+primera-division,Valladolid,Leganes,1,Low conf,+20,01.12.18,lose
+primera-division,Getafe,Espanol,<2.5,Low conf,+1,01.12.18,lose
+primera-division,Real Madrid,Valencia,1X,Low conf,-25,01.12.18,win
+primera-division,Celta,Huesca,<2.5,Low conf,-6,01.12.18,win
+liga-1,Viitorul Constanta,Din. Bucuresti,1,Med conf,+14,01.12.18,win
+liga-1,FC Hermannstadt,Concordia,12,Med conf,-2,01.12.18,win
+primeira-liga,Maritimo,Setubal,<2.5,Low conf,-9,01.12.18,win
+primeira-liga,Benfica,Feirense,1,Med conf,-16,01.12.18,win
+primeira-liga,Sp Braga,Moreirense,12,Low conf,-33,01.12.18,win
+jupiler-league,Charleroi,Club Brugge,1X,Med conf,+50,01.12.18,win
+jupiler-league,Kortrijk,Mouscron,>2.5,Med conf,+19,01.12.18,lose
+jupiler-league,Waregem,Oostende,>2.5,Med conf,+27,01.12.18,lose
+jupiler-league,Antwerp,St Truiden,>2.5,Med conf,+54,01.12.18,win
+ligue-1,Lille,Lyon,1X,Med conf,+17,01.12.18,win
+ligue-1,Angers,Caen,X2,Low conf,-51,01.12.18,win
+ligue-1,Guingamp,Nice,1,Low conf,+17,01.12.18,win
+ligue-1,Monaco,Montpellier,X2,Low conf,-17,01.12.18,win
+ligue-1,Nimes,Amiens,12,Med conf,-3,01.12.18,win
+championship,Birmingham,Preston,1,Med conf,+68,01.12.18,win
+championship,Blackburn,Sheffield Weds,12,High conf,+39,01.12.18,win
+championship,Bolton,Wigan,1X,Low conf,-1,01.12.18,win
+championship,Derby,Swansea,1,Med conf,+23,01.12.18,win
+championship,Norwich,Rotherham,1X,Med conf,-15,01.12.18,win
+championship,Nott'm Forest,Ipswich,1X,Low conf,-14,01.12.18,win
+championship,QPR,Hull,1,Med conf,+11,01.12.18,lose
+championship,Reading,Stoke,12,High conf,+28,01.12.18,lose
+championship,Middlesbrough,Aston Villa,<2.5,Low conf,+5,01.12.18,lose
+championship,Sheffield United,Leeds,1,High conf,+39,01.12.18,lose
+bundesliga,Dortmund,Freiburg,1X,Low conf,-23,01.12.18,win
+bundesliga,Hannover,Hertha,X2,High conf,+30,01.12.18,win
+bundesliga,Stuttgart,Augsburg,12,Med conf,+4,01.12.18,win
+bundesliga,Werder Bremen,Bayern Munich,1,Med conf,+60,01.12.18,lose
+bundesliga,Hoffenheim,Schalke 04,X,Low conf,-5,01.12.18,win
+serie-a,Spal,Empoli,1,High conf,+40,01.12.18,lose
+serie-a,Fiorentina,Juventus,2,Low conf,-13,01.12.18,win
+serie-a,Sampdoria,Bologna,1X,Low conf,-15,01.12.18,win
+premier-league,Crystal Palace,Burnley,2,Med conf,+59,01.12.18,lose
+premier-league,Huddersfield,Brighton,X2,Med conf,+22,01.12.18,win
+premier-league,Leicester,Watford,>2.5,Med conf,+13,01.12.18,lose
+premier-league,Man City,Bournemouth,12,High conf,-5,01.12.18,win
+premier-league,Newcastle,West Ham,1X,Med conf,+5,01.12.18,lose
+premier-league,Southampton,Man United,X2,Med conf,+16,01.12.18,win
+primera-division,Getafe,Valencia,1X,Low conf,-12,10.11.18,lose
+primera-division,Ath Madrid,Ath Bilbao,1X,Med conf,-12,10.11.18,win
+primera-division,Girona,Leganes,1,Low conf,+6,10.11.18,lose
+primera-division,Valladolid,Eibar,X2,Low conf,+3,10.11.18,win
+liga-1,Astra,Poli Iasi,1X,Med conf,+59,10.11.18,lose
+liga-1,FC Viitorul,Concordia,1X,High conf,+5,10.11.18,win
+liga-1,CFR Cluj,Calarasi,1,Low conf,-23,10.11.18,lose
+primeira-liga,Aves,Rio Ave,1X,Low conf,-2,10.11.18,win
+primeira-liga,Belenenses,Boavista,X2,Med conf,+62,10.11.18,win
+primeira-liga,Nacional,Maritimo,X2,Low conf,-5,10.11.18,lose
+primeira-liga,Porto,Sp Braga,1,Med conf,+3,10.11.18,win
+jupiler-league,Charleroi,Club Brugge,1X,Med conf,+46,10.11.18,win
+jupiler-league,Eupen,St Truiden,>2.5,Med conf,+59,10.11.18,win
+jupiler-league,Waregem,Lokeren,X2,Low conf,+10,10.11.18,lose
+jupiler-league,Club Brugge,Waasland-Beveren,12,Low conf,-4,10.11.18,win
+ligue-1,Guingamp,Lyon,12,Low conf,-27,10.11.18,win
+ligue-1,Angers,Montpellier,X2,Low conf,+24,10.11.18,lose
+ligue-1,Nimes,Nice,X2,Med conf,+13,10.11.18,win
+ligue-1,St Etienne,Reims,1,Low conf,-14,10.11.18,win
+ligue-1,Toulouse,Amiens,1,Low conf,+3,10.11.18,lose
+championship,Birmingham,Hull,X2,Med conf,+40,10.11.18,win
+championship,Blackburn,Rotherham,1,High conf,+36,10.11.18,lose
+championship,Bolton,Swansea,1X,High conf,+38,10.11.18,lose
+championship,Bristol City,Preston,X2,Med conf,+23,10.11.18,win
+championship,Derby,Aston Villa,<2.5,Low conf,+7,10.11.18,lose
+championship,Middlesbrough,Wigan,1X,Med conf,+4,10.11.18,win
+championship,Norwich,Millwall,1X,High conf,+33,10.11.18,win
+championship,Nott'm Forest,Stoke,1,Med conf,+32,10.11.18,lose
+championship,QPR,Brentford,<2.5,Med conf,+14,10.11.18,lose
+championship,Reading,Ipswich,X2,Med conf,+18,10.11.18,win
+championship,West Brom,Leeds,1X,Low conf,-1,10.11.18,win
+bundesliga,Hoffenheim,Augsburg,1,Med conf,+34,10.11.18,win
+bundesliga,Nurnberg,Stuttgart,1,Med conf,+21,10.11.18,lose
+bundesliga,Fortuna Dusseldorf,Hertha,X2,Med conf,+7,10.11.18,lose
+bundesliga,Freiburg,Mainz,X2,High conf,+35,10.11.18,win
+bundesliga,Werder Bremen,M'gladbach,X2,High conf,+77,10.11.18,win
+bundesliga,Dortmund,Bayern Munich,1X,Med conf,+17,10.11.18,win
+serie-a,Torino,Parma,1X,High conf,+25,10.11.18,lose
+serie-a,Spal,Cagliari,2,Med conf,+39,10.11.18,lose
+serie-a,Genoa,Napoli,X2,Med conf,+3,10.11.18,win
+premier-league,Huddersfield,West Ham,>2.5,Med conf,+10,10.11.18,lose
+premier-league,Leicester,Burnley,1X,Med conf,+4,10.11.18,win
+premier-league,Newcastle,Bournemouth,12,Med conf,+10,10.11.18,win
+premier-league,Southampton,Watford,X2,Med conf,+16,10.11.18,win
+premier-league,Crystal Palace,Tottenham,12,High conf,+15,10.11.18,win
+premier-league,Cardiff,Brighton,>2.5,Low conf,-5,10.11.18,win
+primera-division,Real Madrid,Levante,1,Med conf,-20,20.10.18,lose
+primera-division,Valencia,Leganes,1X,Med conf,-11,20.10.18,win
+primera-division,Villarreal,Ath Madrid,X2,Low conf,-21,20.10.18,win
+primera-division,Barcelona,Sevilla,X2,Low conf,+20,20.10.18,lose
+liga-1,FC Hermannstadt,Astra,X2,Med conf,+62,20.10.18,win
+liga-1,FC Viitorul,Sepsi,X2,High conf,+45,20.10.18,win
+jupiler-league,Mouscron,Standard,X2,High conf,+27,20.10.18,win
+jupiler-league,Antwerp,Lokeren,1,High conf,+7,20.10.18,win
+jupiler-league,Kortrijk,St Truiden,1X,Low conf,+27,20.10.18,win
+jupiler-league,Genk,Eupen,<2.5,Med conf,+15,20.10.18,lose
+ligue-1,Paris SG,Amiens,1X,Low conf,-47,20.10.18,win
+ligue-1,Caen,Guingamp,X2,Low conf,+24,20.10.18,win
+ligue-1,Dijon,Lille,>1.5,High conf,+1,20.10.18,win
+ligue-1,Nantes,Toulouse,1,Low conf,+2,20.10.18,win
+ligue-1,Reims,Angers,>1.5,Med conf,-1,20.10.18,win
+ligue-1,Strasbourg,Monaco,1X,Low conf,-12,20.10.18,win
+championship,Blackburn,Leeds,12,Med conf,+64,20.10.18,win
+championship,Aston Villa,Swansea,1X,Med conf,+13,20.10.18,win
+championship,Brentford,Bristol City,1X,Med conf,+8,20.10.18,lose
+championship,Hull,Preston,X2,Low conf,-3,20.10.18,win
+championship,Ipswich,QPR,<2.5,Med conf,+9,20.10.18,win
+championship,Nott'm Forest,Norwich,1,Med conf,+25,20.10.18,lose
+championship,Reading,Millwall,<2.5,Med conf,+10,20.10.18,lose
+championship,Rotherham,Bolton,X2,Med conf,+12,20.10.18,win 
+championship,Stoke,Birmingham,<2.5,Low conf,+2,20.10.18,lose
+championship,Wigan,West Brom,1X,High conf,+38,20.10.18,win
+championship,Derby,Sheffield United,1,Med conf,+29,20.10.18,win
+bundesliga,Leverkusen,Hannover,1X,High conf,+28,20.10.18,win
+bundesliga,Augsburg,RB Leipzig,X2,Low conf,-9,20.10.18,win
+bundesliga,Nurnberg,Hoffenheim,BTTS,Med conf,+39,20.10.18,win
+bundesliga,Stuttgart,Dortmund,1,High conf,+66,20.10.18,lose
+bundesliga,Wolfsburg,Bayern Munich,X2,Low conf,-28,20.10.18,win
+bundesliga,Schalke 04,Werder Bremen,>2.5,Med conf,+54,20.10.18,lose
+serie-a,Roma,Spal,1,High conf,+15,20.10.18,lose
+serie-a,Juventus,Genoa,1X,High conf,+15,20.10.18,win
+serie-a,Udinese,Napoli,X2,Med conf,-5,20.10.18,win
+premier-league,Chelsea,Man United,12,High conf,+17,20.10.18,lose
+premier-league,Bournemouth,Southampton,1X,Med conf,+4,20.10.18,win
+premier-league,Cardiff,Fulham,12,High conf,+23,20.10.18,win
+premier-league,Man City,Burnley,12,High conf,-9,20.10.18,win
+premier-league,Newcastle,Brighton,12,High conf,+23,20.10.18,win
+premier-league,West Ham,Tottenham,1X,Med conf,+23,20.10.18,lose
+premier-league,Wolves,Watford,12,Med conf,+6,20.10.18,win
+premier-league,Huddersfield,Liverpool,12,Med conf,-6,20.10.18,win
+primera-division,Celta,Alaves,1X,Low conf,-24,19.10.18,lose
+liga-1,CFR Cluj,Poli Iasi,1X,Low conf,-23,19.10.18,win
+liga-1,Voluntari,Concordia,>2.5,Low conf,+7,19.10.18,win
+jupiler-league,Club Brugge,Waasland-Beveren,1,High conf,+71,19.10.18,lose
+ligue-1,Lyon,Nimes,1,Low conf,-22,19.10.18,win
+mls,Real Salt Lake,New England Revolution,X2,Low conf,-1,19.10.18,lose
+super-lig,Galatasaray,Bursaspor,1,Med conf,+14,19.10.18,lose
+championship,Sheffield Weds,Middlesbrough,X2,Low conf,-18,19.10.18,win
+bundesliga,Ein Frankfurt,Fortuna Dusseldorf,1X,High conf,+30,19.10.18,win
+mls,Toronto FC,Vancouver Whitecaps,1,High conf,+38,07.10.18,lose
+mls,Philadelphia Union,Minnesota,1,High conf,+80,07.10.18,win
+mls,FC Dallas,Orlando City,1,High conf,+26,07.10.18,win
+mls,Sporting Kansas City,Los Angeles Galaxy,1X,High conf,+24,07.10.18,win
+mls,Colorado Rapids,Los Angeles FC,>2.5,Low conf,+17,07.10.18,win
+mls,Real Salt Lake,Portland Timbers,1X,Med conf,+22,07.10.18,lose
+mls,San Jose Earthquakes,New York Red Bulls,2,Med conf,+33,07.10.18,win
+primera-division,Girona,Eibar,2,Low conf,+203,06.10.18,win
+primera-division,Getafe,Levante,2,Med conf,+368,06.10.18,win
+primera-division,Alaves,Real Madrid,X,Low conf,+17,06.10.18,lose
+primera-division,Leganes,Vallecano,1X,Low conf,-41,06.10.18,win
+liga-1,CS U. Craiova,FC Hermannstadt,1X,High conf,+9,06.10.18,win
+liga-1,Astra,CFR Cluj,2,Med conf,+62,06.10.18,win
+primeira-liga,Setubal,Moreirense,1X,High conf,+56,06.10.18,win
+primeira-liga,Maritimo,Guimaraes,1,High conf,+138,06.10.18,lose
+primeira-liga,Sp Braga,Rio Ave,1,High conf,+26,06.10.18,lose
+jupiler-league,Eupen,Antwerp,>2.5,Low conf,-32,06.10.18,win
+jupiler-league,Lokeren,Kortrijk,>2.5,Low conf,+22,06.10.18,win
+jupiler-league,St Truiden,Mouscron,1X,Med conf,+51,06.10.18,win
+jupiler-league,Waasland-Beveren,Oostende,2,High conf,+163,06.10.18,lose
+ligue-1,Lille,St Etienne,12,Med conf,+26,06.10.18,win
+ligue-1,Amiens,Dijon,12,Low conf,+17,06.10.18,win
+ligue-1,Angers,Strasbourg,X2,Low conf,+14,06.10.18,win
+ligue-1,Guingamp,Montpellier,X2,Med conf,+37,06.10.18,win
+ligue-1,Nimes,Reims,X2,High conf,+81,06.10.18,win
+mls,Montreal Impact,Columbus Crew,1X,High conf,+45,06.10.18,win
+mls,Atlanta United,New England Revolution,1,Med conf,-22,06.10.18,win
+super-lig,Kayserispor,Rizespor,<2.5,Low conf,+20,06.10.18,lose
+super-lig,Bursaspor,Ankaragucu,2,Med conf,+239,06.10.18,lose
+super-lig,Antalyaspor,Galatasaray,<2.5,Low conf,-40,06.10.18,win
+championship,Leeds,Brentford,BTTS,Med conf,+32,06.10.18,win
+championship,Birmingham,Rotherham,1,Med conf,+8,06.10.18,win
+championship,Middlesbrough,Nott'm Forest,<2.5,Med conf,+49,06.10.18,win
+championship,Millwall,Aston Villa,X2,Low conf,-56,06.10.18,lose
+championship,Norwich,Stoke,12,High conf,+43,06.10.18,win
+championship,Preston,Wigan,X2,Med conf,+64,06.10.18,lose
+championship,QPR,Derby,BTTS,Low conf,+14,06.10.18,win
+championship,Sheffield United,Hull,1X,Med conf,+13,06.10.18,win
+championship,Swansea,Ipswich,<2.5,Med conf,+27,06.10.18,lose
+championship,West Brom,Reading,1,Med conf,-5,06.10.18,win
+championship,Bolton,Blackburn,<2.5,Med conf,+45,06.10.18,win
+bundesliga,Dortmund,Augsburg,1,High conf,+46,06.10.18,win
+bundesliga,Fortuna Dusseldorf,Schalke 04,BTTS,High conf,+73,06.10.18,lose
+bundesliga,Mainz,Hertha,1,Med conf,+143,06.10.18,lose
+bundesliga,Hannover,Stuttgart,X2,Low conf,+13,06.10.18,lose
+bundesliga,Bayern Munich,M'gladbach,BTTS,High conf,+73,06.10.18,lose
+serie-a,Cagliari,Bologna,X2,Med conf,+66,06.10.18,lose
+serie-a,Udinese,Juventus,<2.5,Low conf,+15,06.10.18,win
+serie-a,Empoli,Roma,2,Med conf,+10,06.10.18,win
+premier-league,Burnley,Huddersfield,1X,Med conf,-11,06.10.18,win
+premier-league,Crystal Palace,Wolves,12,Med conf,+20,06.10.18,win
+premier-league,Leicester,Everton,X2,High conf,+100,06.10.18,win
+premier-league,Tottenham,Cardiff,1,High conf,+25,06.10.18,win
+premier-league,Watford,Bournemouth,X2,High conf,+107,06.10.18,win
+premier-league,Man United,Newcastle,X2,High conf,+219,06.10.18,lose
+primera-division,Ath Bilbao,Sociedad,X,Med conf,+201,05.10.18,lose
+liga-1,Poli Iasi,FC Viitorul,1,High conf,+221,05.10.18,lose
+primeira-liga,Feirense,Belenenses,1,High conf,+144,05.10.18,lose
+primeira-liga,Tondela,Nacional,12,High conf,+48,05.10.18,lose
+jupiler-league,Club Brugge,Charleroi,1,Med conf,+49,05.10.18,win
+ligue-1,Toulouse,Nice,X2,High conf,+80,05.10.18,win
+bundesliga,Werder Bremen,Wolfsburg,>2.5,High conf,+74,05.10.18,lose
+serie-a,Torino,Frosinone,<2.5,Low conf,+15,05.10.18,lose
+premier-league,Brighton,West Ham,12,Med conf,+46,05.10.18,win
+mls,DC United,Montreal Impact,12,Med conf,+23,30.09.18,win
+mls,Columbus Crew,Philadelphia Union,>2.5,Med conf,+41,30.09.18,lose
+mls,Toronto FC,New England Revolution,12,Med conf,+14,30.09.18,win
+mls,Minnesota,New York City,1X,High conf,+79,30.09.18,win
+mls,Houston Dynamo,San Jose Earthquakes,1,High conf,+52,30.09.18,win
+mls,Los Angeles Galaxy,Vancouver Whitecaps,1X,High conf,+47,30.09.18,win
+mls,Portland Timbers,FC Dallas,2,Low conf,+91,30.09.18,lose
+primera-division,Barcelona,Ath Bilbao,1,Low conf,-60,29.09.18,lose
+primera-division,Eibar,Sevilla,X2,Low conf,-17,29.09.18,win
+primera-division,Real Madrid,Ath Madrid,1,Med conf,+50,29.09.18,lose
+primera-division,Sociedad,Valencia,<2.5,Low conf,+19,29.09.18,win
+liga-1,Voluntari,FC Botosani,X,Low conf,-10,29.09.18,win
+primeira-liga,Moreirense,Feirense,X,Low conf,+78,29.09.18,lose
+primeira-liga,Rio Ave,Boavista,1X,High conf,+57,29.09.18,win
+primeira-liga,Sp Lisbon,Maritimo,1X,High conf,+29,29.09.18,win
+jupiler-league,Genk,Waregem,1,Low conf,-61,29.09.18,win
+jupiler-league,Charleroi,Lokeren,1X,Med conf,-20,29.09.18,win
+jupiler-league,Mouscron,Waasland-Beveren,12,High conf,+41,29.09.18,win
+jupiler-league,Club Brugge,Club Brugge,1,Low conf,+26,29.09.18,win
+ligue-1,Nice,Paris SG,BTTS,Low conf,-29,29.09.18,lose
+ligue-1,Angers,Guingamp,1,Low conf,+22,29.09.18,lose
+ligue-1,Caen,Amiens,1,Med conf,+83,29.09.18,win
+ligue-1,Lyon,Nantes,1,Med conf,-14,29.09.18,lose
+ligue-1,Reims,Bordeaux,1,Low conf,+47,29.09.18,lose
+ligue-1,Strasbourg,Dijon,12,Low conf,-15,29.09.18,win
+mls,Chicago Fire,Los Angeles FC,2,Low conf,-23,29.09.18,lose
+mls,Seattle Sounders,Colorado Rapids,>2.5,Med conf,+41,29.09.18,win
+super-lig,Alanyaspor,Akhisar Belediyespor,12,High conf,+90,29.09.18,win
+super-lig,Trabzonspor,Kasimpasa,1X,High conf,+48,29.09.18,win
+super-lig,Besiktas,Kayserispor,1X,High conf,+25,29.09.18,win
+championship,Birmingham,Ipswich,<2.5,Med conf,+41,29.09.18,lose
+championship,Blackburn,Nott'm Forest,12,Med conf,+30,29.09.18,lose
+championship,Bolton,Derby,1X,High conf,+106,29.09.18,win
+championship,Brentford,Reading,X,Low conf,+253,29.09.18,win
+championship,Hull,Middlesbrough,12,Med conf,+26,29.09.18,lose
+championship,Millwall,Sheffield United,X2,Low conf,-13,29.09.18,win
+championship,Norwich,Wigan,1X,High conf,+51,29.09.18,win
+championship,Preston,West Brom,X2,Low conf,-17,29.09.18,win
+championship,Swansea,QPR,1X,High conf,+53,29.09.18,win
+championship,Rotherham,Stoke,X2,Low conf,-30,29.09.18,win
+bundesliga,Hoffenheim,RB Leipzig,BTTS,Med conf,+70,29.09.18,win
+bundesliga,Nurnberg,Fortuna Dusseldorf,1,High conf,+120,29.09.18,win
+bundesliga,Schalke 04,Mainz,1,High conf,+62,29.09.18,win
+bundesliga,Stuttgart,Werder Bremen,BTTS,Med conf,+70,29.09.18,win
+bundesliga,Wolfsburg,M'gladbach,2,Low conf,-5,29.09.18,lose
+bundesliga,Leverkusen,Dortmund,BTTS,Med conf,+70,29.09.18,win
+serie-a,Roma,Lazio,<2.5,Med conf,+31,29.09.18,lose
+serie-a,Juventus,Napoli,12,Med conf,+9,29.09.18,win
+serie-a,Inter,Cagliari,X2,Low conf,+182,29.09.18,lose
+premier-league,Arsenal,Watford,X,Low conf,+262,29.09.18,lose
+premier-league,Everton,Fulham,X2,High conf,+163,29.09.18,lose
+premier-league,Huddersfield,Tottenham,X2,Med conf,+15,29.09.18,win
+premier-league,Man City,Brighton,1X,High conf,-5,29.09.18,win
+premier-league,Newcastle,Leicester,12,High conf,+70,29.09.18,win
+premier-league,Wolves,Southampton,1,High conf,+84,29.09.18,win
+premier-league,Chelsea,Liverpool,1X,Low conf,-16,29.09.18,win
+premier-league,West Ham,Man United,X,Low conf,+138,29.09.18,lose
+mls,New York Red Bulls,Toronto FC,X,Low conf,+233,23.09.18,lose
+mls,Atlanta United,Real Salt Lake,X,Low conf,+319,23.09.18,lose
+mls,Columbus Crew,Colorado Rapids,>2.5,Low conf,+15,23.09.18,win
+mls,Montreal Impact,New York City,1,High conf,+124,23.09.18,lose
+mls,New England Revolution,Chicago Fire,1,High conf,+46,23.09.18,lose
+mls,Orlando City,Houston Dynamo,2,Low conf,+135,23.09.18,lose
+mls,Minnesota,Portland Timbers,1,High conf,+122,23.09.18,win
+primera-division,Vallecano,Alaves,2,High conf,+284,22.09.18,win
+primera-division,Celta,Valladolid,2,Low conf,+340,22.09.18,lose
+primera-division,Eibar,Leganes,1,Med conf,+47,22.09.18,win
+primera-division,Getafe,Ath Madrid,X2,Low conf,-51,22.09.18,win
+primera-division,Real Madrid,Espanol,1,Med conf,-8,22.09.18,win
+liga-1,FC Hermannstadt,CFR Cluj,X2,High conf,+34,22.09.18,win
+liga-1,FC Botosani,Concordia,1,Med conf,+45,22.09.18,lose
+liga-1,CS U. Craiova,FC Viitorul,X,Low conf,-6,22.09.18,lose
+primeira-liga,Maritimo,Belenenses,<2.5,Low conf,-9,22.09.18,win
+primeira-liga,Setubal,Porto,X,Low conf,+281,22.09.18,lose
+jupiler-league,Waasland-Beveren,Charleroi,12,High conf,+60,22.09.18,lose
+jupiler-league,Eupen,Oostende,2,Med conf,+136,22.09.18,win
+jupiler-league,Lokeren,Mouscron,12,Med conf,+25,22.09.18,lose
+jupiler-league,St Truiden,Antwerp,X2,Med conf,+44,22.09.18,lose
+ligue-1,Lille,Nantes,12,High conf,+34,22.09.18,win
+ligue-1,Angers,Toulouse,12,Low conf,-104,22.09.18,lose
+ligue-1,Montpellier,Nice,X2,High conf,+97,22.09.18,lose
+ligue-1,Reims,Dijon,1X,Med conf,+11,22.09.18,win
+ligue-1,St Etienne,Caen,1X,Med conf,+10,22.09.18,win
+ligue-1,Strasbourg,Amiens,1,Med conf,+27,22.09.18,win
+mls,Los Angeles FC,San Jose Earthquakes,1X,High conf,+7,22.09.18,win
+super-lig,Yeni Malatyaspor,Rizespor,1X,Low conf,-9,22.09.18,win
+super-lig,Kayserispor,Konyaspor,<2.5,Med conf,+62,22.09.18,win
+championship,Aston Villa,Sheffield Weds,X2,Low conf,+74,22.09.18,win
+championship,Derby,Brentford,X2,High conf,+47,22.09.18,lose
+championship,Ipswich,Bolton,>2.5,Low conf,-10,22.09.18,lose
+championship,Leeds,Birmingham,>2.5,Low conf,-10,22.09.18,win
+championship,Middlesbrough,Swansea,12,High conf,+35,22.09.18,lose
+championship,Nott'm Forest,Rotherham,X2,Low conf,+49,22.09.18,lose
+championship,Reading,Hull,X2,High conf,+65,22.09.18,lose
+championship,Sheffield United,Preston,X2,High conf,+116,22.09.18,lose
+championship,Stoke,Blackburn,12,High conf,+51,22.09.18,win
+championship,West Brom,Millwall,1X,Med conf,-7,22.09.18,win
+championship,QPR,Norwich,12,High conf,+54,22.09.18,win
+bundesliga,Hoffenheim,Dortmund,BTTS,High conf,+79,22.09.18,win
+bundesliga,Augsburg,Werder Bremen,BTTS,High conf,+79,22.09.18,win
+bundesliga,Nurnberg,Hannover,1,High conf,+157,22.09.18,win
+bundesliga,Hertha,M'gladbach,2,Low conf,--,22.09.18,lose
+bundesliga,Wolfsburg,Freiburg,1X,High conf,+48,22.09.18,lose
+bundesliga,Schalke 04,Bayern Munich,2,Low conf,--,22.09.18,win
+serie-a,Parma,Cagliari,1,High conf,+135,22.09.18,win
+serie-a,Fiorentina,Spal,X2,Med conf,+111,22.09.18,lose
+serie-a,Sampdoria,Inter,1,High conf,+293,22.09.18,lose
+premier-league,Fulham,Watford,1,High conf,+178,22.09.18,lose
+premier-league,Burnley,Bournemouth,2,High conf,+132,22.09.18,lose
+premier-league,Cardiff,Man City,12,Med conf,-35,22.09.18,win
+premier-league,Crystal Palace,Newcastle,12,Med conf,+15,22.09.18,lose
+premier-league,Leicester,Huddersfield,1X,High conf,+20,22.09.18,win
+premier-league,Liverpool,Southampton,1,High conf,+19,22.09.18,win
+premier-league,Man United,Wolves,12,Med conf,-1,22.09.18,lose
+premier-league,Brighton,Tottenham,1X,Med conf,+107,22.09.18,lose
+primera-division,Ath Madrid,Eibar,<2.5,Med conf,+52,15.09.18,win
+primera-division,Sociedad,Barcelona,2,High conf,+27,15.09.18,win
+primera-division,Valencia,Betis,1X,Low conf,-96,15.09.18,win
+primera-division,Ath Bilbao,Real Madrid,1,Low conf,+347,15.09.18,lose
+liga-1,Calarasi,FC Botosani,X,Med conf,+144,15.09.18,lose
+liga-1,Gaz Metan Medias,CS U. Craiova,1X,Med conf,+55,15.09.18,win
+jupiler-league,Standard,Charleroi,1,Med conf,+24,15.09.18,lose
+jupiler-league,Oostende,Club Brugge,<2.5,Low conf,+4,15.09.18,win
+jupiler-league,Waasland-Beveren,Eupen,X2,Low conf,-71,15.09.18,win
+jupiler-league,Genk,Anderlecht,2,Med conf,+249,15.09.18,lose
+ligue-1,Caen,Lyon,X2,High conf,+23,15.09.18,win
+ligue-1,Amiens,Lille,X2,Med conf,+17,15.09.18,win
+ligue-1,Dijon,Angers,>1.5,Med conf,-8,15.09.18,win
+ligue-1,Montpellier,Strasbourg,1X,Low conf,-25,15.09.18,win
+ligue-1,Toulouse,Monaco,12,Med conf,+30,15.09.18,lose
+mls,Colorado Rapids,Atlanta United,2,Low conf,-11,15.09.18,win
+mls,Philadelphia Union,Montreal Impact,<2.5,Low conf,+18,16.09.18,lose
+mls,Toronto FC,Los Angeles Galaxy,1,Med conf,+34,16.09.18,win
+mls,FC Dallas,Columbus Crew,1X,Med conf,+27,16.09.18,win
+mls,Houston Dynamo,Portland Timbers,12,High conf,+55,16.09.18,win
+mls,Real Salt Lake,Minnesota,1,Med conf,+9,16.09.18,lose
+mls,Vancouver Whitecaps,Seattle Sounders,12,High conf,+61,16.09.18,win
+mls,Los Angeles FC,New England Revolution,1,Med conf,+26,16.09.18,lose
+mls,San Jose Earthquakes,Sporting Kansas City,X2,Low conf,-37,16.09.18,win
+super-lig,Ankaragucu,Akhisar Belediyespor,2,Low conf,-4,15.09.18,lose
+super-lig,Besiktas,Yeni Malatyaspor,12,High conf,+18,15.09.18,win
+championship,Bolton,QPR,12,High conf,+53,15.09.18,win
+championship,Brentford,Wigan,1,Med conf,+34,15.09.18,win
+championship,Bristol City,Sheffield United,1X,Med conf,+12,15.09.18,win
+championship,Hull,Ipswich,1X,Med conf,-4,15.09.18,win
+championship,Millwall,Leeds,1,Low conf,+100,15.09.18,lose
+championship,Norwich,Middlesbrough,X2,High conf,+61,15.09.18,lose
+championship,Preston,Reading,1X,Med conf,-18,15.09.18,lose
+championship,Rotherham,Derby,X2,High conf,+48,15.09.18,lose
+championship,Sheffield Weds,Stoke,1,Low conf,+102,15.09.18,lose
+championship,Swansea,Nott'm Forest,X2,High conf,+84,15.09.18,win
+championship,Blackburn,Aston Villa,1,Med conf,+124,15.09.18,lose
+bundesliga,Bayern Munich,Leverkusen,1,High conf,+23,15.09.18,win
+bundesliga,Fortuna Dusseldorf,Hoffenheim,2,Low conf,--,15.09.18,lose
+bundesliga,Mainz,Augsburg,BTTS,Low conf,-5,15.09.18,win
+bundesliga,RB Leipzig,Hannover,BTTS,Low conf,-5,15.09.18,win
+bundesliga,Wolfsburg,Hertha,1,High conf,+109,15.09.18,lose
+bundesliga,M'gladbach,Schalke 04,<2.5,High conf,+95,15.09.18,lose
+serie-a,Inter,Parma,<2.5,Med conf,+41,15.09.18,win
+serie-a,Napoli,Fiorentina,1,Low conf,--,15.09.18,win
+serie-a,Frosinone,Sampdoria,2,High conf,+116,15.09.18,win
+premier-league,Tottenham,Liverpool,2,High conf,+131,15.09.18,win
+premier-league,Bournemouth,Leicester,X2,High conf,+91,15.09.18,lose
+premier-league,Chelsea,Cardiff,1,High conf,+19,15.09.18,win
+premier-league,Huddersfield,Crystal Palace,<2.5,Low conf,-10,15.09.18,win
+premier-league,Man City,Fulham,1X,High conf,+12,15.09.18,win
+premier-league,Newcastle,Arsenal,2,High conf,+92,15.09.18,win
+premier-league,Watford,Man United,12,Med conf,+9,15.09.18,win
+primera-division,Huesca,Vallecano,1,Med conf,+93,14.09.18,lose
+liga-1,Concordia,Sepsi,2,Med conf,+140,14.09.18,win
+liga-1,Din. Bucuresti,Astra,2,Med conf,+217,14.09.18,win
+jupiler-league,Club Brugge,Lokeren,1X,Low conf,+2,14.09.18,win
+ligue-1,Nice,Rennes,12,High conf,+53,14.09.18,win
+ligue-1,Paris SG,St Etienne,1X,Low conf,-149,14.09.18,win
+super-lig,Galatasaray,Kasimpasa,X,Med conf,+332,14.09.18,lose
+championship,Birmingham,West Brom,12,High conf,+53,14.09.18,lose
+bundesliga,Dortmund,Ein Frankfurt,1,High conf,+42,14.09.18,win
+mls,Montreal Impact,New York Red Bulls,X2,Low conf,-17,02.09.18,lose
+mls,New England Revolution,Portland Timbers,X2,Low conf,+35,02.09.18,win
+mls,Orlando City,Philadelphia Union,>2.5,Low conf,+15,02.09.18,win
+mls,Columbus Crew,New York City,>2.5,Low conf,+15,02.09.18,win
+mls,FC Dallas,Houston Dynamo,X,Low conf,+157,02.09.18,loss
+mls,Toronto FC,Los Angeles FC,1,Med conf,+67,02.09.18,loss
+primera-division,Celta,Ath Madrid,2,High conf,+78,01.09.18,lose
+primera-division,Real Madrid,Leganes,1,Med conf,-21,01.09.18,win
+liga-1,FC Hermannstadt,Gaz Metan Medias,1X,Med conf,+37,01.09.18,lose
+liga-1,Astra,Voluntari,1,Med conf,+16,01.09.18,lose
+liga-1,CS U. Craiova,Din. Bucuresti,X,Low conf,+154,01.09.18,lig
+primeira-liga,Belenenses,Setubal,1X,Med conf,+32,01.09.18,win
+primeira-liga,Sp Lisbon,Feirense,1X,Med conf,-9,01.09.18,win
+jupiler-league,Eupen,Standard,X2,Med conf,-9,01.09.18,lose
+jupiler-league,Lokeren,Waasland-Beveren,1,High conf,+113,01.09.18,win
+jupiler-league,St Truiden,Oostende,<2.5,Med conf,+63,01.09.18,win
+jupiler-league,Charleroi,Mouscron,X2,Low conf,+84,01.09.18,lose
+ligue-1,Nimes,Paris SG,1X,Low conf,+89,01.09.18,lose
+ligue-1,Angers,Lille,1,Low conf,-1,01.09.18,win
+ligue-1,Dijon,Caen,1,High conf,+90,01.09.18,lose
+ligue-1,Guingamp,Toulouse,X2,Med conf,+76,01.09.18,win
+ligue-1,Reims,Montpellier,X2,Med conf,+49,01.09.18,win
+ligue-1,Strasbourg,Nantes,1,Low conf,0,01.09.18,lose
+mls,Seattle Sounders,Sporting Kansas City,1,Med conf,+78,01.09.18,win
+super-lig,Akhisar Belediyespor,Sivasspor,1,Med conf,+62,01.09.18,lose
+super-lig,Fenerbahce,Kayserispor,X2,Low conf,10,01.09.18,win
+super-lig,Trabzonspor,Galatasaray,<2.5,Low conf,-32,01.09.18,lose
+championship,Birmingham,QPR,1,Med conf,+49,01.09.18,lose
+championship,Brentford,Nott'm Forest,1,High conf,+85,01.09.18,win
+championship,Hull,Derby,1,Med conf,+138,01.09.18,lose
+championship,Preston,Bolton,1X,Med conf,-13,01.09.18,win
+championship,Reading,Sheffield Weds,X2,High conf,+73,01.09.18,win
+championship,Sheffield United,Aston Villa,>2.5,High conf,+78,01.09.18,win
+championship,West Brom,Stoke,1,Med conf,+59,01.09.18,win
+championship,Wigan,Rotherham,X2,Low conf,+103,01.09.18,lose
+championship,Millwall,Swansea,1X,Med conf,-6,01.09.18,lose
+bundesliga,Hoffenheim,Freiburg,BTTS,High conf,+95,01.09.18,win
+bundesliga,Leverkusen,Wolfsburg,1X,High conf,+43,01.09.18,lose
+bundesliga,Ein Frankfurt,Werder Bremen,1,High conf,+145,01.09.18,lose
+bundesliga,Augsburg,M'gladbach,X2,Low conf,10,01.09.18,win
+bundesliga,Nurnberg,Mainz,2,Low conf,10,01.09.18,lose
+bundesliga,Stuttgart,Bayern Munich,BTTS,High conf,+95,01.09.18,lose
+serie-a,Bologna,Inter,X2,High conf,+38,01.09.18,win
+serie-a,Parma,Juventus,2,High conf,+17,01.09.18,1.00
+premier-league,Leicester,Liverpool,2,High conf,+24,01.09.18,win
+premier-league,Brighton,Fulham,12,Med conf,+16,01.09.18,lose
+premier-league,Chelsea,Bournemouth,1X,High conf,+24,01.09.18,win
+premier-league,Crystal Palace,Southampton,<2.5,High conf,+90,01.09.18,win
+premier-league,Everton,Huddersfield,1X,High conf,+35,01.09.18,win
+premier-league,West Ham,Wolves,1X,High conf,+75,01.09.18,lose
+premier-league,Man City,Newcastle,1X,High conf,+10,01.09.18,win
+primera-division,Getafe,Valladolid,<2.5,Med conf,+23,31.08.18,win
+primera-division,Eibar,Sociedad,BTTS,Med conf,+62,31.08.18,win
+primera-division,Villarreal,Girona,1X,High conf,+34,31.08.18,lose
+liga-1,Sepsi,Calarasi,X2,Low conf,+56,31.08.18,lose
+primeira-liga,Chaves,Sp Braga,2,Med conf,+42,31.08.18,win
+primeira-liga,Guimaraes,Tondela,1,Med conf,+36,31.08.18,win
+jupiler-league,Waregem,Club Brugge,<2.5,Med conf,+64,31.08.18,lose
+ligue-1,Lyon,Nice,X2,Med conf,+217,31.08.18,win
+super-lig,Yeni Malatyaspor,Konyaspor,<2.5,Low conf,-32,31.08.18,win
+championship,Leeds,Middlesbrough,1,Med conf,+73,31.08.18,win
+bundesliga,Hannover,Dortmund,2,Low conf,0,31.08.18,lose
+serie-a,Milan,Roma,2,High conf,+192,31.08.18,lose
+primera-division,Levante,Celta,2,Low conf,+129,27.08.18,win
+primera-division,Ath Bilbao,Huesca,12,Med conf,+13,27.08.18,lose
+liga-1,FC Botosani,Sepsi,X2,Med conf,+75,27.08.18,win
+liga-1,Voluntari,CS U. Craiova,2,Low conf,-95,27.08.18,win
+primeira-liga,Moreirense,Belenenses,X2,Low conf,-17,27.08.18,win
+serie-a,Roma,Atalanta,1,Med conf,+34,27.08.18,lose
+premier-league,Man United,Tottenham,12,Low conf,--,27.08.18,win
+mls,Portland Timbers,Seattle Sounders,1,High conf,+98,27.08.18,lose
+mls,New York Red Bulls,DC United,1X,High conf,+95,27.08.18,win
+primera-division,Espanol,Valencia,X,Low conf,-28,26.08.18,loss
+primera-division,Girona,Real Madrid,X2,Low conf,-44,26.08.18,win
+primera-division,Sevilla,Villarreal,1X,Med conf,+9,26.08.18,win
+liga-1,Gaz Metan Medias,CFR Cluj,12,Low conf,-103,26.08.18,win
+liga-1,FC Viitorul,FC Steaua Bucuresti,1X,Low conf,+17,26.08.18,loss
+primeira-liga,Feirense,Boavista,<2.5,Med conf,+37,26.08.18,win
+primeira-liga,Setubal,Nacional,1,Med conf,+43,26.08.18,loss
+primeira-liga,Tondela,Rio Ave,<2.5,Med conf,+53,26.08.18,win
+primeira-liga,Sp Braga,Aves,1X,Med conf,-34,26.08.18,win
+jupiler-league,Club Brugge,Anderlecht,X,Low conf,-207,26.08.18,loss
+jupiler-league,Gent,Lokeren,1,Low conf,-100,26.08.18,win
+jupiler-league,Genk,Waasland-Beveren,1,Low conf,0.0,26.08.18,win
+ligue-1,Lille,Guingamp,1X,Med conf,+30,26.08.18,win
+ligue-1,Bordeaux,Monaco,1X,Med conf,+42,26.08.18,win
+ligue-1,Marseille,Rennes,1,Med conf,+21,26.08.18,loss
+super-lig,Sivasspor,Kasimpasa,1,High conf,+78,26.08.18,loss
+super-lig,Besiktas,Antalyaspor,X,Low conf,+308,26.08.18,loss
+super-lig,Konyaspor,Bursaspor,X,Low conf,+148,26.08.18,win
+championship,Rotherham,Millwall,X2,High conf,+61,26.08.18,loss
+bundesliga,Mainz,Stuttgart,1,Low conf,+78,26.08.18,win
+bundesliga,Dortmund,RB Leipzig,1,Low conf,-229,26.08.18,win
+serie-a,Cagliari,Sassuolo,2,Med conf,+160,26.08.18,lose
+serie-a,Fiorentina,Chievo,1X,Med conf,+7,26.08.18,win
+serie-a,Frosinone,Bologna,1,Med conf,+186,26.08.18,lose
+serie-a,Genoa,Empoli,<2.5,Low conf,-10,26.08.18,loss
+serie-a,Inter,Torino,X2,High conf,+170,26.08.18,win
+serie-a,Udinese,Sampdoria,<2.5,Low conf,-10,26.08.18,win
+premier-league,Watford,Crystal Palace,2,Med conf,+161,26.08.18,loss
+premier-league,Fulham,Burnley,1X,High conf,+54,26.08.18,win
+premier-league,Newcastle,Chelsea,<2.5,Low conf,-10,26.08.18,loss
+mls,Philadelphia Union,New England Revolution,>2.5,Med conf,+23,26.08.18,lose
+mls,Toronto FC,Montreal Impact,1X,High conf,+39,26.08.18,win
+mls,Sporting Kansas City,Minnesota,1,Med conf,-4,26.08.18,win
+mls,Colorado Rapids,Real Salt Lake,1,Med conf,+84,26.08.18,lose
+mls,San Jose Earthquakes,Vancouver Whitecaps,1,Med conf,+73,26.08.18,lose
+primera-division,Alaves,Betis,12,Med conf,+31,25.08.18,lose
+primera-division,Ath Madrid,Vallecano,2,Low conf,+1685,25.08.18,lose
+primera-division,Valladolid,Barcelona,2,Low conf,-145,25.08.18,win
+liga-1,Calarasi,Poli Iasi,1,Low conf,--,25.08.18,win
+liga-1,Din. Bucuresti,FC Hermannstadt,1,High conf,+43,25.08.18,win
+primeira-liga,Benfica,Sp Lisbon,1,High conf,+67,25.08.18,lose
+primeira-liga,Porto,Guimaraes,<2.5,Low conf,+17,25.08.18,lose
+jupiler-league,Standard,St Truiden,12,Low conf,-108,25.08.18,win
+jupiler-league,Antwerp,Club Brugge,<2.5,Low conf,--,25.08.18,win
+jupiler-league,Mouscron,Eupen,1,Low conf,+48,25.08.18,lose
+jupiler-league,Charleroi,Kortrijk,2,High conf,+423,25.08.18,win
+ligue-1,Paris SG,Angers,X2,Low conf,+639,25.08.18,lose
+ligue-1,Amiens,Reims,>1.5,Med conf,-26,25.08.18,win
+ligue-1,Montpellier,St Etienne,BTTS,Med conf,+62,25.08.18,lose
+ligue-1,Nantes,Caen,1,High conf,+71,25.08.18,win
+ligue-1,Nice,Dijon,1,High conf,+62,25.08.18,lose
+ligue-1,Toulouse,Nimes,X2,Low conf,-29,25.08.18,lose
+super-lig,Kayserispor,Yeni Malatyaspor,X2,High conf,+103,25.08.18,win
+championship,Aston Villa,Reading,1,Med conf,+23,25.08.18,lose
+championship,Blackburn,Brentford,X2,High conf,+74,25.08.18,lose
+championship,Bolton,Sheffield United,1,Med conf,+294,25.08.18,lose
+championship,Derby,Preston,1,Med conf,+107,25.08.18,win
+championship,Norwich,Leeds,X2,High conf,+79,25.08.18,win
+championship,QPR,Wigan,1,Low conf,-22,25.08.18,win
+championship,Sheffield Weds,Ipswich,X2,High conf,+94,25.08.18,lose
+championship,Stoke,Hull,>2.5,Med conf,+31,25.08.18,lose
+championship,Swansea,Bristol City,X2,High conf,+96,25.08.18,win
+championship,Nott'm Forest,Birmingham,1X,High conf,+48,25.08.18,win
+bundesliga,Fortuna Dusseldorf,Augsburg,<2.5,Med conf,+65,25.08.18,lose
+bundesliga,Freiburg,Ein Frankfurt,1,Low conf,-165,25.08.18,lose
+bundesliga,Wolfsburg,Schalke 04,2,High conf,+125,25.08.18,lose
+bundesliga,Werder Bremen,Hannover,12,High conf,+57,25.08.18,lose
+bundesliga,M'gladbach,Leverkusen,1,Med conf,+41,25.08.18,win
+serie-a,Juventus,Lazio,1X,Med conf,+2,25.08.18,win
+serie-a,Napoli,Milan,1,Med conf,+27,25.08.18,win
+premier-league,Wolves,Man City,2,Med conf,-7,25.08.18,lose
+premier-league,Arsenal,West Ham,<2.5,Low conf,-10,25.08.18,lose
+premier-league,Bournemouth,Everton,1,Med conf,+129,25.08.18,lose
+premier-league,Huddersfield,Cardiff,2,Med conf,+227,25.08.18,lose
+premier-league,Southampton,Leicester,12,High conf,+67,25.08.18,win
+premier-league,Liverpool,Brighton,1,Med conf,-17,25.08.18,win
+mls,Orlando City,Atlanta United,X2,Med conf,+46,25.08.18,win
+mls,Los Angeles Galaxy,Los Angeles FC,1X,High conf,+95,25.08.18,win
+primera-division,Getafe,Eibar,2,Low conf,+64,24.08.18,lose
+primera-division,Leganes,Sociedad,X2,High conf,+40,24.08.18,win
+liga-1,Concordia,Astra,12,Low conf,-72,24.08.18,win
+primeira-liga,Maritimo,Chaves,2,Low conf,+143,24.08.18,lose
+jupiler-league,Oostende,Waregem,2,High conf,+106,24.08.18,lose
+ligue-1,Lyon,Strasbourg,1,Med conf,+1,24.08.18,win
+mls,Chicago Fire,Columbus Crew,1,Med conf,+139,24.08.18,lose
+mls,Houston Dynamo,FC Dallas,1X,Med conf,+12,24.08.18,win
+championship,Middlesbrough,West Brom,1,Low conf,-63,24.08.18,win
+bundesliga,Bayern Munich,Hoffenheim,1,Med conf,-31,24.08.18,win
+championship,Aston Villa,Brentford,1X,High conf,+73,22.08.18,win
+championship,Blackburn,Reading,1,Med conf,+27,22.08.18,lose
+championship,Norwich,Preston,1,Med conf,+100,22.08.18,win
+championship,Sheffield Weds,Millwall,X2,High conf,+71,22.08.18,lose
+championship,Bolton,Birmingham,X2,High conf,+74,22.08.18,lose
+championship,Stoke,Wigan,12,Low conf,-39,22.08.18,win
+primera-division,Valencia,Ath Madrid,12,Low conf,-26,20.08.18,lose
+primera-division,Ath Bilbao,Leganes,1X,Med conf,-14,20.08.18,win
+liga-1,FC Hermannstadt,Voluntari,X,Low conf,+132,20.08.18,lose
+liga-1,CS U. Craiova,Concordia,1,High conf,+65,20.08.18,lose
+primeira-liga,Guimaraes,Feirense,12,Med conf,-4,20.08.18,win
+serie-a,Atalanta,Frosinone,<2.5,Low conf,+11,20.08.18,lose
+premier-league,Crystal Palace,Liverpool,12,High conf,+12,20.08.18,win
+mls,Los Angeles FC,Colorado Rapids,1X,Med conf,-13,20.08.18,win
+mls,DC United,New England Revolution,1,Med conf,+65,20.08.18,win
+primera-division,Eibar,Huesca,1X,Low conf,-25,19.08.18,lose
+primera-division,Vallecano,Sevilla,X2,Low conf,-59,19.08.18,win
+primera-division,Real Madrid,Getafe,1,Med conf,-7,19.08.18,win
+liga-1,FC Steaua Bucuresti,Sepsi,<2.5,Med conf,+44,19.08.18,win
+liga-1,CFR Cluj,Din. Bucuresti,1X,High conf,+47,19.08.18,win
+primeira-liga,Nacional,Moreirense,<2.5,Med conf,+37,19.08.18,lose
+primeira-liga,Rio Ave,Maritimo,12,Med conf,+24,19.08.18,win
+primeira-liga,Belenenses,Porto,X2,Low conf,-67,19.08.18,win
+jupiler-league,Antwerp,Club Brugge,1X,High conf,+80,19.08.18,win
+jupiler-league,Genk,Charleroi,1X,Low conf,-43,19.08.18,win
+jupiler-league,Eupen,Gent,<2.5,Low conf,+8,19.08.18,lose
+ligue-1,Strasbourg,St Etienne,X2,Low conf,-1,19.08.18,win
+ligue-1,Toulouse,Bordeaux,X2,Low conf,-78,19.08.18,lose
+ligue-1,Nimes,Marseille,X2,Med conf,-6,19.08.18,lose
+mls,Atlanta United,Columbus Crew,>1.5,High conf,+25,19.08.18,win
+super-lig,Akhisar Belediyespor,Rizespor,>2.5,Low conf,+9,19.08.18,lose
+super-lig,Antalyaspor,Konyaspor,1,Med conf,+40,19.08.18,lose
+championship,Brentford,Sheffield Weds,X2,Med conf,+121,19.08.18,lose
+serie-a,Torino,Roma,2,Med conf,+86,19.08.18,win
+serie-a,Bologna,Spal,X2,High conf,+75,19.08.18,win
+serie-a,Empoli,Cagliari,<2.5,Low conf,+11,19.08.18,win
+serie-a,Sassuolo,Inter,1X,Med conf,+95,19.08.18,win
+premier-league,Burnley,Watford,<2.5,Med conf,+29,19.08.18,lose
+premier-league,Man City,Huddersfield,1,Med conf,+10,19.08.18,win
+premier-league,Brighton,Man United,12,High conf,+34,19.08.18,win
+primera-division,Celta,Espanol,1X,Low conf,+18,18.08.18,win
+primera-division,Villarreal,Sociedad,12,Low conf,+22,18.08.18,win
+primera-division,Barcelona,Alaves,1,High conf,+84,18.08.18,win
+liga-1,Astra,Calarasi,1X,High conf,+26,18.08.18,win
+liga-1,FC Viitorul,Gaz Metan Medias,<2.5,Low conf,+20,18.08.18,win
+primeira-liga,Chaves,Portimonense,12,Med conf,+58,18.08.18,win
+primeira-liga,Boavista,Benfica,X2,Med conf,+33,18.08.18,win
+primeira-liga,Sp Lisbon,Setubal,1,High conf,+84,18.08.18,win
+jupiler-league,Lokeren,Standard,1X,Med conf,+85,18.08.18,lose
+jupiler-league,Club Brugge,Waregem,1X,Med conf,+47,18.08.18,win
+jupiler-league,Waasland-Beveren,St Truiden,1,Med conf,+62,18.08.18,lose
+jupiler-league,Kortrijk,Oostende,X,Med conf,+194,18.08.18,lose
+ligue-1,Guingamp,Paris SG,X,Low conf,+22,18.08.18,lose
+ligue-1,Amiens,Montpellier,>1.5,Med conf,+39,18.08.18,win
+ligue-1,Caen,Nice,>1.5,Med conf,+42,18.08.18,win
+ligue-1,Dijon,Nantes,1,Med conf,+45,18.08.18,win
+ligue-1,Monaco,Lille,1X,Low conf,+16,18.08.18,win
+ligue-1,Rennes,Angers,X2,Med conf,+42,18.08.18,lose
+super-lig,Bursaspor,Kayserispor,12,Low conf,-13,18.08.18,lose
+super-lig,Yeni Malatyaspor,Fenerbahce,12,Low conf,-13,18.08.18,win
+championship,Bristol City,Middlesbrough,1,Med conf,+30,18.08.18,lose
+championship,Hull,Blackburn,12,Low conf,-4,18.08.18,win
+championship,Ipswich,Aston Villa,1,Med conf,+42,18.08.18,lose
+championship,Leeds,Rotherham,1X,Low conf,-4,18.08.18,win
+championship,Millwall,Derby,>2.5,Low conf,-3,18.08.18,win
+championship,Reading,Bolton,1,Med conf,+42,18.08.18,lose
+championship,Sheffield United,Norwich,12,Low conf,-4,18.08.18,win
+championship,West Brom,QPR,2,Low conf,-4,18.08.18,lose
+championship,Wigan,Nott'm Forest,12,Low conf,-4,18.08.18,lose
+championship,Preston,Stoke,X2,Med conf,+61,18.08.18,win
+serie-a,Chievo,Juventus,2,Med conf,+7,18.08.18,win
+serie-a,Lazio,Napoli,2,Med conf,+54,18.08.18,win
+premier-league,Cardiff,Newcastle,1X,High conf,+77,18.08.18,win
+premier-league,Everton,Southampton,2,High conf,+75,18.08.18,lose
+premier-league,Leicester,Wolves,1,Med conf,+62,18.08.18,win
+premier-league,Tottenham,Fulham,1X,Med conf,+62,18.08.18,win
+premier-league,West Ham,Bournemouth,X2,Med conf,+52,18.08.18,win
+premier-league,Chelsea,Arsenal,<2.5,Low conf,-5,18.08.18,lose
+mls,Seattle Sounders,Los Angeles Galaxy,X2,High conf,+147,18.08.18,lose
+mls,Philadelphia Union,New York City,>1.5,High conf,+25,19.08.18,win
+mls,Vancouver Whitecaps,New York Red Bulls,1,Med conf,+145,19.08.18,lose
+mls,Montreal Impact,Chicago Fire,>1.5,High conf,+25,19.08.18,win
+mls,FC Dallas,Minnesota,1X,Med conf,-21,19.08.18,win
+mls,Sporting Kansas City,Portland Timbers,1X,Med conf,-4,19.08.18,win
+mls,Houston Dynamo,Real Salt Lake,X2,High conf,+177,19.08.18,win
+mls,San Jose Earthquakes,Toronto FC,1X,Med conf,+38,19.08.18,win
+primera-division,Girona,Valladolid,1X,Low conf,-8,17.08.18,win
+primera-division,Betis,Levante,1X,Low conf,+21,17.08.18,lose
+liga-1,Poli Iasi,FC Botosani,1X,High conf,+55,17.08.18,win
+primeira-liga,Aves,Tondela,<2.5,Low conf,-4,17.08.18,lose
+jupiler-league,Anderlecht,Mouscron,1X,High conf,+11,17.08.18,win
+ligue-1,Reims,Lyon,1,Med conf,+45,17.08.18,win
+super-lig,Trabzonspor,Sivasspor,1X,Med conf,+47,17.08.18,win
+championship,Birmingham,Swansea,>2.5,Low conf,+5,17.08.18,lose
+liga-1,Din. Bucuresti,FC Viitorul,12,High conf,+40,13.08.18,win
+primeira-liga,Portimonense,Boavista,1X,Low conf,+18,13.08.18,1.59
+jupiler-league,Gent,Waasland-Beveren,2,Low conf,+746,13.08.18,win
+mls,DC United,Orlando City,1X,Med conf,+7,13.08.18,win
+mls,Seattle Sounders,FC Dallas,2,Med conf,+211,13.08.18,lose
+liga-1,Calarasi,CS U. Craiova,X2,High conf,+35,12.08.18,win
+liga-1,Voluntari,CFR Cluj,2,Med conf,+9,12.08.18,win
+liga-1,Gaz Metan Medias,FC Steaua Bucuresti,12,High conf,+75,12.08.18,win
+primeira-liga,Feirense,Rio Ave,<2.5,Med conf,+33,12.08.18,win
+primeira-liga,Moreirense,Sp Lisbon,2,Low conf,+27,12.08.18,win
+primeira-liga,Sp Braga,Nacional,1,High conf,+82,12.08.18,win
+jupiler-league,Oostende,Genk,1,Low conf,+217,12.08.18,lose
+jupiler-league,Charleroi,Anderlecht,X2,Low conf,-81,12.08.18,win
+jupiler-league,Gent,Waasland-Beveren,X2,Low conf,+130,12.08.18,lose
+ligue-1,Lyon,Amiens,1,High conf,+84,12.08.18,win
+ligue-1,Bordeaux,Strasbourg,1,High conf,+72,12.08.18,lose
+ligue-1,Paris SG,Caen,1,Med conf,+45,12.08.18,win
+premier-league,Liverpool,West Ham,<2.5,Low conf,+23,12.08.18,lose
+premier-league,Southampton,Burnley,1,Med conf,+68,12.08.18,lose
+premier-league,Arsenal,Man City,2,High conf,+79,12.08.18,win
+liga-1,Concordia,FC Hermannstadt,1,Med conf,+59,11.08.18,win
+liga-1,Sepsi,Poli Iasi,<2.5,High conf,+90,11.08.18,lose
+primeira-liga,Setubal,Aves,1X,Med conf,+67,11.08.18,win
+primeira-liga,Tondela,Belenenses,1,Low conf,-27,11.08.18,lose
+primeira-liga,Porto,Chaves,1,High conf,+71,11.08.18,win
+jupiler-league,Standard,Club Brugge,2,Low conf,-7,11.08.18,lose
+jupiler-league,St Truiden,Lokeren,2,Low conf,-24,11.08.18,lose
+jupiler-league,Waregem,Eupen,1X,Med conf,-0,11.08.18,win
+jupiler-league,Mouscron,Antwerp,12,Med conf,+15,11.08.18,win
+ligue-1,Nantes,Monaco,X2,Low conf,+24,11.08.18,win
+ligue-1,Angers,Nimes,X2,Med conf,+60,11.08.18,win
+ligue-1,Lille,Rennes,X2,Med conf,+42,11.08.18,lose
+ligue-1,Montpellier,Dijon,1,High conf,+84,11.08.18,lose
+ligue-1,Nice,Reims,>1.5,Med conf,+43,11.08.18,lose
+ligue-1,St Etienne,Guingamp,1X,Med conf,+42,11.08.18,win
+super-lig,Rizespor,Kasimpasa,1,Med conf,+40,11.08.18,lose
+super-lig,Sivasspor,Alanyaspor,X2,Low conf,+17,11.08.18,lose
+super-lig,Fenerbahce,Bursaspor,1,High conf,+76,11.08.18,win
+championship,Aston Villa,Wigan,1X,High conf,+85,11.08.18,win
+championship,Blackburn,Millwall,12,Low conf,+25,11.08.18,lose
+championship,Bolton,Bristol City,>2.5,Low conf,+11,11.08.18,win
+championship,Middlesbrough,Birmingham,1X,High conf,+78,11.08.18,win
+championship,Norwich,West Brom,1,High conf,+86,11.08.18,lose
+championship,Nott'm Forest,Reading,1,Med conf,+42,11.08.18,win
+championship,QPR,Sheffield United,>2.5,Low conf,+19,11.08.18,win
+championship,Rotherham,Ipswich,>2.5,Low conf,+14,11.08.18,lose
+championship,Sheffield Weds,Hull,1,Med conf,+48,11.08.18,lose
+championship,Stoke,Brentford,12,Med conf,+49,11.08.18,lose
+championship,Swansea,Preston,12,Low conf,+24,11.08.18,win
+championship,Derby,Leeds,1X,High conf,+75,11.08.18,lose
+premier-league,Newcastle,Tottenham,12,High conf,+77,11.08.18,win
+premier-league,Bournemouth,Cardiff,12,Med conf,+46,11.08.18,win
+premier-league,Fulham,Crystal Palace,1X,Med conf,+70,11.08.18,lose
+premier-league,Huddersfield,Chelsea,2,High conf,+79,11.08.18,win
+premier-league,Watford,Brighton,1,Med conf,+68,11.08.18,win
+premier-league,Wolves,Everton,<2.5,Low conf,+23,11.08.18,lose
+liga-1,FC Botosani,Astra,1,Med conf,+93,10.08.18,lose
+primeira-liga,Benfica,Guimaraes,1,High conf,+83,10.08.18,win
+jupiler-league,Club Brugge,Kortrijk,1,Med conf,+54,10.08.18,win
+ligue-1,Marseille,Toulouse,1,High conf,+86,10.08.18,win
+premier-league,Man United,Leicester,12,High conf,+77,10.08.18,win
+liga-1,Gaz Metan Medias,Din. Bucuresti,2,Med conf,+87,06.08.18,lose
+mls,New York Red Bulls,Los Angeles FC,>1.5,High conf,+11,06.08.18,win
+championship,Hull,Aston Villa,>2.5,Low conf,+8,06.08.18,win
+liga-1,FC Steaua Bucuresti,Poli Iasi,X2,High conf,+95,05.08.18,lose
+jupiler-league,Anderlecht,Oostende,12,Med conf,-8,05.08.18,win
+jupiler-league,Genk,St Truiden,1X,Med conf,+64,05.08.18,win
+jupiler-league,Mouscron,Club Brugge,2,Low conf,-52,05.08.18,win 
+championship,Leeds,Stoke,12,Med conf,+47,05.08.18,win
+liga-1,FC Viitorul,Voluntari,1,Med conf,+32,06.08.18,win
+liga-1,Astra,Sepsi,1,Med conf,+34,04.08.18,lose
+liga-1,CFR Cluj,Concordia,1,Med conf,+1,04.08.18,win
+jupiler-league,Eupen,Charleroi,1,Low conf,+55,04.08.18,lose
+jupiler-league,Antwerp,Kortrijk,2,Med conf,+290,04.08.18,lose
+jupiler-league,Club Brugge,Lokeren,12,Med conf,+65,04.08.18,win
+jupiler-league,Gent,Waregem,1,Med conf,+34,04.08.18,lose
+mls,Atlanta United,Toronto FC,1X,High conf,+30,04.08.18,win
+championship,Birmingham,Norwich,2,Med conf,+42,04.08.18,lose
+championship,Brentford,Rotherham,1,High conf,+87,04.08.18,win
+championship,Bristol City,Nott'm Forest,1X,High conf,+90,04.08.18,win
+championship,Ipswich,Blackburn,1X,Low conf,-4,04.08.18,win
+championship,Millwall,Middlesbrough,>2.5,Low conf,+24,04.08.18,win
+championship,Preston,QPR,1X,High conf,+90,04.08.18,win
+championship,West Brom,Bolton,12,Low conf,+24,04.08.18,win
+championship,Wigan,Sheffield Weds,2,Med conf,+44,04.08.18,lose
+liga-1,CS U. Craiova,FC Botosani,1X,Med conf,+21,03.08.18,win
+jupiler-league,Waasland-Beveren,Standard,1X,Med conf,+91,03.08.18,win
+championship,Reading,Derby,1,High conf,+72,03.08.18,lose
+mls,Los Angeles Galaxy,Orlando City,1,High conf,+17,30.07.18,win
+mls,Seattle Sounders,New York City,1X,High conf,+89,30.07.18,win
+mls,Portland Timbers,Houston Dynamo,X,Low conf,+143,29.07.18,lose
+mls,San Jose Earthquakes,Real Salt Lake,1,High conf,+95,29.07.18,lose
+mls,Vancouver Whitecaps,Minnesota,>1.5,High conf,+13,29.07.18,win
+mls,Sporting Kansas City,FC Dallas,X,Low conf,+107,29.07.18,lose
+mls,DC United,Colorado Rapids,1X,High conf,+19,29.07.18,win
+mls,Montreal Impact,Atlanta United,1,Med conf,+70,29.07.18,lose
+mls,New York Red Bulls,Columbus Crew,1,High conf,+75,29.07.18,lose
+mls,Toronto FC,Chicago Fire,1,High conf,+75,29.07.18,win
+primera-division,Sociedad,Leganes,X,Low conf,+208,12.05.18,lose
+primera-division,Alaves,Ath Bilbao,X,Low conf,+42,12.05.18,lose
+primera-division,Betis,Sevilla,X,Low conf,+119,12.05.18,lose
+primera-division,La Coruna,Villarreal,>2.5,Med conf,+36,12.05.18,win
+primera-division,Eibar,Las Palmas,1X,High conf,+7,12.05.18,win
+primera-division,Getafe,Ath Madrid,2,Low conf,+90,12.05.18,win
+primera-division,Girona,Valencia,1,Low conf,+75,12.05.18,lose
+primera-division,Real Madrid,Celta,>2.5,Med conf,+31,12.05.18,win
+primeira-liga,Guimaraes,Porto,12,Low conf,-42,12.05.18,win
+primeira-liga,Boavista,Belenenses,2,Low conf,+137,12.05.18,lose
+ligue-1,Amiens,Metz,1,Low conf,+4,12.05.18,win
+ligue-1,Angers,Nantes,X2,Low conf,-228,12.05.18,win
+ligue-1,Bordeaux,Toulouse,1X,High conf,+36,12.05.18,win
+ligue-1,Lille,Dijon,2,Low conf,+488,12.05.18,lose
+ligue-1,Monaco,St Etienne,1X,Med conf,+20,12.05.18,win
+ligue-1,Montpellier,Troyes,1,Low conf,+2,12.05.18,lose
+ligue-1,Nice,Caen,1X,Med conf,+8,12.05.18,win
+ligue-1,Paris SG,Rennes,1,Med conf,-28,12.05.18,lose
+ligue-1,Strasbourg,Lyon,X2,Low conf,-526,12.05.18,lose
+super-lig,Kasimpasa,Genclerbirligi,X,Low conf,+37,12.05.18,lose
+super-lig,Galatasaray,Yeni Malatyaspor,2,High conf,+1691,12.05.18,lose
+bundesliga,Hoffenheim,Dortmund,>2.5,Med conf,+62,12.05.18,win
+bundesliga,Leverkusen,Hannover,>2.5,Med conf,+62,12.05.18,win
+bundesliga,Bayern Munich,Stuttgart,12,Med conf,-11,12.05.18,win
+bundesliga,Schalke 04,Ein Frankfurt,12,Med conf,+35,12.05.18,win
+bundesliga,Mainz,Werder Bremen,1,Low conf,+50,12.05.18,lose
+bundesliga,Hamburg,M'gladbach,1,Med conf,+28,12.05.18,win
+bundesliga,Hertha,RB Leipzig,1,Low conf,+225,12.05.18,lose
+bundesliga,Freiburg,Augsburg,1,Low conf,+23,12.05.18,win
+bundesliga,Wolfsburg,FC Koln,>2.5,Med conf,+62,12.05.18,win
+serie-a,Benevento,Genoa,<2.5,Low conf,+1,12.05.18,win
+serie-a,Inter,Sassuolo,<2.5,Low conf,+1,12.05.18,lose
+primeira-liga,Aves,Chaves,12,Med conf,+27,11.05.18,win
+ligue-1,Guingamp,Marseille,>1.5,Med conf,-31,11.05.18,win
+primera-division,Malaga,Alaves,2,Low conf,+152,06.05.18,win
+primera-division,Ath Madrid,Espanol,1,Med conf,-1,06.05.18,lose
+primera-division,Las Palmas,Getafe,>2.5,Med conf,+31,06.05.18,lose
+primera-division,Barcelona,Real Madrid,X,Low conf,+186,06.05.18,win
+primeira-liga,Estoril,Setubal,1,Med conf,+85,06.05.18,win
+primeira-liga,Moreirense,Aves,12,Low conf,-52,06.05.18,win
+primeira-liga,Chaves,Maritimo,12,Low conf,-29,06.05.18,win
+primeira-liga,Porto,Feirense,1,High conf,+2,06.05.18,win
+ligue-1,St Etienne,Bordeaux,12,Low conf,-39,06.05.18,win
+ligue-1,Lyon,Troyes,1,Med conf,-27,06.05.18,win
+ligue-1,Caen,Monaco,X2,Low conf,-14,06.05.18,win
+ligue-1,Dijon,Guingamp,X,Low conf,+183,06.05.18,lose
+ligue-1,Metz,Angers,X,Low conf,+165,06.05.18,lose
+ligue-1,Nantes,Montpellier,1,Med conf,+84,06.05.18,lose
+ligue-1,Rennes,Strasbourg,>1.5,Low conf,-56,06.05.18,win
+ligue-1,Toulouse,Lille,>1.5,Low conf,-49,06.05.18,win
+ligue-1,Marseille,Nice,1X,Med conf,-7,06.05.18,win
+championship,Birmingham,Fulham,12,Med conf,-1,06.05.18,win
+championship,Bolton,Nott'm Forest,>2.5,Low conf,+4,06.05.18,win
+championship,Brentford,Hull,1X,Med conf,+20,06.05.18,win
+championship,Cardiff,Reading,1X,Med conf,-39,06.05.18,win
+championship,Derby,Barnsley,X2,Low conf,+62,06.05.18,lose
+championship,Ipswich,Middlesbrough,X2,Low conf,-15,06.05.18,win
+championship,Leeds,QPR,X2,Low conf,+7,06.05.18,lose
+championship,Millwall,Aston Villa,1X,High conf,+65,06.05.18,win
+championship,Preston,Burton,X2,Med conf,+115,06.05.18,lose
+championship,Sheffield Weds,Norwich,1X,High conf,+74,06.05.18,win
+championship,Sunderland,Wolves,2,Med conf,+12,06.05.18,lose
+serie-a,Udinese,Inter,12,Med conf,-7,06.05.18,win
+serie-a,Chievo,Crotone,X2,Med conf,+43,06.05.18,lose
+serie-a,Genoa,Fiorentina,X2,Med conf,+4,06.05.18,win
+serie-a,Lazio,Atalanta,<2.5,Med conf,+34,06.05.18,win
+serie-a,Napoli,Torino,<2.5,Med conf,+34,06.05.18,lose
+serie-a,Spal,Benevento,X,Med conf,+317,06.05.18,lose
+serie-a,Sassuolo,Sampdoria,1,Med conf,+85,06.05.18,win
+serie-a,Cagliari,Roma,2,Med conf,-2,06.05.18,win
+premier-league,Man City,Huddersfield,1X,Med conf,-25,06.05.18,win
+premier-league,Arsenal,Burnley,<2.5,Med conf,+57,06.05.18,lose
+premier-league,Chelsea,Liverpool,BTTS,Med conf,+65,06.05.18,lose
+primera-division,Girona,Eibar,2,Low conf,+137,05.05.18,win
+primera-division,Ath Bilbao,Betis,1X,Med conf,+12,05.05.18,win
+primera-division,Celta,La Coruna,1,Med conf,+15,05.05.18,lose
+primera-division,Villarreal,Valencia,1,Low conf,+15,05.05.18,win
+primeira-liga,Belenenses,Portimonense,1X,Med conf,+24,05.05.18,win
+primeira-liga,Tondela,Guimaraes,>2.5,Low conf,-62,05.05.18,win
+primeira-liga,Sp Lisbon,Benfica,>2.5,Low conf,-62,05.05.18,lose
+super-lig,Alanyaspor,Osmanlispor,X2,Low conf,-5,05.05.18,win
+super-lig,Trabzonspor,Kasimpasa,1,Low conf,-29,05.05.18,lose
+bundesliga,Dortmund,Mainz,2,Med conf,+823,05.05.18,win
+bundesliga,M'gladbach,Freiburg,1,Med conf,+46,05.05.18,win
+bundesliga,Ein Frankfurt,Hamburg,12,High conf,+35,05.05.18,win
+bundesliga,Augsburg,Schalke 04,1,Med conf,+213,05.05.18,lose
+bundesliga,FC Koln,Bayern Munich,2,Med conf,-19,05.05.18,win
+bundesliga,Hannover,Hertha,1,High conf,+176,05.05.18,win
+bundesliga,RB Leipzig,Wolfsburg,X2,Low conf,+62,05.05.18,win
+bundesliga,Stuttgart,Hoffenheim,1X,Med conf,+58,05.05.18,win
+bundesliga,Werder Bremen,Leverkusen,1,Med conf,+242,05.05.18,lose
+serie-a,Milan,Verona,12,Med conf,-34,05.05.18,win
+serie-a,Juventus,Bologna,1X,Low conf,-87,05.05.18,win
+premier-league,Stoke,Crystal Palace,X2,High conf,+86,05.05.18,win
+premier-league,Bournemouth,Swansea,<2.5,Med conf,+23,05.05.18,win
+premier-league,Leicester,West Ham,2,Med conf,+198,05.05.18,win
+premier-league,Watford,Newcastle,1,Med conf,+91,05.05.18,win
+premier-league,West Brom,Tottenham,BTTS,Med conf,+39,05.05.18,lose
+premier-league,Everton,Southampton,X2,High conf,+76,05.05.18,win
+primera-division,Eibar,Getafe,2,Low conf,+83,21.04.18,win
+primera-division,Celta,Valencia,1,Med conf,+108,21.04.18,lose
+primeira-liga,Pacos Ferreira,Belenenses,1X,Med conf,-7,21.04.18,win
+primeira-liga,Feirense,Guimaraes,2,Low conf,+96,21.04.18,lose
+primeira-liga,Estoril,Benfica,12,Low conf,-58,21.04.18,win
+ligue-1,Marseille,Lille,1,Med conf,+7,21.04.18,win
+ligue-1,Amiens,Strasbourg,2,Low conf,+19,21.04.18,lose
+ligue-1,Guingamp,Monaco,12,Low conf,-18,21.04.18,win
+ligue-1,Metz,Caen,>1.5,High conf,+24,21.04.18,win
+ligue-1,Toulouse,Angers,1X,High conf,+50,21.04.18,win
+super-lig,Genclerbirligi,Osmanlispor,1X,Low conf,-1,21.04.18,lose
+super-lig,Trabzonspor,Sivasspor,<2.5,Low conf,+8,21.04.18,win
+super-lig,Alanyaspor,Galatasaray,1,Low conf,+314,21.04.18,lose
+championship,Bolton,Wolves,1,Med conf,+274,21.04.18,lose
+championship,Brentford,QPR,1X,Med conf,+14,21.04.18,win
+championship,Bristol City,Hull,1,Med conf,+91,21.04.18,lose
+championship,Derby,Middlesbrough,<2.5,Low conf,+14,21.04.18,lose
+championship,Ipswich,Aston Villa,X2,Med conf,-18,21.04.18,win
+championship,Leeds,Barnsley,1X,Med conf,+33,21.04.18,win
+championship,Preston,Norwich,1,Med conf,+46,21.04.18,lose
+championship,Sheffield Weds,Reading,X2,Med conf,+34,21.04.18,lose
+championship,Sunderland,Burton,<2.5,Low conf,-32,21.04.18,lose
+championship,Cardiff,Nott'm Forest,1,Med conf,+22,21.04.18,win
+bundesliga,Ein Frankfurt,Hertha,12,Med conf,+10,21.04.18,win
+bundesliga,Hamburg,Freiburg,12,High conf,+41,21.04.18,win
+bundesliga,Hannover,Bayern Munich,12,High conf,+18,21.04.18,win
+bundesliga,RB Leipzig,Hoffenheim,X2,Med conf,+74,21.04.18,win
+bundesliga,Stuttgart,Werder Bremen,1,Med conf,+114,21.04.18,win
+bundesliga,Dortmund,Leverkusen,1,Med conf,+98,21.04.18,win
+serie-a,Spal,Roma,X2,Med conf,+11,21.04.18,win
+serie-a,Sassuolo,Fiorentina,1,High conf,+202,21.04.18,win
+serie-a,Milan,Benevento,<2.5,Low conf,-10,21.04.18,win
+premier-league,West Brom,Liverpool,1X,High conf,+173,21.04.18,win
+premier-league,Watford,Crystal Palace,12,High conf,+66,21.04.18,lose
+primera-division,Leganes,La Coruna,<2.5,Med conf,+57,20.04.18,win
+primeira-liga,Sp Braga,Maritimo,12,Low conf,-44,20.04.18,win
+ligue-1,Nantes,Rennes,X2,Med conf,+44,20.04.18,win
+championship,Millwall,Fulham,1X,Med conf,+50,20.04.18,lose
+bundesliga,M'gladbach,Wolfsburg,>2.5,Med conf,+46,20.04.18,win
+primera-division,Girona,Levante,1,Med conf,+2,31.03.18,lose
+primera-division,Ath Bilbao,Celta,X2,Med conf,+71,31.03.18,win
+primera-division,Las Palmas,Real Madrid,2,Med conf,-26,31.03.18,win
+primera-division,Sevilla,Barcelona,12,Med conf,+20,31.03.18,lose
+primeira-liga,Pacos Ferreira,Chaves,12,Med conf,+5,31.03.18,win
+primeira-liga,Portimonense,Moreirense,1,Med conf,+63,31.03.18,win
+primeira-liga,Benfica,Guimaraes,1X,Low conf,-65,31.03.18,win
+primeira-liga,Sp Braga,Sp Lisbon,X2,Med conf,+34,31.03.18,win
+ligue-1,Dijon,Marseille,X2,High conf,+22,31.03.18,win
+super-lig,Yeni Malatyaspor,Genclerbirligi,X,Low conf,+50,31.03.18,lose
+super-lig,Antalyaspor,Bursaspor,2,Low conf,+131,31.03.18,lose
+super-lig,Besiktas,Alanyaspor,1,High conf,+3,31.03.18,win
+championship,Birmingham,Ipswich,2,Low conf,+171,31.03.18,lose
+championship,Hull,Aston Villa,1,Med conf,+120,31.03.18,lose
+bundesliga,Hoffenheim,FC Koln,1X,Med conf,-2,31.03.18,win
+bundesliga,Leverkusen,Augsburg,1X,Med conf,-4,31.03.18,win
+bundesliga,Schalke 04,Freiburg,>2.5,Low conf,+8,31.03.18,lose
+bundesliga,Hannover,RB Leipzig,1X,Med conf,+89,31.03.18,lose
+bundesliga,Stuttgart,Hamburg,1,Med conf,+22,31.03.18,lose
+bundesliga,Bayern Munich,Dortmund,1,Med conf,-17,31.03.18,win
+bundesliga,Hertha,Wolfsburg,1X,Med conf,+18,31.03.18,win
+serie-a,Bologna,Roma,2,Low conf,-12,31.03.18,lose
+serie-a,Atalanta,Udinese,12,Med conf,+3,31.03.18,win
+serie-a,Cagliari,Torino,2,Low conf,+67,31.03.18,win
+serie-a,Fiorentina,Crotone,12,Med conf,+16,31.03.18,win
+serie-a,Genoa,Spal,1,Med conf,+62,31.03.18,lose
+serie-a,Inter,Verona,1,Med conf,-22,31.03.18,win
+serie-a,Lazio,Benevento,1,Med conf,-16,31.03.18,win
+serie-a,Chievo,Sampdoria,2,Med conf,+197,31.03.18,lose
+serie-a,Sassuolo,Napoli,2,Low conf,-43,31.03.18,lose
+serie-a,Juventus,Milan,1,Med conf,+27,31.03.18,win
+premier-league,Crystal Palace,Liverpool,X2,Low conf,-35,31.03.18,win
+premier-league,Brighton,Leicester,2,Med conf,+107,31.03.18,win
+premier-league,Man United,Swansea,1,Med conf,+1,31.03.18,win	
+premier-league,Newcastle,Huddersfield,1X,High conf,+45,31.03.18,win
+premier-league,Watford,Bournemouth,2,Med conf,+164,31.03.18,lose
+premier-league,West Brom,Burnley,1,Med conf,+140,31.03.18,lose
+premier-league,West Ham,Southampton,<2.5,Med conf,+26,31.03.18,lose
+premier-league,Everton,Man City,X2,Med conf,-39,31.03.18,win
+primeira-liga,Maritimo,Feirense,1,High conf,+39,30.03.18,win
+primeira-liga,Rio Ave,Estoril,1,Med conf,+46,30.03.18,win
+primeira-liga,Boavista,Tondela,1,High conf,+80,30.03.18,lose
+championship,Millwall,Nott'm Forest,1X,Low conf,-40,30.03.18,win
+championship,Barnsley,Bristol City,2,Med conf,+82,30.03.18,lose
+championship,Cardiff,Burton,1,Med conf,+9,30.03.18,win
+championship,Leeds,Bolton,12,Med conf,+25,30.03.18,win
+championship,Norwich,Fulham,1X,Low conf,-21,30.03.18,lose
+championship,Sheffield Weds,Preston,X2,Med conf,+40,30.03.18,lose
+championship,Middlesbrough,Wolves,2,Low conf,+51,30.03.18,win
+championship,Reading,QPR,1,Med conf,+108,30.03.18,win
+championship,Derby,Sunderland,1X,Low conf,-38,30.03.18,lose
+primera-division,Leganes,Sevilla,1,High conf,+248,18.03.18,win
+primera-division,Barcelona,Ath Bilbao,1,High conf,-4,18.03.18,win
+primera-division,Celta,Malaga,1,Med conf,-13,18.03.18,lose
+primera-division,Villarreal,Ath Madrid,2,High conf,+89,18.03.18,lose
+primera-division,Real Madrid,Girona,12,Low conf,-70,18.03.18,win
+primeira-liga,Guimaraes,Aves,12,Med conf,+26,18.03.18,win
+primeira-liga,Moreirense,Belenenses,12,High conf,+69,18.03.18,win
+primeira-liga,Chaves,Sp Braga,2,Low conf,-11,18.03.18,win
+primeira-liga,Sp Lisbon,Rio Ave,1X,High conf,-0,18.03.18,win
+ligue-1,Nice,Paris SG,2,Med conf,-20,18.03.18,win
+ligue-1,Metz,Nantes,X2,Med conf,+13,18.03.18,win
+ligue-1,St Etienne,Guingamp,1,High conf,+48,18.03.18,win
+ligue-1,Marseille,Lyon,12,Med conf,+23,18.03.18,win
+bundesliga,Dortmund,Hannover,<2.5,Med conf,+45,18.03.18,win
+bundesliga,FC Koln,Leverkusen,<2.5,Med conf,+45,18.03.18,win
+bundesliga,RB Leipzig,Bayern Munich,2,Low conf,-143,18.03.18,lose
+serie-a,Sampdoria,Inter,1,High conf,+268,18.03.18,lose
+serie-a,Milan,Chievo,<2.5,Med conf,+49,18.03.18,lose
+serie-a,Benevento,Cagliari,1,High conf,+139,18.03.18,lose
+serie-a,Crotone,Roma,2,Med conf,-14,18.03.18,win
+serie-a,Torino,Fiorentina,X2,Med conf,+39,18.03.18,win
+serie-a,Verona,Atalanta,2,Med conf,-15,18.03.18,win
+serie-a,Lazio,Bologna,1X,High conf,+15,18.03.18,win
+serie-a,Napoli,Genoa,1,High conf,+8,18.03.18,win
+primeira-liga,Porto,Boavista,1,Med conf,-52,17.03.18,win
+ligue-1,Bordeaux,Rennes,1X,Med conf,+4,17.03.18,lose	
+ligue-1,Amiens,Troyes,>1.5,Low conf,-43,17.03.18,win
+ligue-1,Angers,Caen,1,High conf,+69,17.03.18,win
+ligue-1,Montpellier,Dijon,1X,High conf,+25,17.03.18,win
+ligue-1,Toulouse,Strasbourg,>1.5,Low conf,-46,17.03.18,win
+super-lig,Genclerbirligi,Akhisar Belediyespor,1X,Med conf,+57,17.03.18,win
+super-lig,Bursaspor,Sivasspor,12,High conf,+62,17.03.18,win
+super-lig,Fenerbahce,Galatasaray,X,Low conf,+1,17.03.18,win
+championship,Fulham,QPR,12,Med conf,+7,17.03.18,lose
+championship,Barnsley,Millwall,1,Low conf,+98,17.03.18,lose
+championship,Birmingham,Hull,12,Low conf,-9,17.03.18,win
+championship,Brentford,Middlesbrough,12,Low conf,-27,17.03.18,lose
+championship,Bristol City,Ipswich,1,Med conf,+13,17.03.18,win
+championship,Leeds,Sheffield Weds,2,Med conf,+222,17.03.18,win
+championship,Norwich,Reading,1,Low conf,-41,17.03.18,win
+championship,Sunderland,Preston,2,Med conf,+58,17.03.18,win
+championship,Wolves,Burton,1X,Med conf,-13,17.03.18,win
+championship,Bolton,Aston Villa,1X,Low conf,-105,17.03.18,win
+bundesliga,M'gladbach,Hoffenheim,X2,Med conf,+46,17.03.18,win
+bundesliga,Ein Frankfurt,Mainz,1X,Med conf,-2,17.03.18,win
+bundesliga,Augsburg,Werder Bremen,X2,Med conf,+41,17.03.18,win
+bundesliga,Hamburg,Hertha,2,Med conf,+172,17.03.18,win
+bundesliga,Wolfsburg,Schalke 04,<2.5,Med conf,+36,17.03.18,win
+serie-a,Udinese,Sassuolo,12,Med conf,+40,17.03.18,win
+serie-a,Spal,Juventus,X2,Med conf,-18,17.03.18,win
+premier-league,Bournemouth,West Brom,1X,Med conf,+16,17.03.18,win
+premier-league,Huddersfield,Crystal Palace,X2,Med conf,+19,17.03.18,win
+premier-league,Stoke,Everton,<2.5,Low conf,+21,17.03.18,lose
+premier-league,Liverpool,Watford,1X,High conf,+5,17.03.18,win
+primera-division,Espanol,Sociedad,1,High conf,+158,11.03.18,win
+primera-division,Ath Madrid,Celta,1,High conf,+25,11.03.18,win
+primera-division,Las Palmas,Villarreal,>2.5,Low conf,+19,11.03.18,lose
+primera-division,Ath Bilbao,Leganes,1X,High conf,+46,11.03.18,win
+primeira-liga,Portimonense,Guimaraes,<2.5,Med conf,+38,11.03.18,lose
+primeira-liga,Maritimo,Setubal,1,Low conf,+48,11.03.18,win
+primeira-liga,Belenenses,Tondela,12,Med conf,+4,11.03.18,lose
+primeira-liga,Pacos Ferreira,Porto,2,Med conf,-9,11.03.18,lose
+ligue-1,Guingamp,Nice,X2,High conf,+60,11.03.18,win
+ligue-1,Lyon,Caen,1X,High conf,+20,11.03.18,win
+ligue-1,Toulouse,Marseille,1,High conf,+281,11.03.18,lose
+super-lig,Galatasaray,Konyaspor,X2,Med conf,+281,11.03.18,lose
+championship,Nott'm Forest,Derby,12,Low conf,-73,11.03.18,lose
+bundesliga,Stuttgart,RB Leipzig,X2,High conf,+77,11.03.18,win
+bundesliga,Dortmund,Ein Frankfurt,1X,High conf,+27,11.03.18,win
+serie-a,Fiorentina,Benevento,1X,High conf,+27,11.03.18,win
+serie-a,Bologna,Atalanta,2,Med conf,+51,11.03.18,win
+serie-a,Cagliari,Lazio,2,Med conf,+5,11.03.18,lose
+serie-a,Crotone,Sampdoria,1,Med conf,+193,11.03.18,win
+serie-a,Juventus,Udinese,1,Med conf,-3,11.03.18,win
+serie-a,Sassuolo,Spal,1X,High conf,+54,11.03.18,win
+serie-a,Genoa,Milan,2,Med conf,+90,11.03.18,win
+serie-a,Inter,Napoli,12,High conf,+40,11.03.18,lose
+premier-league,Arsenal,Watford,<2.5,Med conf,+36,11.03.18,lose
+premier-league,Bournemouth,Tottenham,X2,Low conf,-35,11.03.18,win
+primera-division,Eibar,Real Madrid,2,High conf,+35,10.03.18,win
+primera-division,Sevilla,Valencia,1X,High conf,+59,10.03.18,lose
+primera-division,Getafe,Levante,1X,High conf,+43,10.03.18,lose
+primera-division,Malaga,Barcelona,2,Med conf,-1,10.03.18,win
+primeira-liga,Rio Ave,Feirense,1,Med conf,+39,10.03.18,win
+primeira-liga,Benfica,Aves,1,Med conf,-12,10.03.18,win
+primeira-liga,Boavista,Estoril,1,High conf,+97,10.03.18,win
+ligue-1,Paris SG,Metz,1,High conf,-14,10.03.18,win
+ligue-1,Bordeaux,Angers,12,Med conf,+18,10.03.18,lose
+ligue-1,Dijon,Amiens,>1.5,Low conf,-75,10.03.18,win
+ligue-1,Lille,Montpellier,12,High conf,+70,10.03.18,lose
+ligue-1,Nantes,Troyes,1,High conf,+44,10.03.18,win
+ligue-1,Rennes,St Etienne,2,Med conf,+212,10.03.18,lose
+super-lig,Sivasspor,Kasimpasa,1,Low conf,+29,10.03.18,lose
+super-lig,Osmanlispor,Bursaspor,>2.5,Med conf,+23,10.03.18,win
+super-lig,Besiktas,Genclerbirligi,1,Low conf,-40,10.03.18,win
+championship,Burton,Bristol City,2,Low conf,-34,10.03.18,lose
+championship,Cardiff,Birmingham,12,Med conf,-13,10.03.18,win
+championship,Hull,Norwich,12,Med conf,+1,10.03.18,win
+championship,Middlesbrough,Barnsley,12,Med conf,-18,10.03.18,win
+championship,Millwall,Brentford,1,Med conf,+112,10.03.18,win
+championship,Preston,Fulham,12,Med conf,+1,10.03.18,win
+championship,QPR,Sunderland,2,Med conf,+252,10.03.18,lose
+championship,Reading,Leeds,2,Low conf,+67,10.03.18,lose
+championship,Sheffield Weds,Bolton,1,Med conf,+49,10.03.18,lose
+championship,Aston Villa,Wolves,1X,Low conf,-43,10.03.18,win		
+bundesliga,Hoffenheim,Wolfsburg,1X,High conf,+31,10.03.18,win
+bundesliga,Bayern Munich,Hamburg,12,Med conf,-21,10.03.18,win
+bundesliga,Hannover,Augsburg,2,Med conf,+172,10.03.18,win
+bundesliga,Hertha,Freiburg,12,Med conf,+30,10.03.18,lose
+bundesliga,Leverkusen,M'gladbach,1,Med conf,+39,10.03.18,win
+serie-a,Verona,Chievo,1,Med conf,+205,10.03.18,win
+premier-league,Man United,Liverpool,2,Med conf,+122,10.03.18,lose
+premier-league,Everton,Brighton,1X,High conf,+60,10.03.18,win
+premier-league,Huddersfield,Swansea,<2.5,Med conf,+36,10.03.18,win
+premier-league,Newcastle,Southampton,1X,High conf,+78,10.03.18,win
+premier-league,West Brom,Leicester,1X,High conf,+84,10.03.18,lose
+premier-league,West Ham,Burnley,12,Med conf,+9,10.03.18,win
+premier-league,Chelsea,Crystal Palace,1,High conf,+8,10.03.18,win
+primera-division,Girona,La Coruna,1,High conf,+51,09.03.18,win
+primeira-liga,Sp Braga,Moreirense,12,High conf,+14,09.03.18,win
+ligue-1,Strasbourg,Monaco,2,Med conf,+41,09.03.18,win
+bundesliga,Mainz,Schalke 04,12,Med conf,+30,09.03.18,win
+serie-a,Roma,Torino,1,Med conf,+43,09.03.18,win
+primera-division,Levante,Espanol,1X,Low conf,+7,04.03.18,win
+primera-division,Barcelona,Ath Madrid,1,Med conf,+10,04.03.18,win
+primera-division,Sociedad,Alaves,1,Med conf,-2,04.03.18,win
+primera-division,Valencia,Betis,12,High conf,+21,04.03.18,win
+primeira-liga,Tondela,Chaves,1,Low conf,+76,04.03.18,win
+primeira-liga,Moreirense,Pacos Ferreira,1X,Low conf,-8,04.03.18,win
+primeira-liga,Setubal,Rio Ave,X2,Low conf,+4,04.03.18,win
+primeira-liga,Guimaraes,Belenenses,1,Med conf,+42,04.03.18,lose
+ligue-1,Caen,Strasbourg,1,Med conf,+57,04.03.18,win
+ligue-1,Montpellier,Lyon,12,Med conf,+42,04.03.18,lose
+ligue-1,Marseille,Nantes,1,Med conf,-2,04.03.18,lose
+super-lig,Genclerbirligi,Alanyaspor,1,Med conf,+62,04.03.18,lose
+super-lig,Konyaspor,Yeni Malatyaspor,2,Low conf,+192,04.03.18,2,win
+super-lig,Antalyaspor,Sivasspor,1,Med conf,+122,04.03.18,lose	
+super-lig,Fenerbahce,Akhisar Belediyespor,1,Med conf,+65,04.03.18,win
+bundesliga,FC Koln,Stuttgart,X2,Med conf,+20,04.03.18,win
+bundesliga,Freiburg,Bayern Munich,2,Low conf,-142,04.03.18,win
+premier-league,Brighton,Arsenal,2,Med conf,+33,04.03.18,lose
+premier-league,Man City,Chelsea,12,High conf,+43,04.03.18,win
+primera-division,Villarreal,Girona,12,High conf,+30,03.03.18,win
+primera-division,Sevilla,Ath Bilbao,12,High conf,+28,03.03.18,win
+primera-division,La Coruna,Eibar,X2,Med conf,+52,03.03.18,win
+primera-division,Leganes,Malaga,>2.5,Low conf,-10,03.03.18,lose
+primera-division,Real Madrid,Getafe,1,Med conf,-8,03.03.18,win
+primeira-liga,Feirense,Boavista,<2.5,Med conf,+59,03.03.18,lose
+primeira-liga,Benfica,Maritimo,1,Med conf,-12,03.03.18,win
+primeira-liga,Estoril,Sp Braga,1X,Med conf,+63,03.03.18,lose
+ligue-1,Troyes,Paris SG,12,Med conf,+5,03.03.18,win
+ligue-1,Amiens,Rennes,1X,Med conf,+56,03.03.18,lose
+ligue-1,Angers,Guingamp,1X,High conf,+36,03.03.18,win
+ligue-1,Metz,Toulouse,12,Med conf,+43,03.03.18,lose
+ligue-1,St Etienne,Dijon,1X,Med conf,+11,03.03.18,win
+super-lig,Kasimpasa,Osmanlispor,1,High conf,+79,03.03.18,lose
+championship,Bolton,Preston,1X,Low conf,+22,03.03.18,lose
+championship,Bristol City,Sheffield Weds,X2,Med conf,+105,03.03.18,lose
+championship,Derby,Fulham,1X,High conf,+53,03.03.18,lose
+championship,Millwall,Sunderland,1,Med conf,+27,03.03.18,lose
+championship,Nott'm Forest,Birmingham,12,Med conf,+4,03.03.18,win
+bundesliga,Ein Frankfurt,Hannover,1X,Med conf,-2,03.03.18,win
+bundesliga,Augsburg,Hoffenheim,<2.5,Med conf,+34,03.03.18,win
+bundesliga,Schalke 04,Hertha,1,Low conf,-35,03.03.18,win
+bundesliga,Hamburg,Mainz,X,Low conf,-8,03.03.18,win 
+bundesliga,Wolfsburg,Leverkusen,12,Low conf,-17,03.03.18,win
+bundesliga,RB Leipzig,Dortmund,1X,Med conf,+23,03.03.18,win
+serie-a,Spal,Bologna,X2,Med conf,+49,03.03.18,lose
+serie-a,Lazio,Juventus,<2.5,Low conf,-10,03.03.18,win
+serie-a,Napoli,Roma,1X,High conf,+26,03.03.18,lose
+premier-league,Burnley,Everton,12,Med conf,+42,03.03.18,win
+premier-league,Leicester,Bournemouth,1,Med conf,+55,03.03.18,lose
+premier-league,Southampton,Stoke,12,Med conf,+22,03.03.18,lose
+premier-league,Swansea,West Ham,1,Med conf,+127,03.03.18,win
+premier-league,Tottenham,Huddersfield,1,Med conf,+63,03.03.18,win
+premier-league,Watford,West Brom,1,Med conf,+78,03.03.18,win
+premier-league,Liverpool,Newcastle,1X,High conf,+1,03.03.18,win
+primeira-liga,Porto,Sp Lisbon,2,Med conf,+380,02.03.18,lose
+ligue-1,Nice,Lille,1,Low conf,-22,02.03.18,win
+ligue-1,Monaco,Bordeaux,12,Med conf,+22,02.03.18,win
+super-lig,Bursaspor,Kayserispor,1X,High conf,+70,02.03.18,win
+championship,Middlesbrough,Leeds,1,Med conf,+38,02.03.18,win
+bundesliga,M'gladbach,Werder Bremen,<2.5,Med conf,+39,02.03.18,lose
+primera-division,Betis,Sociedad,2,Med conf,+119,01.03.18,lose
+primera-division,Las Palmas,Barcelona,2,High conf,+18,01.03.18,lose
+primera-division,Alaves,Levante,1X,High conf,+32,01.03.18,win
+premier-league,Arsenal,Man City,X2,Low conf,-53,01.03.18,win
+primera-division,Ath Bilbao,Valencia,1,Med conf,+114,28.02.18,lose
+primera-division,Getafe,La Coruna,1X,High conf,+36,28.02.18,win
+primera-division,Malaga,Sevilla,X2,Med conf,+16,28.02.18,1.win
+primera-division,Ath Madrid,Leganes,1,Med conf,-26,28.02.18,win
+primera-division,Eibar,Villarreal,X,Low conf,+55,28.02.18,lose
+primera-division,La Coruna,Espanol,X2,Med conf,+49,23.02.18,win
+primeira-liga,Rio Ave,Aves,1,High conf,+85,23.02.18,lose
+ligue-1,Strasbourg,Montpellier,12,Low conf,-6,23.02.18,lose
+super-lig,Akhisar Belediyespor,Konyaspor,2,Low conf,-43,23.02.18,lose
+super-lig,Galatasaray,Bursaspor,<2.5,Med conf,+34,23.02.18,lose
+primera-division,Las Palmas,Sevilla,X2,Med conf,+28,17.02.18,win
+primera-division,Eibar,Barcelona,12,Med conf,+9,17.02.18,win
+primera-division,Alaves,La Coruna,2,Med conf,+273,17.02.18,lose
+primera-division,Malaga,Valencia,2,Med conf,+38,17.02.18,lose
+primeira-liga,Aves,Maritimo,X2,Low conf,+20,17.02.18,win
+primeira-liga,Benfica,Boavista,1,High conf,+9,17.02.18,win
+primeira-liga,Estoril,Belenenses,1X,Med conf,+14,17.02.18,lose
+ligue-1,Paris SG,Strasbourg,12,Med conf,-36,17.02.18,win
+ligue-1,Amiens,Toulouse,2,Low conf,+110,17.02.18,lose
+ligue-1,Angers,St Etienne,X2,Med conf,+59,17.02.18,win
+ligue-1,Caen,Rennes,X2,Med conf,+37,17.02.18,win
+ligue-1,Troyes,Metz,1,High conf,+104,17.02.18,win
+ligue-1,Montpellier,Guingamp,X2,Med conf,+91,17.02.18,win
+super-lig,Antalyaspor,Kayserispor,1X,High conf,+67,17.02.18,win
+super-lig,Sivasspor,Osmanlispor,12,Med conf,+10,17.02.18,win
+super-lig,Fenerbahce,Alanyaspor,12,Med conf,+0,17.02.18,win
+championship,Birmingham,Millwall,12,Med conf,+43,17.02.18,win
+championship,Burton,Nott'm Forest,12,Med conf,+42,17.02.18,lose
+championship,Cardiff,Middlesbrough,<2.5,Low conf,+8,17.02.18,win
+championship,Fulham,Aston Villa,12,Med conf,+37,17.02.18,win
+championship,Preston,Wolves,2,Med conf,+60,17.02.18,lose
+championship,QPR,Bolton,12,Med conf,+25,17.02.18,win
+championship,Sunderland,Brentford,2,Med conf,+57,17.02.18,win
+bundesliga,FC Koln,Hannover,<2.5,Low conf,-48,17.02.18,win
+bundesliga,Hamburg,Leverkusen,1,High conf,+289,17.02.18,lose
+bundesliga,Freiburg,Werder Bremen,2,Med conf,+125,17.02.18,lose
+bundesliga,Wolfsburg,Bayern Munich,1X,Low conf,+156,17.02.18,lose
+bundesliga,Schalke 04,Hoffenheim,1X,High conf,+38,17.02.18,win
+serie-a,Udinese,Roma,2,Low conf,-6,17.02.18,win
+serie-a,Chievo,Cagliari,X2,Med conf,+54,17.02.18,lose
+serie-a,Genoa,Inter,12,Med conf,+15,17.02.18,win
+primera-division,Girona,Leganes,1,Med conf,+62,16.02.18,win
+primeira-liga,Feirense,Portimonense,2,Low conf,+24,16.02.18,win
+ligue-1,Monaco,Dijon,1X,High conf,+5,16.02.18,win
+super-lig,Konyaspor,Besiktas,X2,Med conf,+9,16.02.18,win
+bundesliga,Hertha,Mainz,X,Low conf,+74,16.02.18,lose
+primera-division,Villarreal,Alaves,1X,High conf,+44,10.02.18,lose
+primera-division,Malaga,Ath Madrid,1X,Med conf,+115,10.02.18,lose
+primera-division,Leganes,Eibar,X2,Med conf,+31,10.02.18,win
+primera-division,Real Madrid,Sociedad,1,Med conf,-3,10.02.18,win
+primeira-liga,Rio Ave,Maritimo,1,High conf,+72,10.02.18,win
+primeira-liga,Sp Braga,Setubal,1,High conf,+43,10.02.18,win
+primeira-liga,Portimonense,Benfica,1,Low conf,+430,10.02.18,lose
+ligue-1,Toulouse,Paris SG,2,High conf,+3,10.02.18,win
+ligue-1,Angers,Monaco,2,High conf,+112,10.02.18,win
+ligue-1,Bordeaux,Amiens,1X,High conf,+34,10.02.18,win
+ligue-1,Dijon,Nice,1,Med conf,+149,10.02.18,lose
+ligue-1,Guingamp,Caen,1,Low conf,+37,10.02.18,lose
+ligue-1,Metz,Montpellier,2,Med conf,+107,10.02.18,win
+championship,Barnsley,Sheffield Weds,12,High conf,+46,10.02.18,lose
+championship,Bolton,Fulham,1,Low conf,+197,10.02.18,lose
+championship,Brentford,Preston,1X,Low conf,-15,10.02.18,win
+championship,Bristol City,Sunderland,1,Med conf,+11,10.02.18,lose
+championship,Derby,Norwich,1,Med conf,+46,10.02.18,lose
+championship,Ipswich,Burton,1X,Med conf,-11,10.02.18,win
+championship,Middlesbrough,Reading,1X,Med conf,-22,10.02.18,win
+championship,Nott'm Forest,Hull,<2.5,Low conf,+8,10.02.18,win
+championship,Wolves,QPR,1X,Low conf,-47,10.02.18,win
+bundesliga,Hoffenheim,Mainz,1,Med conf,+5,10.02.18,lose
+bundesliga,Leverkusen,Hertha,1,High conf,+37,10.02.18,lose
+bundesliga,Dortmund,Hamburg,X,High conf,+402,10.02.18,lose
+bundesliga,Ein Frankfurt,FC Koln,1X,High conf,+31,10.02.18,win
+bundesliga,Hannover,Freiburg,X,High conf,+234,10.02.18,lose
+bundesliga,Bayern Munich,Schalke 04,1,High conf,-2,10.02.18,win
+serie-a,Spal,Milan,<2.5,Low conf,-9,10.02.18,lose
+serie-a,Crotone,Atalanta,2,Med conf,+22,10.02.18,lose
+serie-a,Napoli,Lazio,12,Low conf,-53,10.02.18,win
+premier-league,Tottenham,Arsenal,X2,Med conf,+62,10.02.18,lose
+premier-league,Everton,Crystal Palace,1,Med conf,+62,10.02.18,win
+premier-league,Stoke,Brighton,1,Med conf,+85,10.02.18,lose
+premier-league,Swansea,Burnley,1,Med conf,+91,10.02.18,win
+premier-league,West Ham,Watford,<2.5,Med conf,+56,10.02.18,win
+premier-league,Man City,Leicester,1,Med conf,-4,10.02.18,win
+primera-division,Ath Bilbao,Las Palmas,1,Med conf,+14,09.02.18,lose
+primeira-liga,Pacos Ferreira,Tondela,1X,High conf,+33,09.02.18,lose
+ligue-1,St Etienne,Marseille,>1.5,Med conf,-34,09.02.18,win
+championship,Millwall,Cardiff,X2,Med conf,+46,09.02.18,win
+bundesliga,RB Leipzig,Augsburg,1X,Med conf,+10,09.02.18,win
+serie-a,Fiorentina,Juventus,X2,High conf,+36,09.02.18,win
+primera-division,Eibar,Sevilla,<2.5,Med conf,+41,03.02.18,lose
+primera-division,Betis,Villarreal,2,Low conf,+53,03.02.18,lose
+primera-division,Alaves,Celta,<2.5,Med conf,+41,03.02.18,lose
+primera-division,Levante,Real Madrid,2,High conf,+4,03.02.18,win
+primeira-liga,Benfica,Rio Ave,1X,Med conf,-47,03.02.18,win
+primeira-liga,Porto,Sp Braga,1,High conf,+10,03.02.18,win
+ligue-1,Lille,Paris SG,2,High conf,+4,03.02.18,win
+ligue-1,Amiens,St Etienne,1,Med conf,+100,03.02.18,lose
+ligue-1,Montpellier,Angers,1,High conf,+76,03.02.18,win
+ligue-1,Nice,Toulouse,1,High conf,+75,03.02.18,lose
+ligue-1,Strasbourg,Bordeaux,1,High conf,+194,03.02.18,lose
+championship,Aston Villa,Burton,2,Low conf,+774,03.02.18,lose
+championship,Derby,Brentford,1,Low conf,+11,03.02.18,win
+championship,Fulham,Nott'm Forest,1,Low conf,-47,03.02.18,win
+championship,Leeds,Cardiff,12,Med conf,+38,03.02.18,win
+championship,Norwich,Middlesbrough,2,Low conf,+75,03.02.18,lose
+championship,Preston,Hull,1,Low conf,-2,03.02.18,win
+championship,QPR,Barnsley,X2,Med conf,+35,03.02.18,lose
+championship,Reading,Millwall,12,High conf,+66,03.02.18,win
+championship,Sheffield Weds,Birmingham,1,Low conf,+10,03.02.18,lose
+championship,Sunderland,Ipswich,12,High conf,+66,03.02.18,win
+bundesliga,Schalke 04,Werder Bremen,X2,Low conf,+65,03.02.18,win
+bundesliga,Mainz,Bayern Munich,2,High conf,+7,03.02.18,win
+bundesliga,Hertha,Hoffenheim,1X,Low conf,+6,03.02.18,win
+bundesliga,Freiburg,Leverkusen,X,Low conf,+198,03.02.18,win
+bundesliga,Wolfsburg,Stuttgart,12,High conf,+64,03.02.18,lose
+bundesliga,M'gladbach,RB Leipzig,1,High conf,+87,03.02.18,lose
+serie-a,Sampdoria,Torino,1,High conf,+128,03.02.18,lose
+serie-a,Inter,Crotone,1,High conf,+19,03.02.18,lose
+premier-league,Burnley,Man City,2,Med conf,-40,03.02.18,lose
+premier-league,Bournemouth,Stoke,1X,High conf,+38,03.02.18,win
+premier-league,Brighton,West Ham,<2.5,High conf,+90,03.02.18,lose
+premier-league,Leicester,Swansea,<2.5,High conf,+90,03.02.18,win
+premier-league,Man United,Huddersfield,1X,High conf,+14,03.02.18,win
+premier-league,West Brom,Southampton,<2.5,Med conf,+57,03.02.18,lose

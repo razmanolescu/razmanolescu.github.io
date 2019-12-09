@@ -1,0 +1,70 @@
+league,opp,opp2,result,conf,ROI,date
+primera-division,Granada,Alaves,12,High conf,+75,07.12.19,1.20
+primera-division,Levante,Valencia,1X,High conf,+35,07.12.19,1.20
+primera-division,Barcelona,Mallorca,1X,High conf,-4,07.12.19,1.16
+primera-division,Real Madrid,Espanol,1,High conf,+0,07.12.19,1.20
+liga-1,Chindia Targoviste,Poli Iasi,12,High conf,+95,07.12.19,1.00
+liga-1,FC Hermannstadt,Din. Bucuresti,2,High conf,+39,07.12.19,1.20
+primeira-liga,Maritimo,Santa Clara,1X,Med conf,+21,07.12.19,1.25
+primeira-liga,Aves,Sp Braga,X2,High conf,+24,07.12.19,1.00
+jupiler-league,Mechelen,Kortrijk,1,Med conf,+41,07.12.19,1.54
+jupiler-league,Cercle Brugge,Genk,2,Low conf,-27,07.12.19,2.22
+jupiler-league,Gent,Waregem,>2.5,Low conf,-26,07.12.19,3.70
+jupiler-league,St Truiden,Club Brugge,2,Low conf,-27,07.12.19,2.22
+ligue-1,Montpellier,Paris SG,2,High conf,+15,07.12.19,1.22
+ligue-1,Monaco,Amiens,<2.5,Med conf,+17,07.12.19,1.43
+ligue-1,Nice,Metz,1,High conf,+75,07.12.19,1.20
+ligue-1,Rennes,Angers,1,High conf,+34,07.12.19,1.20
+ligue-1,Strasbourg,Toulouse,2,High conf,+62,07.12.19,1.22
+championship,Huddersfield,Leeds,12,High conf,+31,07.12.19,1.00
+championship,Blackburn,Derby,12,High conf,+95,07.12.19,1.00
+championship,Cardiff,Barnsley,1,Med conf,+16,07.12.19,1.39
+championship,Fulham,Bristol City,12,High conf,+32,07.12.19,1.00
+championship,Hull,Stoke,1X,Med conf,+12,07.12.19,1.43
+championship,QPR,Preston,X2,Med conf,+29,07.12.19,1.25
+championship,Reading,Birmingham,>2.5,Med conf,+7,07.12.19,1.67
+championship,Sheffield Weds,Brentford,>2.5,Med conf,+7,07.12.19,1.67
+bundesliga,Dortmund,Fortuna Dusseldorf,1,Med conf,-7,07.12.19,1.47
+bundesliga,M'gladbach,Bayern Munich,X2,Med conf,+62,07.12.19,1.33
+bundesliga,Augsburg,Mainz,1X,Med conf,+1,07.12.19,1.67
+bundesliga,RB Leipzig,Hoffenheim,12,High conf,+83,07.12.19,1.12
+bundesliga,Freiburg,Wolfsburg,X,Med conf,+31,07.12.19,1.67
+bundesliga,Leverkusen,Schalke 04,>2.5,Low conf,+5,07.12.19,1.72
+serie-a,Atalanta,Verona,1,Low conf,+23,07.12.19,1.72
+serie-a,Udinese,Napoli,12,High conf,+95,07.12.19,1.00
+serie-a,Lazio,Juventus,X2,High conf,+79,07.12.19,1.16
+premier-league,Everton,Chelsea,2,High conf,+36,07.12.19,1.22
+premier-league,Bournemouth,Liverpool,2,High conf,+12,07.12.19,1.22
+premier-league,Tottenham,Burnley,1,Med conf,+5,07.12.19,1.32
+premier-league,Watford,Crystal Palace,1,Med conf,+36,07.12.19,1.32
+premier-league,Man City,Man United,12,Med conf,+1,07.12.19,1.27
+primera-division,Eibar,Getafe,X2,High conf,+43,08.12.19,1.00
+primera-division,Betis,Ath Bilbao,>2.5,Med conf,+17,08.12.19,1.43
+primera-division,Valladolid,Sociedad,1X,High conf,+32,08.12.19,1.20
+primera-division,Leganes,Celta,12,High conf,+24,08.12.19,1.20
+primera-division,Osasuna,Sevilla,X2,High conf,+39,08.12.19,1.00
+liga-1,FC Botosani,CFR Cluj,X2,Med conf,+12,08.12.19,1.33
+liga-1,Astra,U Craiova,1X,High conf,+45,08.12.19,1.00
+primeira-liga,Pacos Ferreira,Setubal,1X,Med conf,+14,08.12.19,1.25
+primeira-liga,Guimaraes,Portimonense,X2,Med conf,+32,08.12.19,1.49
+primeira-liga,Sp Lisbon,Moreirense,X,Low conf,+18,08.12.19,2.63
+primeira-liga,Belenenses,Porto,X2,High conf,+18,08.12.19,1.00
+jupiler-league,Mouscron,Standard,2,Low conf,-12,08.12.19,2.22
+jupiler-league,Anderlecht,Charleroi,>2.5,Low conf,-175,08.12.19,3.70
+jupiler-league,Eupen,Oostende,>2.5,Low conf,-26,08.12.19,3.70
+ligue-1,Reims,St Etienne,X2,Med conf,+20,08.12.19,1.49
+ligue-1,Nantes,Dijon,X2,Med conf,+26,08.12.19,1.49
+ligue-1,Marseille,Bordeaux,1,High conf,+21,08.12.19,1.20
+championship,West Brom,Swansea,1,Med conf,+11,08.12.19,1.39
+bundesliga,Union Berlin,FC Koln,1X,High conf,+38,08.12.19,1.00
+bundesliga,Werder Bremen,Paderborn,1X,Med conf,-13,08.12.19,1.67
+serie-a,Lecce,Genoa,X,Low conf,-83,08.12.19,2.78
+serie-a,Sassuolo,Cagliari,2,Low conf,+3,08.12.19,1.92
+serie-a,Spal,Brescia,1,Low conf,+23,08.12.19,1.72
+serie-a,Torino,Fiorentina,12,High conf,+95,08.12.19,1.00
+serie-a,Sampdoria,Parma,1,Low conf,+23,08.12.19,1.72
+serie-a,Bologna,Milan,X,Low conf,-83,08.12.19,2.78
+premier-league,Aston Villa,Leicester,2,High conf,+26,08.12.19,1.22
+premier-league,Newcastle,Southampton,<2.5,Med conf,+22,08.12.19,1.33
+premier-league,Norwich,Sheffield United,X2,High conf,+41,08.12.19,1.00
+premier-league,Brighton,Wolves,12,Med conf,+20,08.12.19,1.27

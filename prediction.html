@@ -1,0 +1,351 @@
+<html>
+	<head>
+		<title>Predictions</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<script src="assets/js/d3.v3.min.js"></script>
+		<!-- <link rel="stylesheet" href="http://billmill.org/css/style.css" /> -->
+		<link rel="icon" type="image/x-icon" href="images/logo.png" />
+	</head>
+	<body class="no-sidebar">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<div id="header-wrapper" class="wrapper">
+					<div id="header">
+
+						<!-- Logo -->
+							<div id="logo">
+								<h1><a href="index.html">FOPA</a></h1>
+								<p>Football Online Analysis and Prediction</p>
+							</div>
+
+						<!-- Nav -->
+							<nav id="nav">
+								<ul>
+									<li><a href="index.html">Home</a></li>
+									<!-- <li>
+										<a href="#">Dropdown</a>
+										<ul>
+											<li><a href="#">Lorem ipsum</a></li>
+											<li><a href="#">Magna veroeros</a></li>
+											<li><a href="#">Etiam nisl</a></li>
+											<li>
+												<a href="#">Sed consequat</a>
+												<ul>
+													<li><a href="#">Lorem dolor</a></li>
+													<li><a href="#">Amet consequat</a></li>
+													<li><a href="#">Magna phasellus</a></li>
+													<li><a href="#">Etiam nisl</a></li>
+													<li><a href="#">Sed feugiat</a></li>
+												</ul>
+											</li>
+											<li><a href="#">Nisl tempus</a></li>
+										</ul>
+									</li> 
+									<li><a href="left-sidebar.html">Left Sidebar</a></li>
+									<li><a href="right-sidebar.html">Right Sidebar</a></li> -->
+									<li>Decision visualization(soon)</li> 
+									<li class="current"><a href="prediction.html">Prediction</a></li>
+									<li><a href="history.html">Historical</a></li>
+									<li><a href="help.html">Help</a></li>
+								</ul>
+							</nav>
+
+					</div>
+				</div>
+
+			<div>  											<style>
+							table {
+							  vertical-align:bottom;
+							  border-collapse: collapse;
+							}
+							th {
+							  border-bottom: 2px solid #ddd;
+							  padding: 8px;
+							  font-weight: bold;
+							}
+							td {
+							  padding: 8px;
+							  border-top: 1px solid #ddd;
+							}
+							#chart {
+							  padding: 10px;
+							}
+							.xaxislabel {
+							  font-size: 11px;
+							}
+							</style>
+							<div class="datatable" id="datatable">
+
+						</div></div> </br>
+<script>
+var rows = []
+var formatdate = d3.time.format("%d-%b-%Y");
+
+d3.csv("assets/results/results.csv", function(error, csv) {
+  csv.forEach(function(row) {
+    rows.push(row);
+  });
+
+  var table = d3.select("#datatable").append("table");
+      thead = table.append("thead");
+      tbody = table.append("tbody");
+
+  thead.append("th").text("League");
+  thead.append("th").text("Home");
+  thead.append("th").text("Away");
+  thead.append("th").text("Result");
+  thead.append("th").text("Confidence");
+  thead.append("th").text("ROI(%)");
+  thead.append("th").text("Date");
+  thead.append("th").text("ROI Chart");
+
+  var tr = tbody.selectAll("tr")
+      .data(rows)
+      .enter().append("tr");
+
+  var td = tr.selectAll("td")
+        .data(function(d) { return [d.league, d.opp, d.opp2, d.result, d.conf, d.ROI, d.date]; })
+      .enter().append("td")
+        .text(function(d) { return d; })
+		.attr('class', function(d, i){ return "col_" + i; });
+		
+String.prototype.contains = function(it) { return this.indexOf(it) != -1; };		
+		
+  d3.selectAll('td.col_4').style("background-color", function(d, i){
+								console.log(d + " " + i);
+								if(d.contains('High')){
+									return 'rgba(10, 255, 0, 0.15)';
+								}
+								if(d.contains('Med')){
+									return 'rgba(150, 255, 0, 0.15)';
+								}
+								if(d.contains('Low')){
+									return 'rgba(220, 158, 0, 0.15)';
+								}
+								return 'rgba(0, 0, 255, 0.15)';
+							});
+							
+  d3.selectAll('td.col_5').style("background-color", function(d, i){
+								if(d > 10){
+									
+									return 'rgba(10, 255, 0, 0.05)';
+								}
+								return 'rgba(255, 0, 0, 0.05)';
+							});
+							
+  var width = 120,
+      height = d3.select("table")[0][0].clientHeight,
+      mx = 10,
+      radius = 8;
+
+  // Now add the chart column
+  d3.select("#datatable tbody tr").append("td")
+    .attr("id", "chart")
+    .attr("width", width + "px")
+    .attr("rowspan", rows.length)
+	.attr("align", "right")
+	.attr("valign", "bottom");
+	
+  d3.select("#datatable tbody tr")
+  var chart = d3.select("#chart").append("svg")
+      .attr("class", "chart")
+      .attr("width", width)
+      .attr("height", height)
+
+  var maxMu = 0;
+  var minMu = Number.MAX_VALUE;
+  for (i=0; i < rows.length; i++) {
+    var val = parseFloat(rows[i].ROI);
+    if (val > maxMu) { maxMu = val; }
+    if (val < minMu) { minMu = val; }
+  }
+
+ 
+  var xscale = d3.scale.linear()
+    .domain([minMu, maxMu])
+    .range([mx, width-mx])
+    .nice();
+
+  var yScale = height/rows.length;
+  var yOffset = yScale/2;
+
+  chart.selectAll(".xaxislabel")
+      .data(xscale.ticks(4))
+    .enter().append("text")
+      .attr("class", "xaxislabel")
+      .attr("x", function(d) { return xscale(d); })
+      .attr("y", 10)
+      .attr("text-anchor", "middle")
+      .text(String)
+
+  chart.selectAll(".xaxistick")
+      .data(xscale.ticks(2))
+    .enter().append("line")
+      .attr("x1", function(d) { return xscale(d); })
+      .attr("x2", function(d) { return xscale(d); })
+      .attr("y1", 10)
+      .attr("y2", height)
+      .attr("stroke", "#eee")
+      .attr("stroke-width", 1);
+
+ 
+  chart.selectAll(".line")
+      .data(rows)
+    .enter().append("line")
+      .attr("x1", function(d) { return xscale(d.ROI); })
+      .attr("y1", function(d, i) { return i*yScale + yOffset; })
+      .attr("x2", function(d,i) { return rows[i+1] ? xscale(rows[i+1].ROI) : xscale(d.ROI); })
+      .attr("y2", function(d,i) { return rows[i+1] ?  (i+1)*yScale + yOffset:  i*yScale + yOffset;})
+      .attr("stroke", "#777")
+      .attr("stroke-width", 1);
+
+  var pt = chart.selectAll(".pt")
+      .data(rows)
+    .enter().append("g")
+      .attr("class", "pt")
+      .attr("transform", function(d, i) { return "translate(" + xscale(d.ROI) + "," +  (i*yScale + yOffset)+ ")"; })
+	  .append("circle")
+      .attr("cx", 0)
+      .attr("cy", 0)
+      .attr("r", radius)
+      .attr("opacity", 0.8)
+      .attr("fill",  function(d, i) { return perc2color( xscale(d.ROI) / width * 100) });
+
+});
+
+function perc2color(perc) {
+	var r, g, b = 0;
+	if(perc < 50) {
+		r = 255;
+		g = Math.round(5.1 * perc);
+	}
+	else {
+		g = 255;
+		r = Math.round(510 - 5.10 * perc);
+	}
+	var h = r * 0x10000 + g * 0x100 + b * 0x1;
+	return '#' + ('000000' + h.toString(16)).slice(-6);
+}
+
+</script>
+
+
+			<!-- Highlights -->
+				<div class="wrapper style3">
+					<div class="title">Where</div>
+					<div id="highlights" class="container">
+						<div class="row 150%">
+							<div class="4u 12u(mobile)">
+								<section class="highlight">
+									<a href="https://twitter.com/fopabot" class="image featured"><img src="images/FOPAIco.jpg" alt="" /></a>
+									<h3><a href="https://twitter.com/fopabot">Twitter</a></h3>
+									<p>Results are posted here and updates are sent from Twitter bot</p>
+									<ul class="actions">
+										<li><a href="https://twitter.com/fopabot" class="button style1">Visit</a></li>
+									</ul>
+								</section>
+							</div>
+							<div class="4u 12u(mobile)">
+								<section class="highlight">
+									<a href="https://twitter.com/fopabot" class="image featured"><img src="images/logo.png" alt="" /></a>
+									<h3><a href="https://twitter.com/fopabot">Website</a></h3>
+									<p>Website coming soon.</p>
+									<ul class="actions">
+										<li><a href="https://twitter.com/fopabot" class="button style1">Visit</a></li>
+									</ul>
+								</section>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			<!-- Footer -->
+				<div id="footer-wrapper" class="wrapper">
+					<div class="title">Contact</div>
+					<div id="footer" class="container">
+						<header class="style1">
+							<h2>Got questions? Suggestions?</h2>
+							<p>
+								Suggestions are always apprechiated and I'll do my best to implement them as soon as possible<br />
+								so we can have better prediction model.
+							</p>
+						</header>
+						<hr />
+						<div class="row 150%">
+							<div class="6u 12u(mobile)">
+
+								<!-- Contact Form -->
+									<section>
+										<form method="post" action="#">
+											<div class="row 50%">
+												<div class="6u 12u(mobile)">
+													<input type="text" name="name" id="contact-name" placeholder="Name" />
+												</div>
+												<div class="6u 12u(mobile)">
+													<input type="text" name="email" id="contact-email" placeholder="Email" />
+												</div>
+											</div>
+											<div class="row 50%">
+												<div class="12u">
+													<textarea name="message" id="contact-message" placeholder="Message" rows="4"></textarea>
+												</div>
+											</div>
+											<div class="row">
+												<div class="12u">
+													<ul class="actions">
+														<li><input type="submit" class="style1" value="Send" /></li>
+														<li><input type="reset" class="style2" value="Reset" /></li>
+													</ul>
+												</div>
+											</div>
+										</form>
+									</section>
+
+							</div>
+							<div class="6u 12u(mobile)">
+
+								<!-- Contact -->
+									<section class="feature-list small">
+										<div class="row">
+											<div class="6u 12u(mobile)">
+												<section>
+													<h3 class="icon fa-comment">Social</h3>
+													<p>
+														<a href="http://www.twitter.com/fopabot">twitter.com/fopabot</a><br />
+														<a href="http://www.twitter.com/fopabot">facebook.com/fopabot</a>
+													</p>
+												</section>
+											</div>
+										</div>
+									</section>
+
+							</div>
+						</div>
+						<hr />
+					</div>
+					<div id="copyright">
+						<ul>
+							<li>&copy; FOPA</li>
+						</ul>
+					</div>
+				</div>
+
+		</div>
+
+		<!-- Scripts -->
+		
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/skel-viewport.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

@@ -1,0 +1,356 @@
+<html>
+	<head>
+		<title>Predictions</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<script src="assets/js/d3.v3.min.js"></script>
+		<!-- <link rel="stylesheet" href="http://billmill.org/css/style.css" /> -->
+		<link rel="icon" type="image/x-icon" href="images/logo.png" />
+	</head>
+	<body class="no-sidebar">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<div id="header-wrapper" class="wrapper">
+					<div id="header">
+
+						<!-- Logo -->
+							<div id="logo">
+								<h1><a href="index.html">FOPA</a></h1>
+								<p>Football Online Analysis and Prediction</p>
+							</div>
+
+						<!-- Nav -->
+							<nav id="nav">
+								<ul>
+									<li><a href="index.html">Home</a></li>
+									<li>Decision visualization(soon)</li> 
+									<li><a href="prediction.html">Prediction</a></li>
+									<li class="current"><a href="history.html">Historical</a></li>
+									<li><a href="help.html">Help</a></li>
+								</ul>
+							</nav>
+
+					</div>
+				</div>
+
+			<div>  		<style>
+							table {
+							  vertical-align:bottom;
+							  border-collapse: collapse;
+							}
+							th {
+							  border-bottom: 2px solid #ddd;
+							  padding: 8px;
+							  font-weight: bold;
+							}
+							td {
+							  padding: 8px;
+							  border-top: 1px solid #ddd;
+							}
+							#chart {
+							  padding: 10px;
+							}
+							#acc-output{
+								height: 27px;
+							}
+							.xaxislabel {
+							  font-size: 11px;
+							}
+							</style>
+							</br>
+	
+							<div class="accuracy" id="accuracy"></div> </br>
+							<div class="datatable" id="datatable"></div> </br>
+							</div>
+<script>
+
+
+function initTable() {
+    d3.csv("assets/results/resultsHist.csv", function(t) {
+        t.forEach(function(t) {
+            rows.push(t)
+        }), loadTable(function() {
+            return !0
+        });
+		
+		var url_string = window.location.href;
+		var url = new URL(url_string);
+	
+		var defLeague = url.searchParams.get("league") || "all";
+		var defTime = url.searchParams.get("time") || "Last week";
+		var defConf = url.searchParams.get("conf") || "all";
+		
+        var e = d3.select("#accuracy"),
+            a = e.append("select").attr("onChange", "updateAccuracy()").attr("class", "selectBox").attr("id", "selectBox"),
+			b = e.append("select").attr("onChange", "updateAccuracy()").attr("class", "selectBoxTime").attr("id", "selectBoxTime"),
+            n = e.append("select").attr("onChange", "updateAccuracy()").attr("class", "selectBoxConf").attr("id", "selectBoxConf");
+        e.append("b").text("  Accuracy:"), e.append("input").attr("type", "text").attr("class", "acc-output").attr("id", "acc-output").attr("disabled", "disabled");
+        e.append("button").text("  Refresh Accuracy").attr("onclick", "updateAccuracy()").style("height", "27px").style("align", "center").style("position", "relative").style("line-height", "0").style("margin", "0");
+		
+	   for (var o = 0; o < leagues.length; o++)
+	        appendOption(a, defLeague, leagues[o]);
+
+	   appendOption(a, defLeague, "all");
+	  
+	   for (var o = 0; o < timeIntervals.length; o++) 
+	      appendOption(b, defTime, timeIntervals[o]);
+
+        for (var o = 0; o < confidences.length; o++) 
+			appendOption(n, defConf, confidences[o])
+		
+		appendOption(n, defConf, "all")
+    })
+}
+
+function appendOption(selectBox, defValue, curValue) {
+	
+	if(defValue == curValue) { console.log(defValue + " " + curValue)
+		selectBox.append("option").attr("selected", "selected").attr("value", curValue).text(curValue);
+	}
+	else {
+		selectBox.append("option").attr("value", curValue).text(curValue);
+	}
+}
+
+function loadTable(checkDate) {
+    curRows = [];
+    for (var e = 0; e < rows.length; e++) checkDate(rows[e]) && curRows.push(rows[e]);
+    d3.selectAll("table").remove();
+    var a = d3.select("#datatable").append("table").attr("id", "stTable").attr("data-role", "table").attr("data-input", "#filterTable-input");
+    thead = a.append("thead"), tbody = a.append("tbody"), thead.append("th").text("League"), thead.append("th").text("Home"), thead.append("th").text("Away"), thead.append("th").text("Result"), thead.append("th").text("Confidence"), thead.append("th").text("Date"), thead.append("th").text("Outcome");
+    var n = tbody.selectAll("tr").data(curRows).enter().append("tr"),
+        o = 0;
+    n.selectAll("td").data(function(t) {
+        return leagues.indexOf(t.league) < 0 && leagues.push(t.league), confidences.indexOf(t.conf) < 0 && confidences.push(t.conf), "win" == t.outcome && o++, [t.league, t.opp, t.opp2, t.result, t.conf, t.date, t.outcome]
+    }).enter().append("td").text(function(t) {
+        return t
+    }).attr("class", function(t, e) {
+        return "col_" + e
+    });
+    accuracy = o / curRows.length, console.log("Nosely little fucker, ain't ya?"), String.prototype.contains = function(t) {
+        return -1 != this.indexOf(t)
+    }, d3.selectAll("td.col_4").style("background-color", function(t) {
+        return t.contains("High") ? "rgba(10, 255, 0, 0.15)" : t.contains("Med") ? "rgba(150, 255, 0, 0.15)" : t.contains("Low") ? "rgba(220, 158, 0, 0.15)" : "rgba(0, 0, 255, 0.15)"
+    }), d3.selectAll("td.col_6").style("background-color", function(t) {
+        return "lose" == t ? "rgba(250, 0, 0, 0.1)" : "rgba(0, 250, 0, 0.1)"
+    })
+}
+
+function getDateFromString(date) {
+    // Todo : move this crap to array with functions
+	
+	var a = document.getElementById("selectBoxConf");
+	var today = new Date();
+	var dayOffsetMs = 24 * 3600 * 1000;
+	switch (date) {
+	  case "Last week":
+		var lastWeek = new Date(today.getTime() - 7 * dayOffsetMs);
+		return lastWeek ;
+	  case "Last 2 weeks":
+	  	var lastWeek = new Date(today.getTime() - 14 * dayOffsetMs);
+		return lastWeek;
+	  case "Last month":
+	  	var lastWeek = new Date(today.getTime() - 30 * dayOffsetMs);
+		return lastWeek;
+	  case "20 results":
+		if(a.options[a.selectedIndex].value == "all") {
+			return 20 * a.options.length;
+		}
+		return 20;
+	 case "40 results":
+	 	if(a.options[a.selectedIndex].value == "all") {
+			return 40 * a.options.length;
+		}
+		return 40;
+	  default:
+		console.log("Could not parse " + date + ".");
+	}
+
+	return 0;
+}
+
+var index_t = 0;
+
+function updateAccuracy() {
+	index_t = 0;
+    loadTable(function(t) {
+        var e = document.getElementById("selectBox"),
+			b = document.getElementById("selectBoxTime"),
+            a = document.getElementById("selectBoxConf"),
+            n = e.options[e.selectedIndex].value,
+			b2 = b.options[b.selectedIndex].value
+            o = a.options[a.selectedIndex].value;
+			
+		
+		if(b2 != "All") {
+			
+			var time = "";
+			var f = "";
+			if(t.date.contains(".")) {
+				var from1 = t.date.split(".");
+				var f = new Date(parseInt(from1[2]) + 2000, from1[1]-1, from1[0]-1, 0, 0, 0); 
+				var time = getDateFromString(b2); 
+			}
+			else {
+				var from1 = t.date.split("-");
+				var f = new Date(from1[0], from1[1]-1, from1[2]-1, 0, 0, 0);
+				var time = getDateFromString(b2); 
+			}
+			//console.log(" " + f.getTime() + "  "  +time.getTime() +"  "  +(f.getTime()  > time.getTime()) + " Date for " + t.date + "  - > " +f);
+			//console.log(index_t + " " + time);
+			
+			if(time < 200) {
+				if(index_t >= time)
+					return false; 
+			} else {
+				if(f.getTime() <= time.getTime()){
+					return false;
+				}
+			}
+		}
+		
+		
+        var ret = "all" == n || t.league == n ? "all" == o || t.conf == o : false;
+		if(ret) {
+			index_t++;
+		}
+		
+		return ret;
+    });
+	
+    var acc = document.getElementById("acc-output");
+    acc.value = Math.floor(100 * accuracy) + "%"
+}
+
+
+var rows = [],
+    formatdate = d3.time.format("%d-%b-%Y"),
+    leagues = [],
+	timeIntervals = ["Last week", "Last 2 weeks", "Last month", "Last 2 months", "20 results", "40 results", "All"],
+    confidences = [],
+    accuracy = 0;
+	
+	
+initTable();
+	
+</script>
+
+
+			<!-- Highlights -->
+				<div class="wrapper style3">
+					<div class="title">Where</div>
+					<div id="highlights" class="container">
+						<div class="row 150%">
+							<div class="4u 12u(mobile)">
+								<section class="highlight">
+									<a href="https://twitter.com/fopabot" class="image featured"><img src="images/FOPAIco.jpg" alt="" /></a>
+									<h3><a href="https://twitter.com/fopabot">Twitter</a></h3>
+									<p>Results are posted here and updates are sent from Twitter bot</p>
+									<ul class="actions">
+										<li><a href="https://twitter.com/fopabot" class="button style1">Visit</a></li>
+									</ul>
+								</section>
+							</div>
+							<div class="4u 12u(mobile)">
+								<section class="highlight">
+									<a href="https://twitter.com/fopabot" class="image featured"><img src="images/logo.png" alt="" /></a>
+									<h3><a href="https://twitter.com/fopabot">Website</a></h3>
+									<p>Website coming soon.</p>
+									<ul class="actions">
+										<li><a href="https://twitter.com/fopabot" class="button style1">Visit</a></li>
+									</ul>
+								</section>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			<!-- Footer -->
+				<div id="footer-wrapper" class="wrapper">
+					<div class="title">Contact</div>
+					<div id="footer" class="container">
+						<header class="style1">
+							<h2>Got questions? Suggestions?</h2>
+							<p>
+								Suggestions are always apprechiated and I'll do my best to implement them as soon as possible<br />
+								so we can have better prediction model.
+							</p>
+						</header>
+						<hr />
+						<div class="row 150%">
+							<div class="6u 12u(mobile)">
+
+								<!-- Contact Form -->
+									<section>
+										<form method="post" action="#">
+											<div class="row 50%">
+												<div class="6u 12u(mobile)">
+													<input type="text" name="name" id="contact-name" placeholder="Name" />
+												</div>
+												<div class="6u 12u(mobile)">
+													<input type="text" name="email" id="contact-email" placeholder="Email" />
+												</div>
+											</div>
+											<div class="row 50%">
+												<div class="12u">
+													<textarea name="message" id="contact-message" placeholder="Message" rows="4"></textarea>
+												</div>
+											</div>
+											<div class="row">
+												<div class="12u">
+													<ul class="actions">
+														<li><input type="submit" class="style1" value="Send" /></li>
+														<li><input type="reset" class="style2" value="Reset" /></li>
+													</ul>
+												</div>
+											</div>
+										</form>
+									</section>
+
+							</div>
+							<div class="6u 12u(mobile)">
+
+								<!-- Contact -->
+									<section class="feature-list small">
+										<div class="row">
+											<div class="6u 12u(mobile)">
+												<section>
+													<h3 class="icon fa-comment">Social</h3>
+													<p>
+														<a href="http://www.twitter.com/fopabot">twitter.com/fopabot</a><br />
+														<a href="http://www.twitter.com/fopabot">facebook.com/fopabot</a>
+													</p>
+												</section>
+											</div>
+										</div>
+									</section>
+
+							</div>
+						</div>
+						<hr />
+					</div>
+					<div id="copyright">
+						<ul>
+							<li>&copy; FOPA</li>
+						</ul>
+					</div>
+				</div>
+
+		</div>
+
+		<!-- Scripts -->
+		
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/skel-viewport.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
