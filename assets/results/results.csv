@@ -1,63 +1,24 @@
 league,opp,opp2,result,conf,ROI,date
-primera-division,Mallorca,Sevilla,12,High conf,+34,21.12.19,1.00
-primera-division,Barcelona,Alaves,1,Med conf,+52,21.12.19,1.43
-primera-division,Villarreal,Getafe,1,Med conf,+26,21.12.19,1.43
-primera-division,Valladolid,Valencia,12,High conf,+40,21.12.19,1.00
-liga-1,FC Hermannstadt,Poli Iasi,1X,Med conf,+2,21.12.19,1.49
-liga-1,FC Voluntari,CFR Cluj,2,Med conf,+54,21.12.19,1.41
-jupiler-league,Mouscron,Charleroi,1,Med conf,+38,21.12.19,1.45
-jupiler-league,Eupen,Kortrijk,1,Med conf,+26,21.12.19,1.45
-jupiler-league,Cercle Brugge,Waregem,2,Low conf,+13,21.12.19,1.82
-jupiler-league,Waasland-Beveren,Standard,X2,Med conf,-5,21.12.19,1.49
-ligue-1,Dijon,Metz,X,Low conf,+19,21.12.19,2.00
-ligue-1,Marseille,Nimes,X,Low conf,+32,21.12.19,2.00
-ligue-1,Monaco,Lille,1,Med conf,+24,21.12.19,1.43
-ligue-1,Nantes,Angers,1X,High conf,+20,21.12.19,1.20
-ligue-1,Nice,Toulouse,1,Med conf,+11,21.12.19,1.43
-ligue-1,Paris SG,Amiens,1,Med conf,-23,21.12.19,1.43
-ligue-1,Reims,Lyon,X2,High conf,+26,21.12.19,1.20
-ligue-1,Rennes,Bordeaux,1X,Med conf,+14,21.12.19,1.25
-ligue-1,Strasbourg,St Etienne,>2.5,Low conf,+1,21.12.19,1.85
-championship,Cardiff,Preston,2,Med conf,+44,21.12.19,1.33
-championship,Fulham,Leeds,1,Low conf,+31,21.12.19,1.69
-championship,Huddersfield,Nott'm Forest,1,Low conf,+21,21.12.19,1.69
-championship,Hull,Birmingham,>2.5,Low conf,+1,21.12.19,1.85
-championship,Millwall,Barnsley,>2.5,Low conf,+1,21.12.19,1.85
-championship,Reading,Derby,2,Med conf,+47,21.12.19,1.33
-championship,West Brom,Brentford,1X,High conf,+39,21.12.19,1.00
-bundesliga,Bayern Munich,Wolfsburg,1,Med conf,+54,21.12.19,1.41
-bundesliga,FC Koln,Werder Bremen,12,Med conf,+14,21.12.19,1.30
-bundesliga,Schalke 04,Freiburg,1X,Med conf,-9,21.12.19,1.67
-bundesliga,Mainz,Leverkusen,1,Med conf,+45,21.12.19,1.41
-bundesliga,RB Leipzig,Augsburg,1,Med conf,-8,21.12.19,1.41
-bundesliga,Hertha,M'gladbach,X2,Med conf,+54,21.12.19,1.41
-serie-a,Udinese,Cagliari,2,Low conf,-61,21.12.19,2.56
-serie-a,Inter,Genoa,1,Med conf,+41,21.12.19,1.54
-serie-a,Torino,Spal,X2,Med conf,+62,21.12.19,1.33
-premier-league,Everton,Arsenal,1X,Med conf,+14,21.12.19,1.41
-premier-league,Aston Villa,Southampton,X2,High conf,+47,21.12.19,1.00
-premier-league,Bournemouth,Burnley,1X,Med conf,+54,21.12.19,1.41
-premier-league,Brighton,Sheffield United,<2.5,Med conf,+14,21.12.19,1.49
-premier-league,Newcastle,Crystal Palace,12,Med conf,+5,21.12.19,1.56
-premier-league,Norwich,Wolves,2,Med conf,+21,21.12.19,1.41
-premier-league,Man City,Leicester,X2,Med conf,+46,21.12.19,1.33
-premier-league,West Ham,Liverpool,X2,Med conf,+62,21.12.19,1.33
-primera-division,Leganes,Espanol,<2.5,Low conf,+1,22.12.19,1.85
-primera-division,Osasuna,Sociedad,X2,Med conf,+18,22.12.19,1.33
-primera-division,Betis,Ath Madrid,X2,Med conf,+11,22.12.19,1.33
-primera-division,Levante,Celta,12,High conf,+38,22.12.19,1.00
-primera-division,Real Madrid,Ath Bilbao,1,Med conf,-4,22.12.19,1.43
-liga-1,Sepsi Sf. Gheorghe,Chindia Targoviste,1X,High conf,+33,22.12.19,1.00
-liga-1,FC Steaua Bucuresti,U Craiova,1X,High conf,+34,22.12.19,1.00
-jupiler-league,Gent,Club Brugge,2,Low conf,+13,22.12.19,1.82
-jupiler-league,St Truiden,Antwerp,<2.5,Med conf,+67,22.12.19,1.28
-jupiler-league,Anderlecht,Genk,1,Med conf,+50,22.12.19,1.45
-championship,Sheffield Weds,Bristol City,12,High conf,+15,22.12.19,1.22
-bundesliga,Fortuna Dusseldorf,Union Berlin,12,Med conf,+17,22.12.19,1.30
-bundesliga,Paderborn,Ein Frankfurt,>2.5,Med conf,+20,22.12.19,1.37
-serie-a,Atalanta,Milan,X,Low conf,-5,22.12.19,2.00
-serie-a,Lecce,Bologna,1,Med conf,+41,22.12.19,1.54
-serie-a,Parma,Brescia,X,Low conf,-5,22.12.19,2.00
-serie-a,Sassuolo,Napoli,X2,Med conf,+62,22.12.19,1.33
-premier-league,Watford,Man United,X,Low conf,+7,22.12.19,3.03
-premier-league,Tottenham,Chelsea,1X,Med conf,+13,22.12.19,1.41
+jupiler-league,Charleroi,Oostende,12,Med conf,+6,27.12.19,1.33
+jupiler-league,Antwerp,Anderlecht,<2.5,Med conf,+22,27.12.19,1.33
+premier-league,Wolves,Man City,2,Med conf,+5,27.12.19,1.30
+premier-league,Brighton,Bournemouth,<2.5,Med conf,+10,28.12.19,1.59
+premier-league,Newcastle,Everton,1,High conf,+72,28.12.19,1.00
+premier-league,Southampton,Crystal Palace,1,Med conf,+12,28.12.19,1.59
+premier-league,Watford,Aston Villa,12,Med conf,+5,28.12.19,1.45
+premier-league,Norwich,Tottenham,12,Med conf,+2,28.12.19,1.45
+premier-league,West Ham,Leicester,2,Med conf,+25,28.12.19,1.30
+premier-league,Burnley,Man United,1,High conf,+77,28.12.19,1.00
+championship,Birmingham,Leeds,1X,High conf,+52,29.12.19,1.09
+championship,Fulham,Stoke,1,Low conf,+4,29.12.19,1.75
+championship,Huddersfield,Blackburn,12,High conf,+23,29.12.19,1.20
+championship,Millwall,Brentford,1X,High conf,+43,29.12.19,1.09
+championship,Nott'm Forest,Wigan,<2.5,Low conf,+4,29.12.19,1.75
+championship,Preston,Reading,12,Low conf,-14,29.12.19,2.00
+championship,QPR,Hull,1,Low conf,+15,29.12.19,1.75
+championship,Sheffield Weds,Cardiff,1X,Med conf,+6,29.12.19,1.33
+championship,Swansea,Barnsley,12,High conf,+19,29.12.19,1.20
+championship,West Brom,Middlesbrough,12,High conf,+10,29.12.19,1.20
+premier-league,Arsenal,Chelsea,12,Med conf,+7,29.12.19,1.45
+premier-league,Liverpool,Wolves,1,Med conf,-15,29.12.19,1.59
+premier-league,Man City,Sheffield United,1,Med conf,-21,29.12.19,1.59
