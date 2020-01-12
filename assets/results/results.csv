@@ -1,24 +1,13 @@
 league,opp,opp2,result,conf,ROI,date
-jupiler-league,Charleroi,Oostende,12,Med conf,+6,27.12.19,1.33
-jupiler-league,Antwerp,Anderlecht,<2.5,Med conf,+22,27.12.19,1.33
-premier-league,Wolves,Man City,2,Med conf,+5,27.12.19,1.30
-premier-league,Brighton,Bournemouth,<2.5,Med conf,+10,28.12.19,1.59
-premier-league,Newcastle,Everton,1,High conf,+72,28.12.19,1.00
-premier-league,Southampton,Crystal Palace,1,Med conf,+12,28.12.19,1.59
-premier-league,Watford,Aston Villa,12,Med conf,+5,28.12.19,1.45
-premier-league,Norwich,Tottenham,12,Med conf,+2,28.12.19,1.45
-premier-league,West Ham,Leicester,2,Med conf,+25,28.12.19,1.30
-premier-league,Burnley,Man United,1,High conf,+77,28.12.19,1.00
-championship,Birmingham,Leeds,1X,High conf,+52,29.12.19,1.09
-championship,Fulham,Stoke,1,Low conf,+4,29.12.19,1.75
-championship,Huddersfield,Blackburn,12,High conf,+23,29.12.19,1.20
-championship,Millwall,Brentford,1X,High conf,+43,29.12.19,1.09
-championship,Nott'm Forest,Wigan,<2.5,Low conf,+4,29.12.19,1.75
-championship,Preston,Reading,12,Low conf,-14,29.12.19,2.00
-championship,QPR,Hull,1,Low conf,+15,29.12.19,1.75
-championship,Sheffield Weds,Cardiff,1X,Med conf,+6,29.12.19,1.33
-championship,Swansea,Barnsley,12,High conf,+19,29.12.19,1.20
-championship,West Brom,Middlesbrough,12,High conf,+10,29.12.19,1.20
-premier-league,Arsenal,Chelsea,12,Med conf,+7,29.12.19,1.45
-premier-league,Liverpool,Wolves,1,Med conf,-15,29.12.19,1.59
-premier-league,Man City,Sheffield United,1,Med conf,-21,29.12.19,1.59
+ligue-1,St Etienne,Nantes,1,Med conf,+34,12.01.20,1.39
+ligue-1,Dijon,Lille,>2.5,Low conf,-3,12.01.20,2.00
+ligue-1,Paris SG,Monaco,1,Med conf,-13,12.01.20,1.39
+championship,Cardiff,Swansea,X2,Med conf,+9,12.01.20,1.59
+serie-a,Udinese,Sassuolo,2,Low conf,-5,12.01.20,2.00
+serie-a,Fiorentina,Spal,1,Low conf,+3,12.01.20,1.92
+serie-a,Sampdoria,Brescia,>2.5,Low conf,+16,12.01.20,1.79
+serie-a,Torino,Bologna,1,Low conf,+3,12.01.20,1.92
+serie-a,Verona,Genoa,>2.5,Low conf,+16,12.01.20,1.79
+serie-a,Roma,Juventus,X2,Med conf,+46,12.01.20,1.49
+premier-league,Bournemouth,Watford,2,Low conf,+6,12.01.20,1.89
+premier-league,Aston Villa,Man City,2,Low conf,-32,12.01.20,1.89
