@@ -1,4 +1,40 @@
 league,opp,opp2,result,conf,ROI,date,outcome
+primera-division,Levante,Leganes,X2,Med conf,+20,08.02.20,lose
+primera-division,Getafe,Valencia,>2.5,Med conf,+11,08.02.20,win
+primera-division,Valladolid,Villarreal,>2.5,Med conf,+11,08.02.20,lose
+primera-division,Ath Madrid,Granada,1,Med conf,+41,08.02.20,win
+liga-1,Gaz Metan Medias,CFR Cluj,1X,High conf,+54,08.02.20,win
+primeira-liga,Belenenses,Santa Clara,1X,Med conf,+7,08.02.20,lose
+primeira-liga,Sp Braga,Gil Vicente,1,Med conf,+34,08.02.20,lose
+primeira-liga,Porto,Benfica,1X,Med conf,+7,08.02.20,win
+jupiler-league,Charleroi,Waregem,1,High conf,+18,08.02.20,win
+jupiler-league,Cercle Brugge,Mechelen,2,Low conf,-5,08.02.20,lose
+jupiler-league,St Truiden,Eupen,1,High conf,+73,08.02.20,win
+jupiler-league,Mouscron,Oostende,<2.5,Med conf,+7,08.02.20,lose
+ligue-1,Marseille,Toulouse,1,Med conf,+41,08.02.20,win
+ligue-1,Amiens,Monaco,12,Med conf,+12,08.02.20,win
+ligue-1,Dijon,Nantes,12,Med conf,+15,08.02.20,lose
+ligue-1,Metz,Bordeaux,12,Med conf,+16,08.02.20,win
+ligue-1,Nice,Nimes,1,Med conf,+13,08.02.20,lose
+championship,Wigan,Preston,1X,Med conf,+21,08.02.20,lose
+championship,Barnsley,Sheffield Weds,12,Med conf,+52,08.02.20,lose
+championship,Blackburn,Fulham,X2,Med conf,+15,08.02.20,win
+championship,Brentford,Middlesbrough,1,Med conf,+3,08.02.20,win
+championship,Huddersfield,QPR,2,Low conf,+23,08.02.20,lose
+championship,Reading,Hull,1,Med conf,+18,08.02.20,lose
+championship,Swansea,Derby,12,Med conf,+7,08.02.20,win
+championship,Nott'm Forest,Leeds,1,Med conf,+43,08.02.20,win
+bundesliga,Schalke 04,Paderborn,1,Med conf,-1,08.02.20,lose
+bundesliga,Hertha,Mainz,>2.5,Med conf,+14,08.02.20,win
+bundesliga,Freiburg,Hoffenheim,X2,Med conf,+12,08.02.20,lose
+bundesliga,Wolfsburg,Fortuna Dusseldorf,1,Med conf,+0,08.02.20,lose
+bundesliga,Werder Bremen,Union Berlin,1,Med conf,+17,08.02.20,lose
+bundesliga,Leverkusen,Dortmund,2,Low conf,+3,08.02.20,lose
+serie-a,Fiorentina,Atalanta,2,Low conf,-32,08.02.20,win
+serie-a,Torino,Sampdoria,1X,Med conf,+39,08.02.20,lose
+serie-a,Verona,Juventus,2,Low conf,-32,08.02.20,lose
+premier-league,Everton,Crystal Palace,1X,Med conf,+4,08.02.20,win
+premier-league,Brighton,Watford,1X,High conf,+38,08.02.20,win
 primera-division,Granada,Alaves,12,High conf,+75,07.12.19,win
 primera-division,Levante,Valencia,1X,High conf,+35,07.12.19,lose
 primera-division,Barcelona,Mallorca,1X,High conf,-4,07.12.19,win
