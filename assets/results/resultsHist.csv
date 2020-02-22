@@ -1,4 +1,41 @@
 league,opp,opp2,result,conf,ROI,date,outcome
+
+
+liga-1,FC Voluntari,FC Hermannstadt,1X,High conf,+41,22.02.20,win
+liga-1,FC Steaua Bucuresti,Chindia Targoviste,12,High conf,+9,22.02.20,lose
+jupiler-league,Standard,Antwerp,12,High conf,+37,22.02.20,win
+jupiler-league,Oostende,Waregem,2,Low conf,+10,22.02.20,lose
+jupiler-league,Mouscron,Cercle Brugge,<2.5,Med conf,+39,22.02.20,win
+jupiler-league,Mechelen,Waasland-Beveren,1,Med conf,+70,22.02.20,win
+ligue-1,Marseille,Nantes,X2,Med conf,+32,22.02.20,win
+ligue-1,Angers,Montpellier,X2,Low conf,-4,22.02.20,lose
+ligue-1,Dijon,Monaco,<2.5,Low conf,+5,22.02.20,win
+ligue-1,Lille,Toulouse,BTTS,Med conf,+62,22.02.20,lose
+ligue-1,Strasbourg,Amiens,1,Med conf,+16,22.02.20,lose
+championship,Brentford,Blackburn,1X,Med conf,-8,22.02.20,win
+championship,Barnsley,Middlesbrough,X2,Med conf,+46,22.02.20,lose
+championship,Birmingham,Sheffield Weds,>2.5,Low conf,-3,22.02.20,win
+championship,Bristol City,West Brom,12,Med conf,+13,22.02.20,win
+championship,Leeds,Reading,2,High conf,+73,22.02.20,lose
+championship,Nott'm Forest,QPR,2,High conf,+53,22.02.20,lose
+championship,Preston,Hull,1X,Med conf,-7,22.02.20,win		
+championship,Stoke,Cardiff,X2,Med conf,+18,22.02.20,lose
+championship,Swansea,Huddersfield,1X,Med conf,+0,22.02.20,win
+championship,Wigan,Millwall,1,Med conf,+28,22.02.20,win
+bundesliga,M'gladbach,Hoffenheim,BTTS,Med conf,+58,22.02.20,win
+bundesliga,Hertha,FC Koln,1,Med conf,+32,22.02.20,lose
+bundesliga,Freiburg,Fortuna Dusseldorf,X2,High conf,+38,22.02.20,win
+bundesliga,Werder Bremen,Dortmund,2,Low conf,-14,22.02.20,win
+bundesliga,Schalke 04,RB Leipzig,X2,High conf,+17,22.02.20,win
+serie-a,Bologna,Udinese,1,Med conf,+34,22.02.20,lose
+serie-a,Spal,Juventus,2,Med conf,+46,22.02.20,win
+serie-a,Fiorentina,Milan,BTTS,High conf,+81,22.02.20,win
+premier-league,Chelsea,Tottenham,1,Med conf,+19,22.02.20,win
+premier-league,Burnley,Bournemouth,1X,Med conf,+15,22.02.20,win
+premier-league,Crystal Palace,Newcastle,X,Med conf,+29,22.02.20,lose
+premier-league,Sheffield United,Brighton,X,Med conf,+30,22.02.20,win
+premier-league,Southampton,Aston Villa,1,Med conf,+15,22.02.20,win
+premier-league,Leicester,Man City,12,High conf,+24,22.02.20,win
 primera-division,Levante,Leganes,X2,Med conf,+20,08.02.20,lose
 primera-division,Getafe,Valencia,>2.5,Med conf,+11,08.02.20,win
 primera-division,Valladolid,Villarreal,>2.5,Med conf,+11,08.02.20,lose
