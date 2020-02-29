@@ -1,32 +1,74 @@
 league,opp,opp2,result,conf,ROI,date
-primera-division,Osasuna,Granada,1,Med conf,+58,23.02.20,1.37
-primera-division,Alaves,Ath Bilbao,BTTS,Med conf,+62,23.02.20,1.33
-primera-division,Valladolid,Espanol,X2,High conf,+32,23.02.20,1.15
-primera-division,Getafe,Sevilla,<2.5,Low conf,+5,23.02.20,1.72
-primera-division,Ath Madrid,Villarreal,1X,Med conf,+9,23.02.20,1.25
-liga-1,Astra,Sepsi Sf. Gheorghe,1,High conf,+43,23.02.20,1.12
-liga-1,Gaz Metan Medias,Din. Bucuresti,1,High conf,+31,23.02.20,1.12
-liga-1,Viitorul Constanta,Academica Clinceni,1,High conf,+11,23.02.20,1.12
-liga-1,U Craiova,CFR Cluj,1X,High conf,+95,23.02.20,1.00
-primeira-liga,Belenenses,Maritimo,1,Med conf,+20,23.02.20,1.59
-primeira-liga,Moreirense,Santa Clara,12,Med conf,+19,23.02.20,1.25
-primeira-liga,Sp Lisbon,Boavista,1,Med conf,-0,23.02.20,1.59
-primeira-liga,Sp Braga,Setubal,1,Med conf,-14,23.02.20,1.59
-primeira-liga,Porto,Portimonense,1,Med conf,-22,23.02.20,1.59
-jupiler-league,Club Brugge,Charleroi,1X,Med conf,+46,23.02.20,1.49
-jupiler-league,Anderlecht,Eupen,1,Med conf,+11,23.02.20,1.25
-jupiler-league,Gent,St Truiden,1,Med conf,+70,23.02.20,1.25
-ligue-1,St Etienne,Reims,1,Med conf,+28,23.02.20,1.37
-ligue-1,Rennes,Nimes,1X,Med conf,+10,23.02.20,1.25
-ligue-1,Paris SG,Bordeaux,1,Med conf,-15,23.02.20,1.37
-bundesliga,Leverkusen,Augsburg,12,Low conf,-5,23.02.20,2.00
-bundesliga,Wolfsburg,Mainz,1,Med conf,+16,23.02.20,1.41
-serie-a,Genoa,Lazio,X,Low conf,-108,23.02.20,3.03
-serie-a,Atalanta,Sassuolo,X2,Med conf,+70,23.02.20,1.25
-serie-a,Torino,Parma,1X,Low conf,+13,23.02.20,1.82
-serie-a,Verona,Cagliari,X2,Low conf,-38,23.02.20,2.33
-serie-a,Roma,Lecce,1X,Low conf,+20,23.02.20,1.75
-serie-a,Inter,Sampdoria,>2.5,Med conf,+70,23.02.20,1.25
-premier-league,Man United,Watford,1,Med conf,+17,23.02.20,1.27
-premier-league,Wolves,Norwich,1X,Med conf,+1,23.02.20,1.33
-premier-league,Arsenal,Everton,1,Med conf,+68,23.02.20,1.27
+primera-division,Eibar,Levante,1,Med conf,+18,29.02.20,1.47
+primera-division,Valencia,Betis,>2.5,Low conf,+2,29.02.20,1.82
+primera-division,Leganes,Alaves,>2.5,Low conf,+2,29.02.20,1.82
+primera-division,Granada,Celta,1,Med conf,+48,29.02.20,1.47
+liga-1,Viitorul Constanta,FC Voluntari,1,High conf,+32,29.02.20,1.06
+liga-1,FC Botosani,FC Steaua Bucuresti,12,High conf,+22,29.02.20,1.16
+primeira-liga,Rio Ave,Belenenses,1,Med conf,-1,29.02.20,1.47
+primeira-liga,Boavista,Gil Vicente,12,High conf,+95,29.02.20,1.00
+jupiler-league,Waasland-Beveren,Anderlecht,2,Low conf,-17,29.02.20,2.38
+jupiler-league,Eupen,Mouscron,2,Low conf,+14,29.02.20,2.38
+jupiler-league,Waregem,Kortrijk,2,Low conf,+6,29.02.20,2.38
+jupiler-league,Antwerp,Oostende,1,Med conf,+6,29.02.20,1.28
+ligue-1,Paris SG,Dijon,1,Med conf,-20,29.02.20,1.47
+ligue-1,Amiens,Metz,1,Med conf,+20,29.02.20,1.47
+ligue-1,Monaco,Reims,X2,Low conf,+8,29.02.20,2.00
+ligue-1,Montpellier,Strasbourg,2,Med conf,+50,29.02.20,1.27
+ligue-1,Toulouse,Rennes,2,Med conf,+30,29.02.20,1.27
+mls,DC United,Colorado Rapids,12,Low conf,--,29.02.20,-
+mls,Montreal Impact,New England Revolution,X2,Low conf,--,29.02.20,-
+mls,Houston Dynamo,Los Angeles Galaxy,2,Low conf,--,29.02.20,-
+championship,Hull,Leeds,X2,Med conf,-6,29.02.20,1.41
+championship,Blackburn,Swansea,1,Med conf,+21,29.02.20,1.49
+championship,Cardiff,Brentford,1X,Med conf,+18,29.02.20,1.49
+championship,Fulham,Preston,12,Med conf,+11,29.02.20,1.32
+championship,Millwall,Bristol City,12,Low conf,-19,29.02.20,2.27
+championship,QPR,Birmingham,12,Low conf,-18,29.02.20,2.27
+championship,Reading,Barnsley,2,Med conf,+32,29.02.20,1.56
+championship,Sheffield Weds,Derby,X2,Low conf,+0,29.02.20,2.00
+championship,West Brom,Wigan,X2,Med conf,+38,29.02.20,1.41
+bundesliga,Hoffenheim,Bayern Munich,BTTS,Med conf,+58,29.02.20,1.37
+bundesliga,Dortmund,Freiburg,1,Med conf,-16,29.02.20,1.49
+bundesliga,Augsburg,M'gladbach,>2.5,Med conf,+70,29.02.20,1.25
+bundesliga,Mainz,Paderborn,1,Med conf,+12,29.02.20,1.49
+bundesliga,FC Koln,Schalke 04,1,Med conf,+22,29.02.20,1.49
+serie-a,Lazio,Bologna,BTTS,High conf,+75,29.02.20,1.20
+serie-a,Udinese,Fiorentina,BTTS,High conf,+75,29.02.20,1.20
+serie-a,Napoli,Torino,1X,Med conf,+28,29.02.20,1.67
+premier-league,Brighton,Crystal Palace,2,Low conf,+32,29.02.20,1.75
+premier-league,Bournemouth,Chelsea,2,Low conf,+20,29.02.20,1.75
+premier-league,Newcastle,Burnley,2,Low conf,+22,29.02.20,1.75
+premier-league,West Ham,Southampton,X,Low conf,+22,29.02.20,2.00
+premier-league,Watford,Liverpool,2,Low conf,-13,29.02.20,1.75
+primera-division,Sevilla,Osasuna,1,Med conf,+0,01.03.20,1.47
+primera-division,Ath Bilbao,Villarreal,X2,Med conf,+68,01.03.20,1.27
+primera-division,Espanol,Ath Madrid,X2,Med conf,+14,01.03.20,1.27
+primera-division,Mallorca,Getafe,12,High conf,+24,01.03.20,1.20
+primera-division,Real Madrid,Barcelona,BTTS,Med conf,+70,01.03.20,1.25
+liga-1,U Craiova,Gaz Metan Medias,1X,High conf,+95,01.03.20,1.00
+primeira-liga,Aves,Pacos Ferreira,1X,Low conf,-15,01.03.20,2.33
+primeira-liga,Maritimo,Sp Braga,2,High conf,+32,01.03.20,1.09
+primeira-liga,Guimaraes,Tondela,1,Med conf,-8,01.03.20,1.47
+jupiler-league,Genk,Club Brugge,2,Low conf,-43,01.03.20,2.38
+jupiler-league,Charleroi,Standard,12,High conf,+38,01.03.20,1.00
+jupiler-league,Cercle Brugge,Gent,2,Low conf,-43,01.03.20,2.38
+ligue-1,Nantes,Lille,1X,Med conf,+20,01.03.20,1.33
+ligue-1,Bordeaux,Nice,X,High conf,+55,01.03.20,1.20
+ligue-1,Lyon,St Etienne,BTTS,Med conf,+70,01.03.20,1.25
+mls,San Jose Earthquakes,Toronto FC,>2.5,Low conf,--,01.03.20,-
+mls,FC Dallas,Philadelphia Union,1X,Low conf,--,01.03.20,-
+mls,Orlando City,Real Salt Lake,X2,Low conf,--,01.03.20,-
+super-league,Shandong Luneng,Jiangsu Suning,X2,Low conf,--,01.03.20,-
+bundesliga,Union Berlin,Wolfsburg,X2,Low conf,-23,01.03.20,3.03
+bundesliga,RB Leipzig,Leverkusen,1,Med conf,-0,01.03.20,1.49
+bundesliga,Werder Bremen,Ein Frankfurt,BTTS,Med conf,+58,01.03.20,1.37
+serie-a,Milan,Genoa,X,Low conf,-205,01.03.20,4.00
+serie-a,Lecce,Atalanta,2,Med conf,+41,01.03.20,1.54
+serie-a,Parma,Spal,BTTS,High conf,+75,01.03.20,1.20
+serie-a,Sassuolo,Brescia,>2.5,Low conf,+20,01.03.20,1.75
+serie-a,Cagliari,Roma,BTTS,High conf,+75,01.03.20,1.20
+serie-a,Juventus,Inter,BTTS,High conf,+75,01.03.20,1.20
+premier-league,Everton,Man United,12,High conf,+22,01.03.20,1.22
+premier-league,Tottenham,Wolves,12,High conf,+23,01.03.20,1.22
+premier-league,Man City,Arsenal,>2.5,High conf,+95,01.03.20,1.00
