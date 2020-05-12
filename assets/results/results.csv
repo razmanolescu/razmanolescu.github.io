@@ -1,6 +1,7 @@
 league,opp,opp2,result,conf,ROI,date
-russian-premier-league,Sochi,Krasnodar,1X,Low conf,-1,15.03.20,2.00
-russian-premier-league,CSKA Moscow,Ufa,1X,Low conf,-22,15.03.20,2.00
-russian-premier-league,FK Rostov,Lokomotiv Moscow,1,Med conf,+23,15.03.20,1.45
-super-lig,Kayserispor,Yeni Malatyaspor,>2.5,Low conf,+20,15.03.20,1.75
-super-lig,Galatasaray,Besiktas,1,Med conf,+58,15.03.20,1.37
+bundesliga,Hoffenheim,Hertha,X2,Med conf,+15,17.05.20,0.86,1.49,1.91
+bundesliga,Dortmund,Schalke 04,1,Med conf,+13,17.05.20,0.95,1.28,1.55
+bundesliga,Augsburg,Wolfsburg,1X,Med conf,+10,17.05.20,0.86,1.49,1.76
+bundesliga,Fortuna Dusseldorf,Paderborn,X2,Med conf,+13,17.05.20,0.86,1.49,1.85
+bundesliga,RB Leipzig,Freiburg,1,Med conf,+3,17.05.20,0.95,1.28,1.33
+bundesliga,Ein Frankfurt,M'gladbach,12,Med conf,-5,17.05.20,0.90,1.49,1.40
