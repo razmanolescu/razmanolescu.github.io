@@ -1,7 +1,16 @@
 league,opp,opp2,result,conf,ROI,date
-bundesliga,Hoffenheim,Hertha,X2,Med conf,+15,17.05.20,0.86,1.49,1.91
-bundesliga,Dortmund,Schalke 04,1,Med conf,+13,17.05.20,0.95,1.28,1.55
-bundesliga,Augsburg,Wolfsburg,1X,Med conf,+10,17.05.20,0.86,1.49,1.76
-bundesliga,Fortuna Dusseldorf,Paderborn,X2,Med conf,+13,17.05.20,0.86,1.49,1.85
-bundesliga,RB Leipzig,Freiburg,1,Med conf,+3,17.05.20,0.95,1.28,1.33
-bundesliga,Ein Frankfurt,M'gladbach,12,Med conf,-5,17.05.20,0.90,1.49,1.40
+bundesliga,Hoffenheim,Hertha,X2,Med conf,+13,16.05.20,0.86,1.49,1.85
+bundesliga,Dortmund,Schalke 04,1,Med conf,+13,16.05.20,0.95,1.28,1.53
+bundesliga,Augsburg,Wolfsburg,1X,Med conf,+12,16.05.20,0.86,1.49,1.83
+bundesliga,Fortuna Dusseldorf,Paderborn,X2,Med conf,+13,16.05.20,0.86,1.49,1.84
+bundesliga,RB Leipzig,Freiburg,1,Med conf,+3,16.05.20,0.95,1.28,1.33
+bundesliga,Ein Frankfurt,M'gladbach,12,Med conf,-5,16.05.20,0.90,1.49,1.39
+2-bundesliga,Erzgebirge Aue,Sandhausen,1X,High conf,+19,16.05.20,0.92,1.20,1.56
+2-bundesliga,Regensburg,Holstein Kiel,2,Low conf,+10,16.05.20,0.89,2.00,2.48
+2-bundesliga,Karlsruhe,Darmstadt,1X,High conf,+20,16.05.20,0.92,1.20,1.59
+2-bundesliga,Bochum,Heidenheim,1X,Med conf,+15,16.05.20,0.90,1.28,1.59
+bundesliga,FC Koln,Mainz,2,High conf,+55,17.05.20,0.94,1.23,3.92
+bundesliga,Union Berlin,Bayern Munich,2,High conf,-2,17.05.20,0.94,1.23,1.21
+2-bundesliga,St Pauli,Nurnberg,1,Med conf,+35,17.05.20,0.92,1.33,2.51
+2-bundesliga,Wehen,Stuttgart,1X,High conf,+42,17.05.20,0.92,1.20,2.45
+2-bundesliga,Greuther Furth,Hamburg,X2,Med conf,-10,17.05.20,0.75,1.49,1.30
