@@ -1,16 +1,17 @@
 league,opp,opp2,result,conf,ROI,date
-bundesliga,Hoffenheim,Hertha,X2,Med conf,+13,16.05.20,0.86,1.49,1.85
-bundesliga,Dortmund,Schalke 04,1,Med conf,+13,16.05.20,0.95,1.28,1.53
-bundesliga,Augsburg,Wolfsburg,1X,Med conf,+12,16.05.20,0.86,1.49,1.83
-bundesliga,Fortuna Dusseldorf,Paderborn,X2,Med conf,+13,16.05.20,0.86,1.49,1.84
-bundesliga,RB Leipzig,Freiburg,1,Med conf,+3,16.05.20,0.95,1.28,1.33
-bundesliga,Ein Frankfurt,M'gladbach,12,Med conf,-5,16.05.20,0.90,1.49,1.39
-2-bundesliga,Erzgebirge Aue,Sandhausen,1X,High conf,+19,16.05.20,0.92,1.20,1.56
-2-bundesliga,Regensburg,Holstein Kiel,2,Low conf,+10,16.05.20,0.89,2.00,2.48
-2-bundesliga,Karlsruhe,Darmstadt,1X,High conf,+20,16.05.20,0.92,1.20,1.59
-2-bundesliga,Bochum,Heidenheim,1X,Med conf,+15,16.05.20,0.90,1.28,1.59
-bundesliga,FC Koln,Mainz,2,High conf,+55,17.05.20,0.94,1.23,3.92
-bundesliga,Union Berlin,Bayern Munich,2,High conf,-2,17.05.20,0.94,1.23,1.21
-2-bundesliga,St Pauli,Nurnberg,1,Med conf,+35,17.05.20,0.92,1.33,2.51
-2-bundesliga,Wehen,Stuttgart,1X,High conf,+42,17.05.20,0.92,1.20,2.45
-2-bundesliga,Greuther Furth,Hamburg,X2,Med conf,-10,17.05.20,0.75,1.49,1.30
+bundesliga,Hertha,Union Berlin,>2.5,Med conf,+17,22.05.20,0.91,1.43,1.90
+2-bundesliga,Heidenheim,Wehen,1X,High conf,+15,22.05.20,0.92,1.10,1.31
+2-bundesliga,Nurnberg,Erzgebirge Aue,1,Med conf,+28,22.05.20,0.93,1.27,1.96
+bundesliga,M'gladbach,Leverkusen,>2.5,Med conf,+17,23.05.20,0.91,1.43,1.90
+bundesliga,Freiburg,Werder Bremen,1,High conf,+38,23.05.20,0.95,1.20,2.20
+bundesliga,Paderborn,Hoffenheim,X2,Med conf,-3,23.05.20,0.86,1.49,1.44
+bundesliga,Wolfsburg,Dortmund,2,Med conf,+19,23.05.20,0.94,1.32,1.76
+bundesliga,Bayern Munich,Ein Frankfurt,1,High conf,-4,23.05.20,0.95,1.20,1.15
+2-bundesliga,Darmstadt,St Pauli,1X,Med conf,+10,23.05.20,0.89,1.33,1.53
+2-bundesliga,Sandhausen,Regensburg,12,High conf,+29,23.05.20,0.67,1.00,1.41
+bundesliga,Schalke 04,Augsburg,>2.5,Med conf,+17,24.05.20,0.91,1.43,1.90
+bundesliga,Mainz,RB Leipzig,2,Med conf,+8,24.05.20,0.94,1.32,1.46
+bundesliga,FC Koln,Fortuna Dusseldorf,2,Med conf,+52,24.05.20,0.94,1.32,4.24
+2-bundesliga,Hamburg,Bielefeld,1X,High conf,+18,24.05.20,0.92,1.10,1.36
+2-bundesliga,Holstein Kiel,Stuttgart,12,Med conf,-9,24.05.20,0.89,1.59,1.38
+2-bundesliga,Karlsruhe,Bochum,2,Low conf,+9,24.05.20,0.92,2.22,2.80

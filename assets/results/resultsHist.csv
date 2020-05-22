@@ -1,6 +1,19 @@
 league,opp,opp2,result,conf,ROI,date,outcome
-
-
+bundesliga,Hoffenheim,Hertha,X2,Med conf,+13,16.05.20,0.86,1.49,win
+bundesliga,Dortmund,Schalke 04,1,Med conf,+13,16.05.20,0.95,1.28,win
+bundesliga,Augsburg,Wolfsburg,1X,Med conf,+12,16.05.20,0.86,1.49,lose
+bundesliga,Fortuna Dusseldorf,Paderborn,X2,Med conf,+13,16.05.20,0.86,1.49,win
+bundesliga,RB Leipzig,Freiburg,1,Med conf,+3,16.05.20,0.95,1.28,lose
+bundesliga,Ein Frankfurt,M'gladbach,12,Med conf,-5,16.05.20,0.90,1.49,win
+bundesliga,FC Koln,Mainz,2,High conf,+55,17.05.20,0.94,1.23,lose
+bundesliga,Union Berlin,Bayern Munich,2,High conf,-2,17.05.20,0.94,1.23,win
+2-bundesliga,St Pauli,Nurnberg,1,Med conf,+35,17.05.20,0.92,1.33,win
+2-bundesliga,Wehen,Stuttgart,1X,High conf,+42,17.05.20,0.92,1.20,win
+2-bundesliga,Greuther Furth,Hamburg,X2,Med conf,-10,17.05.20,0.75,1.49,win
+2-bundesliga,Erzgebirge Aue,Sandhausen,1X,High conf,+19,16.05.20,0.92,1.20,win
+2-bundesliga,Regensburg,Holstein Kiel,2,Low conf,+10,16.05.20,0.89,2.00,lose
+2-bundesliga,Karlsruhe,Darmstadt,1X,High conf,+20,16.05.20,0.92,1.20,win
+2-bundesliga,Bochum,Heidenheim,1X,Med conf,+15,16.05.20,0.90,1.28,win
 liga-1,FC Voluntari,FC Hermannstadt,1X,High conf,+41,22.02.20,win
 liga-1,FC Steaua Bucuresti,Chindia Targoviste,12,High conf,+9,22.02.20,lose
 jupiler-league,Standard,Antwerp,12,High conf,+37,22.02.20,win
