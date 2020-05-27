@@ -1,17 +1,9 @@
 league,opp,opp2,result,conf,ROI,date
-bundesliga,Hertha,Union Berlin,>2.5,Med conf,+17,22.05.20,0.91,1.43,1.90
-2-bundesliga,Heidenheim,Wehen,1X,High conf,+15,22.05.20,0.92,1.10,1.31
-2-bundesliga,Nurnberg,Erzgebirge Aue,1,Med conf,+28,22.05.20,0.93,1.27,1.96
-bundesliga,M'gladbach,Leverkusen,>2.5,Med conf,+17,23.05.20,0.91,1.43,1.90
-bundesliga,Freiburg,Werder Bremen,1,High conf,+38,23.05.20,0.95,1.20,2.20
-bundesliga,Paderborn,Hoffenheim,X2,Med conf,-3,23.05.20,0.86,1.49,1.44
-bundesliga,Wolfsburg,Dortmund,2,Med conf,+19,23.05.20,0.94,1.32,1.76
-bundesliga,Bayern Munich,Ein Frankfurt,1,High conf,-4,23.05.20,0.95,1.20,1.15
-2-bundesliga,Darmstadt,St Pauli,1X,Med conf,+10,23.05.20,0.89,1.33,1.53
-2-bundesliga,Sandhausen,Regensburg,12,High conf,+29,23.05.20,0.67,1.00,1.41
-bundesliga,Schalke 04,Augsburg,>2.5,Med conf,+17,24.05.20,0.91,1.43,1.90
-bundesliga,Mainz,RB Leipzig,2,Med conf,+8,24.05.20,0.94,1.32,1.46
-bundesliga,FC Koln,Fortuna Dusseldorf,2,Med conf,+52,24.05.20,0.94,1.32,4.24
-2-bundesliga,Hamburg,Bielefeld,1X,High conf,+18,24.05.20,0.92,1.10,1.36
-2-bundesliga,Holstein Kiel,Stuttgart,12,Med conf,-9,24.05.20,0.89,1.59,1.38
-2-bundesliga,Karlsruhe,Bochum,2,Low conf,+9,24.05.20,0.92,2.22,2.80
+bundesliga,RB Leipzig,Hertha,1,High conf,+8,27.05.20,0.95,1.20,1.34
+bundesliga,Hoffenheim,FC Koln,X2,Med conf,+7,27.05.20,0.86,1.49,1.68
+bundesliga,Augsburg,Paderborn,1,High conf,+31,27.05.20,0.95,1.20,1.93
+bundesliga,Fortuna Dusseldorf,Schalke 04,1X,Low conf,-14,27.05.20,0.86,2.00,1.57
+bundesliga,Union Berlin,Mainz,>2.5,Med conf,+17,27.05.20,0.91,1.43,1.90
+2-bundesliga,St Pauli,Heidenheim,>2.5,Low conf,+1,27.05.20,0.93,1.85,1.90
+2-bundesliga,Hannover,Karlsruhe,>2.5,Low conf,+1,27.05.20,0.93,1.85,1.90
+2-bundesliga,Bochum,Holstein Kiel,12,High conf,+29,27.05.20,0.67,1.00,1.41
