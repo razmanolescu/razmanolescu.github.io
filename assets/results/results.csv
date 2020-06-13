@@ -1,19 +1,34 @@
 league,opp,opp2,result,conf,ROI,date
-bundesliga,Freiburg,M'gladbach,2,High conf,+30,05.06.20,0.93,1.16,1.77
-2-bundesliga,Greuther Furth,Sandhausen,1,Med conf,+25,05.06.20,0.93,1.56,2.55
-2-bundesliga,Bochum,St Pauli,1X,High conf,+25,05.06.20,0.93,1.09,1.49
-bundesliga,Leverkusen,Bayern Munich,2,High conf,+19,06.06.20,0.93,1.16,1.49
-bundesliga,Ein Frankfurt,Mainz,X,Low conf,+11,06.06.20,0.89,2.63,3.72
-bundesliga,Fortuna Dusseldorf,Hoffenheim,1X,Med conf,+7,06.06.20,0.75,1.49,1.67
-bundesliga,RB Leipzig,Paderborn,1,Med conf,-9,06.06.20,0.96,1.27,1.14
-bundesliga,Dortmund,Hertha,1,Med conf,+6,06.06.20,0.96,1.27,1.37
-primeira-liga,Boavista,Moreirense,X2,High conf,+16,06.06.20,0.83,1.25,1.57
-2-bundesliga,Bielefeld,Nurnberg,1,Med conf,+11,06.06.20,0.93,1.56,1.88
-2-bundesliga,Regensburg,Darmstadt,X2,Low conf,-12,06.06.20,0.80,2.00,1.61
-2-bundesliga,Wehen,Dresden,X2,High conf,+34,06.06.20,0.89,1.14,1.86
-bundesliga,Werder Bremen,Wolfsburg,X,Low conf,+10,07.06.20,0.89,2.63,3.54
-bundesliga,Union Berlin,Schalke 04,X2,High conf,+31,07.06.20,0.92,1.10,1.67
-bundesliga,Augsburg,FC Koln,X2,High conf,+36,07.06.20,0.80,1.00,1.56
-2-bundesliga,Erzgebirge Aue,Karlsruhe,1X,High conf,+24,07.06.20,0.93,1.09,1.47
-2-bundesliga,Hannover,Heidenheim,1,Med conf,+21,07.06.20,0.93,1.56,2.32
-2-bundesliga,Stuttgart,Osnabruck,1X,Med conf,-25,07.06.20,0.91,1.67,1.17
+primera-division,Valencia,Levante,1X,High conf,+10,12.06.20,0.90,1.12,1.27
+primeira-liga,Moreirense,Rio Ave,1X,Med conf,+20,12.06.20,0.80,1.33,1.81
+primeira-liga,Sp Lisbon,Pacos Ferreira,1,Low conf,-16,12.06.20,0.96,1.79,1.38
+bundesliga,Hoffenheim,RB Leipzig,X,Low conf,+31,12.06.20,0.91,2.00,5.38
+2-bundesliga,Dresden,Hamburg,X2,High conf,+5,12.06.20,0.89,1.14,1.20
+2-bundesliga,Sandhausen,Bielefeld,2,Low conf,-12,12.06.20,0.86,3.03,2.24
+liga-1,FC Voluntari,Academica Clinceni,1,High conf,+38,13.06.20,0.95,1.12,1.98
+liga-1,Sepsi Sf. Gheorghe,FC Hermannstadt,X2,High conf,+47,13.06.20,0.67,1.00,1.89
+primera-division,Espanol,Alaves,12,Low conf,-19,13.06.20,0.67,2.00,1.45
+primera-division,Celta,Villarreal,BTTS,Med conf,+14,13.06.20,0.88,1.41,1.75
+primera-division,Leganes,Valladolid,1,Med conf,+17,13.06.20,0.97,1.67,2.33
+primera-division,Mallorca,Barcelona,X2,Low conf,-47,13.06.20,0.93,2.33,1.11
+primeira-liga,Sp Braga,Boavista,1,Low conf,-15,13.06.20,0.96,1.79,1.41
+bundesliga,FC Koln,Union Berlin,1X,Med conf,-7,13.06.20,0.86,1.49,1.36
+bundesliga,Fortuna Dusseldorf,Dortmund,2,High conf,+7,13.06.20,0.95,1.25,1.37
+bundesliga,Hertha,Ein Frankfurt,1X,Med conf,-4,13.06.20,0.86,1.49,1.41
+bundesliga,Paderborn,Werder Bremen,1X,Med conf,+12,13.06.20,0.86,1.49,1.83
+bundesliga,Wolfsburg,Freiburg,1,Med conf,+15,13.06.20,0.96,1.37,1.72
+bundesliga,Bayern Munich,M'gladbach,1,Med conf,+1,13.06.20,0.96,1.37,1.39
+2-bundesliga,Heidenheim,Regensburg,12,Low conf,-23,13.06.20,0.86,2.00,1.38
+2-bundesliga,Nurnberg,Greuther Furth,X2,High conf,+39,13.06.20,0.89,1.14,2.03
+2-bundesliga,Holstein Kiel,Wehen,12,Low conf,-23,13.06.20,0.86,2.00,1.37
+2-bundesliga,Osnabruck,Bochum,X2,Med conf,+7,13.06.20,0.86,1.49,1.66
+liga-1,Viitorul Constanta,Poli Iasi,1,High conf,+28,14.06.20,0.95,1.12,1.63
+liga-1,CFR Cluj,FC Steaua Bucuresti,X,Med conf,+44,14.06.20,0.80,1.33,3.19
+primera-division,Ath Bilbao,Ath Madrid,BTTS,Med conf,+14,14.06.20,0.88,1.41,1.75
+primera-division,Real Madrid,Eibar,>2.5,Low conf,+4,14.06.20,0.93,1.75,1.90
+primera-division,Sociedad,Osasuna,1X,High conf,+9,14.06.20,0.90,1.12,1.25
+bundesliga,Mainz,Augsburg,1X,Med conf,-1,14.06.20,0.86,1.49,1.47
+bundesliga,Schalke 04,Leverkusen,2,High conf,+15,14.06.20,0.95,1.25,1.55
+2-bundesliga,St Pauli,Erzgebirge Aue,2,Low conf,+8,14.06.20,0.86,3.03,3.99
+2-bundesliga,Karlsruhe,Stuttgart,1X,Med conf,+19,14.06.20,0.89,1.59,2.30
+2-bundesliga,Darmstadt,Hannover,1X,High conf,+31,14.06.20,0.94,1.08,1.60
