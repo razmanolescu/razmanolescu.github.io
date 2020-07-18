@@ -1,42 +1,45 @@
 league,opp,opp2,result,conf,ROI,date
-primera-division,Osasuna,Celta,1,Low conf,+28,11.07.20,0.97,1.69,3.20
-primera-division,Valladolid,Barcelona,X2,High conf,-7,11.07.20,0.92,1.20,1.11
-primera-division,Ath Madrid,Betis,1,Low conf,-9,11.07.20,0.97,1.69,1.48
-liga-1,Viitorul Constanta,Academica Clinceni,X,Low conf,+30,11.07.20,0.80,2.00,5.07
-liga-1,FC Hermannstadt,FC Voluntari,1X,Low conf,-15,11.07.20,0.80,2.00,1.55
-primeira-liga,Sp Lisbon,Santa Clara,1,Med conf,+2,11.07.20,0.95,1.49,1.54
-primeira-liga,Belenenses,Moreirense,1,Med conf,+26,11.07.20,0.95,1.49,2.45
-championship,Fulham,Cardiff,1X,Low conf,-31,11.07.20,0.92,2.22,1.32
-championship,Derby,Brentford,1X,Med conf,+25,11.07.20,0.93,1.45,2.25
-championship,Barnsley,Wigan,X2,Med conf,+7,11.07.20,0.90,1.49,1.67
-championship,Blackburn,West Brom,2,Low conf,-6,11.07.20,0.93,2.00,1.79
-championship,Hull,Millwall,X2,Med conf,+1,11.07.20,0.93,1.45,1.48
-championship,Middlesbrough,Bristol City,2,Low conf,+24,11.07.20,0.93,2.00,3.79
-championship,Preston,Nott'm Forest,2,Low conf,+15,11.07.20,0.93,2.00,2.86
-championship,QPR,Sheffield Weds,1,Med conf,+42,11.07.20,0.94,1.32,2.90
-serie-a,Lazio,Sassuolo,1,Med conf,+14,11.07.20,0.95,1.33,1.63
-serie-a,Brescia,Roma,2,Med conf,-6,11.07.20,0.95,1.61,1.47
-serie-a,Juventus,Atalanta,>2.5,Med conf,+24,11.07.20,0.93,1.30,1.90
-premier-league,Norwich,West Ham,2,Low conf,+5,11.07.20,0.92,1.82,2.02
-premier-league,Watford,Newcastle,2,Low conf,+34,11.07.20,0.92,1.82,4.70
-premier-league,Liverpool,Burnley,1,Med conf,-2,11.07.20,0.97,1.28,1.25
-premier-league,Sheffield United,Chelsea,2,Low conf,-6,11.07.20,0.92,1.82,1.64
-premier-league,Brighton,Man City,2,Low conf,-21,11.07.20,0.92,1.82,1.31
-primera-division,Espanol,Eibar,X2,High conf,+12,12.07.20,0.92,1.20,1.41
-primera-division,Levante,Ath Bilbao,1,Low conf,+32,12.07.20,0.97,1.69,3.68
-primera-division,Leganes,Valencia,BTTS,Low conf,-11,12.07.20,0.93,2.17,1.75
-primera-division,Sevilla,Mallorca,1,Low conf,-11,12.07.20,0.97,1.69,1.42
-liga-1,Din. Bucuresti,Poli Iasi,1,Med conf,+24,12.07.20,0.96,1.30,1.88
-liga-1,U Craiova,FC Steaua Bucuresti,X2,Low conf,-43,12.07.20,0.50,100000.00,2.33
-championship,Stoke,Birmingham,1X,Low conf,-31,12.07.20,0.92,2.22,1.32
-championship,Swansea,Leeds,2,Low conf,-8,12.07.20,0.93,2.00,1.72
-serie-a,Genoa,Spal,BTTS,Low conf,-0,12.07.20,0.88,1.75,1.75
-serie-a,Cagliari,Lecce,X2,Med conf,+23,12.07.20,0.86,1.49,2.30
-serie-a,Fiorentina,Verona,2,Med conf,+35,12.07.20,0.95,1.61,3.64
-serie-a,Parma,Bologna,2,High conf,+42,12.07.20,0.83,1.25,2.66
-serie-a,Udinese,Sampdoria,>2.5,Med conf,+24,12.07.20,0.93,1.30,1.90
-serie-a,Napoli,Milan,2,Med conf,+34,12.07.20,0.95,1.61,3.52
-premier-league,Wolves,Everton,>2.5,Low conf,+4,12.07.20,0.88,1.75,1.90
-premier-league,Aston Villa,Crystal Palace,>2.5,Low conf,+4,12.07.20,0.88,1.75,1.90
-premier-league,Tottenham,Arsenal,1X,High conf,+38,12.07.20,0.80,1.00,1.61
-premier-league,Bournemouth,Leicester,X2,Med conf,-10,12.07.20,0.88,1.41,1.24
+primeira-liga,Rio Ave,Santa Clara,2,Low conf,+27,18.07.20,0.93,2.33,6.32
+serie-a,Verona,Atalanta,>2.5,Med conf,+16,18.07.20,0.94,1.45,1.90
+serie-a,Cagliari,Sassuolo,2,Med conf,+13,18.07.20,0.96,1.56,1.98
+serie-a,Milan,Bologna,2,Low conf,+34,18.07.20,0.86,2.00,6.39
+premier-league,Norwich,Burnley,2,Low conf,+13,18.07.20,0.95,1.72,2.24
+liga-1,FC Hermannstadt,Sepsi Sf. Gheorghe,X2,High conf,+37,18.07.20,0.50,1.00,1.58
+liga-1,FC Steaua Bucuresti,CFR Cluj,X2,High conf,+23,18.07.20,0.80,1.00,1.30
+super-lig,Galatasaray,Goztep,<2.5,Med conf,+22,18.07.20,0.89,1.33,1.90
+super-lig,Gaziantep,Kasimpasa,<2.5,Med conf,+22,18.07.20,0.89,1.33,1.90
+championship,Stoke,Brentford,X2,High conf,+5,18.07.20,0.89,1.14,1.20
+championship,Blackburn,Reading,12,High conf,+10,18.07.20,0.91,1.25,1.42
+championship,Fulham,Sheffield Weds,1X,Med conf,-12,18.07.20,0.93,1.56,1.31
+championship,Middlesbrough,Cardiff,X2,High conf,+23,18.07.20,0.89,1.14,1.53
+championship,Preston,Birmingham,1X,Med conf,-10,18.07.20,0.93,1.56,1.35
+championship,QPR,Millwall,1X,Med conf,+11,18.07.20,0.91,1.67,2.02
+championship,Swansea,Bristol City,X2,High conf,+43,18.07.20,0.89,1.14,2.23
+primera-division,Alaves,Barcelona,X2,Med conf,-6,19.07.20,0.92,1.33,1.24
+primera-division,Valladolid,Betis,X2,High conf,+38,19.07.20,0.75,1.00,1.62
+primera-division,Villarreal,Eibar,1,Med conf,+5,19.07.20,0.97,1.43,1.55
+primera-division,Ath Madrid,Sociedad,1,Med conf,+22,19.07.20,0.97,1.43,2.09
+primera-division,Espanol,Celta,>2.5,Low conf,-3,19.07.20,0.89,2.00,1.90
+primera-division,Granada,Ath Bilbao,X2,Med conf,+23,19.07.20,0.92,1.33,1.92
+primera-division,Leganes,Real Madrid,X2,Med conf,+10,19.07.20,0.92,1.33,1.54
+primera-division,Levante,Getafe,X2,High conf,+21,19.07.20,0.75,1.00,1.26
+primera-division,Osasuna,Mallorca,X,Med conf,+49,19.07.20,0.80,1.33,3.83
+primera-division,Sevilla,Valencia,1,Med conf,+17,19.07.20,0.97,1.43,1.87
+primeira-liga,Belenenses,Gil Vicente,1,Med conf,+19,19.07.20,0.96,1.64,2.37
+primeira-liga,Guimaraes,Maritimo,12,Med conf,-14,19.07.20,0.83,1.67,1.35
+serie-a,Parma,Sampdoria,1,Med conf,+44,19.07.20,0.94,1.32,3.10
+serie-a,Brescia,Spal,X2,High conf,+23,19.07.20,0.83,1.25,1.75
+serie-a,Fiorentina,Torino,2,Low conf,+26,19.07.20,0.86,2.00,4.15
+serie-a,Genoa,Lecce,X2,High conf,+34,19.07.20,0.83,1.25,2.18
+serie-a,Napoli,Udinese,>2.5,Med conf,+16,19.07.20,0.94,1.45,1.90
+serie-a,Roma,Inter,1X,Med conf,+20,19.07.20,0.89,1.33,1.81
+premier-league,Bournemouth,Southampton,<2.5,Med conf,+11,19.07.20,0.93,1.56,1.90
+premier-league,Tottenham,Leicester,1X,High conf,+32,19.07.20,0.67,1.00,1.46
+super-lig,Alanyaspor,Denizlispor,1,Low conf,-10,19.07.20,0.95,1.92,1.60
+super-lig,Ankaragucu,Antalyaspor,X2,Low conf,+4,19.07.20,0.80,2.00,2.18
+super-lig,Besiktas,Fenerbahce,1X,High conf,+18,19.07.20,0.89,1.14,1.44
+super-lig,Rizespor,Yeni Malatyaspor,<2.5,Med conf,+22,19.07.20,0.89,1.33,1.90
+super-lig,Sivasspor,Genclerbirligi,1X,High conf,+9,19.07.20,0.89,1.14,1.26
+super-lig,Trabzonspor,Konyaspor,1,Low conf,-13,19.07.20,0.95,1.92,1.54
+championship,Derby,Leeds,X2,High conf,+19,19.07.20,0.91,1.11,1.41
+championship,Barnsley,Nott'm Forest,1X,Med conf,-3,19.07.20,0.91,1.67,1.59
