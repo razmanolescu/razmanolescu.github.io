@@ -1,6 +1,6 @@
 league,opp,opp2,result,conf,ROI,date
-liga-1,Viitorul Constanta,Chindia Targoviste,1,Med conf,-3,25.07.20,0.97,1.45,1.39
-liga-1,Gaz Metan Medias,FC Steaua Bucuresti,2,Low conf,-3,25.07.20,0.90,2.27,2.11
+liga-1,Gaz Metan Medias,FC Steaua Bucuresti,2,Low conf,+4,25.07.20,0.91,2.00,2.16
+liga-1,Viitorul Constanta,Chindia Targoviste,1,Med conf,-1,25.07.20,0.97,1.41,1.39
 primeira-liga,Boavista,Rio Ave,12,High conf,+4,25.07.20,0.83,1.25,1.32
 primeira-liga,Benfica,Sp Lisbon,1,Med conf,+6,25.07.20,0.96,1.59,1.74
 primeira-liga,Sp Braga,Porto,X2,Low conf,-4,25.07.20,0.88,1.75,1.63
@@ -14,7 +14,8 @@ super-lig,Yeni Malatyaspor,Gaziantep,X2,Low conf,+12,25.07.20,0.88,1.75,2.20
 serie-a,Brescia,Parma,X2,Med conf,-12,25.07.20,0.86,1.49,1.27
 serie-a,Genoa,Inter,2,Low conf,-7,25.07.20,0.94,1.69,1.51
 serie-a,Napoli,Sassuolo,X2,High conf,+63,25.07.20,0.75,1.00,2.69
-liga-1,FC Voluntari,Sepsi Sf. Gheorghe,1X,Med conf,+2,26.07.20,0.86,1.49,1.55
+liga-1,Academica Clinceni,Poli Iasi,1,Med conf,+37,26.07.20,0.97,1.41,2.94
+liga-1,FC Voluntari,Sepsi Sf. Gheorghe,12,High conf,+32,26.07.20,0.67,1.00,1.48
 primeira-liga,Moreirense,Tondela,<2.5,Med conf,+18,26.07.20,0.88,1.41,1.90
 primeira-liga,Portimonense,Aves,<2.5,Med conf,+18,26.07.20,0.88,1.41,1.90
 primeira-liga,Setubal,Belenenses,2,Low conf,+28,26.07.20,0.94,2.13,5.34
