@@ -1,13 +1,16 @@
 league,opp,opp2,result,conf,ROI,date
-liga-1,Chindia Targoviste,Academica Clinceni,12,High conf,+32,29.07.20,0.75,1.00,1.47
-liga-1,FC Hermannstadt,Viitorul Constanta,1X,Med conf,+17,29.07.20,0.88,1.41,1.85
-liga-1,Astra,U Craiova,X2,High conf,+19,29.07.20,0.75,1.00,1.24
-serie-a,Lazio,Brescia,1,Med conf,-17,29.07.20,0.95,1.39,1.12
-serie-a,Sampdoria,Milan,>2.5,Med conf,+16,29.07.20,0.93,1.45,1.90
-serie-a,Sassuolo,Genoa,X2,Med conf,+21,29.07.20,0.80,1.33,1.84
-serie-a,Udinese,Lecce,1,Med conf,+28,29.07.20,0.95,1.39,2.25
-serie-a,Verona,Spal,1,Med conf,+3,29.07.20,0.95,1.39,1.44
-serie-a,Cagliari,Juventus,2,Med conf,-4,29.07.20,0.95,1.64,1.55
-serie-a,Fiorentina,Bologna,2,Low conf,+2,29.07.20,0.88,3.45,3.75
-serie-a,Torino,Roma,X2,Med conf,-10,29.07.20,0.80,1.33,1.17
-]
+liga-1,Academica Clinceni,FC Hermannstadt,1X,High conf,+34,01.08.20,0.89,1.14,1.86
+liga-1,Viitorul Constanta,Sepsi Sf. Gheorghe,1,High conf,+32,01.08.20,0.96,1.14,1.78
+liga-1,FC Botosani,Gaz Metan Medias,1X,Med conf,-24,01.08.20,0.83,1.67,1.19
+serie-a,Brescia,Sampdoria,>2.5,Med conf,+14,01.08.20,0.92,1.49,1.90
+serie-a,Milan,Cagliari,1,Med conf,-7,01.08.20,0.95,1.41,1.28
+serie-a,Atalanta,Inter,1,Med conf,+31,01.08.20,0.95,1.41,2.50
+serie-a,Juventus,Roma,2,Low conf,+5,01.08.20,0.83,2.50,2.87
+serie-a,Napoli,Lazio,X2,Low conf,-23,01.08.20,0.75,3.03,1.78
+liga-1,Poli Iasi,Chindia Targoviste,1,High conf,+38,02.08.20,0.96,1.14,2.00
+liga-1,FC Voluntari,Din. Bucuresti,12,High conf,+31,02.08.20,0.75,1.00,1.45
+serie-a,Spal,Fiorentina,X2,Low conf,-52,02.08.20,0.75,3.03,1.18
+serie-a,Bologna,Torino,X2,Low conf,-2,02.08.20,0.89,2.00,1.93
+serie-a,Genoa,Verona,X2,Low conf,+14,02.08.20,0.89,2.00,2.79
+serie-a,Lecce,Parma,BTTS,Med conf,+7,02.08.20,0.92,1.56,1.75
+serie-a,Sassuolo,Udinese,2,Med conf,+36,02.08.20,0.95,1.59,3.65
