@@ -1,16 +1,6 @@
 league,opp,opp2,result,conf,ROI,date
-liga-1,Academica Clinceni,FC Hermannstadt,1X,High conf,+34,01.08.20,0.89,1.14,1.86
-liga-1,Viitorul Constanta,Sepsi Sf. Gheorghe,1,High conf,+32,01.08.20,0.96,1.14,1.78
-liga-1,FC Botosani,Gaz Metan Medias,1X,Med conf,-24,01.08.20,0.83,1.67,1.19
-serie-a,Brescia,Sampdoria,>2.5,Med conf,+14,01.08.20,0.92,1.49,1.90
-serie-a,Milan,Cagliari,1,Med conf,-7,01.08.20,0.95,1.41,1.28
-serie-a,Atalanta,Inter,1,Med conf,+31,01.08.20,0.95,1.41,2.50
-serie-a,Juventus,Roma,2,Low conf,+5,01.08.20,0.83,2.50,2.87
-serie-a,Napoli,Lazio,X2,Low conf,-23,01.08.20,0.75,3.03,1.78
-liga-1,Poli Iasi,Chindia Targoviste,1,High conf,+38,02.08.20,0.96,1.14,2.00
-liga-1,FC Voluntari,Din. Bucuresti,12,High conf,+31,02.08.20,0.75,1.00,1.45
-serie-a,Spal,Fiorentina,X2,Low conf,-52,02.08.20,0.75,3.03,1.18
-serie-a,Bologna,Torino,X2,Low conf,-2,02.08.20,0.89,2.00,1.93
-serie-a,Genoa,Verona,X2,Low conf,+14,02.08.20,0.89,2.00,2.79
-serie-a,Lecce,Parma,BTTS,Med conf,+7,02.08.20,0.92,1.56,1.75
-serie-a,Sassuolo,Udinese,2,Med conf,+36,02.08.20,0.95,1.59,3.65
+liga-1,Poli Iasi,Chindia Targoviste,1,Med conf,+24,23.08.20,0.95,1.43,2.17
+liga-1,Academica Clinceni,CFR Cluj,2,Med conf,-1,23.08.20,0.86,1.49,1.48
+ligue-1,Monaco,Reims,X,Low conf,+11,23.08.20,0.91,2.50,3.50
+ligue-1,Lorient,Strasbourg,1X,High conf,+27,23.08.20,0.93,1.08,1.52
+ligue-1,Nice,Lens,X2,Low conf,-1,23.08.20,0.89,2.00,1.97
