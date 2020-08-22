@@ -1,4 +1,8 @@
 league,opp,opp2,result,conf,ROI,date
+liga-1,Sepsi Sf. Gheorghe,U Craiova,12,High conf,+31,22.08.20,0.80,1.00,1.45
+liga-1,Astra,FC Steaua Bucuresti,12,High conf,+29,22.08.20,0.80,1.00,1.42
+ligue-1,Dijon,Angers,BTTS,Med conf,+10,22.08.20,0.86,1.49,1.75
+ligue-1,Lille,Rennes,X,Low conf,+9,22.08.20,0.91,2.50,3.21
 liga-1,Poli Iasi,Chindia Targoviste,1,Med conf,+24,23.08.20,0.95,1.43,2.17
 liga-1,Academica Clinceni,CFR Cluj,2,Med conf,-1,23.08.20,0.86,1.49,1.48
 ligue-1,Monaco,Reims,X,Low conf,+11,23.08.20,0.91,2.50,3.50
