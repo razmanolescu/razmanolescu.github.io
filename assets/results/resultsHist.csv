@@ -1,4 +1,8 @@
 league,opp,opp2,result,conf,ROI,date,outcome
+liga-1,Sepsi Sf. Gheorghe,U Craiova,12,High conf,+31,22.08.20,0.80,1.00,win
+liga-1,Astra,FC Steaua Bucuresti,12,High conf,+29,22.08.20,0.80,1.00,win
+ligue-1,Dijon,Angers,BTTS,Med conf,+10,22.08.20,0.86,1.49,lose
+ligue-1,Lille,Rennes,X,Low conf,+9,22.08.20,0.91,2.50,win
 bundesliga,Hoffenheim,Hertha,X2,Med conf,+13,16.05.20,0.86,1.49,win
 bundesliga,Dortmund,Schalke 04,1,Med conf,+13,16.05.20,0.95,1.28,win
 bundesliga,Augsburg,Wolfsburg,1X,Med conf,+12,16.05.20,0.86,1.49,lose

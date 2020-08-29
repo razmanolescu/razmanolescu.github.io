@@ -1,10 +1,23 @@
 league,opp,opp2,result,conf,ROI,date
-liga-1,Sepsi Sf. Gheorghe,U Craiova,12,High conf,+31,22.08.20,0.80,1.00,1.45
-liga-1,Astra,FC Steaua Bucuresti,12,High conf,+29,22.08.20,0.80,1.00,1.42
-ligue-1,Dijon,Angers,BTTS,Med conf,+10,22.08.20,0.86,1.49,1.75
-ligue-1,Lille,Rennes,X,Low conf,+9,22.08.20,0.91,2.50,3.21
-liga-1,Poli Iasi,Chindia Targoviste,1,Med conf,+24,23.08.20,0.95,1.43,2.17
-liga-1,Academica Clinceni,CFR Cluj,2,Med conf,-1,23.08.20,0.86,1.49,1.48
-ligue-1,Monaco,Reims,X,Low conf,+11,23.08.20,0.91,2.50,3.50
-ligue-1,Lorient,Strasbourg,1X,High conf,+27,23.08.20,0.93,1.08,1.52
-ligue-1,Nice,Lens,X2,Low conf,-1,23.08.20,0.89,2.00,1.97
+liga-1,FC Hermannstadt,Academica Clinceni,12,High conf,+9,29.08.20,0.83,1.25,1.41
+liga-1,CFR Cluj,Sepsi Sf. Gheorghe,1,Med conf,+12,29.08.20,0.97,1.43,1.71
+jupiler-league,Eupen,St Truiden,<2.5,Low conf,+5,29.08.20,0.92,1.72,1.90
+jupiler-league,Mouscron,Waregem,1,High conf,+44,29.08.20,0.95,1.25,2.80
+ligue-1,Rennes,Montpellier,1,Med conf,+26,29.08.20,0.94,1.32,2.01
+ligue-1,Strasbourg,Nice,X,Low conf,+10,29.08.20,0.91,2.50,3.38
+mls,Montreal Impact,Toronto FC,BTTS,Med conf,+3,29.08.20,0.91,1.67,1.75
+super-league,Guangzhou R&F,Shenzhen,1,Low conf,+20,29.08.20,0.95,1.92,3.13
+super-league,Shandong Luneng,Dalian Pro,1,Low conf,-5,29.08.20,0.95,1.92,1.76
+liga-1,FC Botosani,Poli Iasi,1,Med conf,+2,30.08.20,0.97,1.43,1.48
+liga-1,U Craiova,Astra,1,Med conf,+8,30.08.20,0.97,1.43,1.60
+liga-1,FC Steaua Bucuresti,Viitorul Constanta,1,Med conf,+18,30.08.20,0.97,1.43,1.94
+ligue-1,Reims,Lille,X2,Med conf,+3,30.08.20,0.91,1.43,1.49
+ligue-1,Angers,Bordeaux,X2,Low conf,-7,30.08.20,0.89,2.00,1.77
+ligue-1,Metz,Monaco,X2,Low conf,-24,30.08.20,0.89,2.00,1.36
+ligue-1,Nantes,Nimes,1X,Med conf,-2,30.08.20,0.89,1.33,1.30
+ligue-1,St Etienne,Lorient,2,High conf,+70,30.08.20,0.90,1.00,3.36
+mls,New York City,Chicago Fire,X,Med conf,+48,30.08.20,0.80,1.33,3.69
+mls,Philadelphia Union,DC United,1,Low conf,-7,30.08.20,0.97,2.00,1.75
+mls,New England Revolution,New York Red Bulls,1X,Med conf,+3,30.08.20,0.94,1.37,1.43
+super-league,Jiangsu Suning,Henan Jianye,X2,Low conf,+13,30.08.20,0.80,2.00,2.69
+super-league,Shanghai Shenhua,Guangzhou Evergrande,X2,Low conf,-37,30.08.20,0.88,2.33,1.26
