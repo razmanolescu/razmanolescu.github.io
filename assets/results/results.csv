@@ -1,23 +1,27 @@
 league,opp,opp2,result,conf,ROI,date
-liga-1,FC Hermannstadt,Academica Clinceni,12,High conf,+9,29.08.20,0.83,1.25,1.41
-liga-1,CFR Cluj,Sepsi Sf. Gheorghe,1,Med conf,+12,29.08.20,0.97,1.43,1.71
-jupiler-league,Eupen,St Truiden,<2.5,Low conf,+5,29.08.20,0.92,1.72,1.90
-jupiler-league,Mouscron,Waregem,1,High conf,+44,29.08.20,0.95,1.25,2.80
-ligue-1,Rennes,Montpellier,1,Med conf,+26,29.08.20,0.94,1.32,2.01
-ligue-1,Strasbourg,Nice,X,Low conf,+10,29.08.20,0.91,2.50,3.38
-mls,Montreal Impact,Toronto FC,BTTS,Med conf,+3,29.08.20,0.91,1.67,1.75
-super-league,Guangzhou R&F,Shenzhen,1,Low conf,+20,29.08.20,0.95,1.92,3.13
-super-league,Shandong Luneng,Dalian Pro,1,Low conf,-5,29.08.20,0.95,1.92,1.76
-liga-1,FC Botosani,Poli Iasi,1,Med conf,+2,30.08.20,0.97,1.43,1.48
-liga-1,U Craiova,Astra,1,Med conf,+8,30.08.20,0.97,1.43,1.60
-liga-1,FC Steaua Bucuresti,Viitorul Constanta,1,Med conf,+18,30.08.20,0.97,1.43,1.94
-ligue-1,Reims,Lille,X2,Med conf,+3,30.08.20,0.91,1.43,1.49
-ligue-1,Angers,Bordeaux,X2,Low conf,-7,30.08.20,0.89,2.00,1.77
-ligue-1,Metz,Monaco,X2,Low conf,-24,30.08.20,0.89,2.00,1.36
-ligue-1,Nantes,Nimes,1X,Med conf,-2,30.08.20,0.89,1.33,1.30
-ligue-1,St Etienne,Lorient,2,High conf,+70,30.08.20,0.90,1.00,3.36
-mls,New York City,Chicago Fire,X,Med conf,+48,30.08.20,0.80,1.33,3.69
-mls,Philadelphia Union,DC United,1,Low conf,-7,30.08.20,0.97,2.00,1.75
-mls,New England Revolution,New York Red Bulls,1X,Med conf,+3,30.08.20,0.94,1.37,1.43
-super-league,Jiangsu Suning,Henan Jianye,X2,Low conf,+13,30.08.20,0.80,2.00,2.69
-super-league,Shanghai Shenhua,Guangzhou Evergrande,X2,Low conf,-37,30.08.20,0.88,2.33,1.26
+liga-1,Academica Clinceni,Chindia Targoviste,1,High conf,+59,12.09.20,0.67,1.00,2.42
+liga-1,Poli Iasi,Gaz Metan Medias,1X,High conf,+33,12.09.20,0.67,1.00,1.50
+liga-1,FC Voluntari,FC Steaua Bucuresti,2,Low conf,-66,12.09.20,0.00,100000.00,1.52
+ligue-1,Montpellier,Nice,X2,High conf,+45,12.09.20,0.67,1.00,1.83
+ligue-1,St Etienne,Strasbourg,1X,High conf,+27,12.09.20,0.50,1.00,1.37
+mls,Chicago Fire,Columbus Crew,1,Med conf,+27,12.09.20,0.97,1.64,2.97
+premier-league,Fulham,Arsenal,X2,Med conf,-16,12.09.20,0.90,1.49,1.21
+premier-league,Crystal Palace,Southampton,<2.5,Med conf,+17,12.09.20,0.91,1.43,1.90
+premier-league,Liverpool,Leeds,1,Med conf,-7,12.09.20,0.96,1.43,1.30
+premier-league,West Ham,Newcastle,12,Med conf,+2,12.09.20,0.89,1.33,1.38
+liga-1,Astra,Sepsi Sf. Gheorghe,12,Low conf,-68,13.09.20,0.00,100000.00,1.46
+liga-1,CFR Cluj,FC Hermannstadt,1,High conf,+31,13.09.20,0.67,1.00,1.44
+ligue-1,Lille,Metz,BTTS,Low conf,-57,13.09.20,0.00,100000.00,1.75
+ligue-1,Angers,Reims,X2,Low conf,-58,13.09.20,0.50,100000.00,1.73
+ligue-1,Lorient,Lens,1X,Low conf,-72,13.09.20,0.50,100000.00,1.39
+ligue-1,Nimes,Rennes,<2.5,Low conf,-53,13.09.20,0.00,100000.00,1.90
+ligue-1,Monaco,Nantes,<2.5,Low conf,-53,13.09.20,0.00,100000.00,1.90
+ligue-1,Paris SG,Marseille,1,High conf,+41,13.09.20,0.75,1.00,1.70
+mls,DC United,New York Red Bulls,1X,High conf,+48,13.09.20,0.67,1.00,1.93
+mls,Philadelphia Union,New England Revolution,1,Med conf,+15,13.09.20,0.97,1.64,2.18
+mls,FC Dallas,Houston Dynamo,>2.5,Low conf,+2,13.09.20,0.92,1.82,1.90
+mls,Real Salt Lake,Colorado Rapids,1,Med conf,+12,13.09.20,0.97,1.64,2.05
+super-league,Jiangsu Suning,Guangzhou R&F,1X,High conf,+17,13.09.20,0.80,1.00,1.20
+super-league,Shandong Luneng,Guangzhou Evergrande,2,High conf,+28,13.09.20,0.94,1.25,1.92
+premier-league,West Brom,Leicester,1,Med conf,+44,13.09.20,0.96,1.43,3.88
+premier-league,Tottenham,Everton,12,Med conf,+3,13.09.20,0.89,1.33,1.39
