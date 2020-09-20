@@ -31,3 +31,12 @@ premier-league,Southampton,Tottenham,1X,Low conf,-58,20.09.20,0.00,100000.00,1.7
 premier-league,Newcastle,Brighton,>2.5,High conf,+47,20.09.20,0.67,1.00,1.90
 premier-league,Chelsea,Liverpool,12,High conf,+26,20.09.20,0.83,1.00,1.36
 premier-league,Leicester,Burnley,2,High conf,+82,20.09.20,0.50,1.00,5.68
+primera-division,Betis,Valladolid,1,Med conf,+20,20.09.20,0.96,1.37,1.89
+primera-division,Granada,Alaves,1X,High conf,+5,20.09.20,0.92,1.22,1.30
+primera-division,Sociedad,Real Madrid,X2,Med conf,-1,20.09.20,0.93,1.27,1.25
+bundesliga,RB Leipzig,Mainz,1,Low conf,-15,20.09.20,0.94,1.69,1.36
+bundesliga,Wolfsburg,Leverkusen,X,Low conf,+14,20.09.20,0.92,2.38,3.54
+serie-a,Parma,Napoli,BTTS,Med conf,+16,20.09.20,0.92,1.37,1.75
+serie-a,Genoa,Crotone,>2.5,Low conf,+4,20.09.20,0.93,1.75,1.90
+serie-a,Sassuolo,Cagliari,2,Low conf,+15,20.09.20,0.83,2.50,4.03
+serie-a,Juventus,Sampdoria,1,Med conf,-3,20.09.20,0.95,1.41,1.36
