@@ -1,4 +1,12 @@
 league,opp,opp2,result,conf,ROI,date
+championship,Wycombe,Swansea,12,Low conf,-39,26.09.20,0.75,3.03,1.38
+championship,Barnsley,Coventry,<2.5,Med conf,+14,26.09.20,0.75,1.49,1.90
+championship,Birmingham,Rotherham,1,High conf,+53,26.09.20,0.50,1.00,2.15
+championship,Cardiff,Reading,<2.5,Med conf,+14,26.09.20,0.75,1.49,1.90
+championship,Derby,Blackburn,1X,High conf,+39,26.09.20,0.75,1.00,1.63
+championship,Millwall,Brentford,<2.5,Med conf,+14,26.09.20,0.75,1.49,1.90
+championship,Preston,Stoke,<2.5,Med conf,+14,26.09.20,0.75,1.49,1.90
+championship,QPR,Middlesbrough,2,High conf,+62,26.09.20,0.80,1.00,2.66
 liga-1,FC Voluntari,Sepsi Sf. Gheorghe,1,High conf,+64,25.09.20,0.88,1.00,2.76
 jupiler-league,Kortrijk,Antwerp,1X,Med conf,+11,25.09.20,0.86,1.49,1.79
 ligue-1,Lille,Nantes,1,High conf,+43,25.09.20,0.50,1.00,1.74
@@ -54,3 +62,5 @@ premier-league,Sheffield United,Leeds,2,High conf,+62,27.09.20,0.75,1.00,2.66
 premier-league,Tottenham,Newcastle,X,Low conf,-22,27.09.20,0.67,100000.00,4.52
 premier-league,Man City,Leicester,1,High conf,+6,27.09.20,0.86,1.20,1.30
 premier-league,West Ham,Wolves,2,High conf,+51,27.09.20,0.75,1.00,2.06
+championship,Bristol City,Sheffield Weds,1,High conf,+63,27.09.20,0.50,1.00,2.71
+championship,Bournemouth,Norwich,X2,Med conf,+7,27.09.20,0.75,1.49,1.66
