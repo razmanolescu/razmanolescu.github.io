@@ -2,7 +2,7 @@ league,opp,opp2,result,conf,ROI,date,outcome
 primera-division,Barcelona,Real Madrid,BTTS,Med conf,+10,24.10.20,win
 primera-division,Osasuna,Ath Bilbao,BTTS,Med conf,+10,24.10.20,lose
 primera-division,Sevilla,Eibar,1X,Low conf,-37,24.10.20,lose
-primera-division,Ath Madrid,Betis,BTTS,Med conf,+10,24.10.20,,lose
+primera-division,Ath Madrid,Betis,BTTS,Med conf,+10,24.10.20,lose
 liga-1,Astra,Poli Iasi,1X,Med conf,+2,24.10.20,win
 liga-1,Sepsi Sf. Gheorghe,Din. Bucuresti,1X,Med conf,+7,24.10.20,win
 primeira-liga,Nacional,Pacos Ferreira,X2,High conf,+38,24.10.20,win
@@ -15,7 +15,7 @@ bundesliga,Mainz,M'gladbach,2,High conf,+20,24.10.20,win
 bundesliga,RB Leipzig,Hertha,1,Med conf,-1,24.10.20,win
 bundesliga,Union Berlin,Freiburg,1X,High conf,+31,24.10.20,win
 bundesliga,Dortmund,Schalke 04,1,Med conf,-15,24.10.20,win
-serie-a,Atalanta,Sampdoria,1,Med conf,+1,24.10.20,,lose
+serie-a,Atalanta,Sampdoria,1,Med conf,+1,24.10.20,lose
 serie-a,Lazio,Bologna,1,Med conf,+13,24.10.20,win
 premier-league,West Ham,Man City,2,Med conf,+4,24.10.20,lose
 premier-league,Fulham,Crystal Palace,2,Med conf,+39,24.10.20,win
