@@ -1,4 +1,26 @@
 league,opp,opp2,result,conf,ROI,date,outcome
+primera-division,Barcelona,Real Madrid,BTTS,Med conf,+10,24.10.20,0.86,1.49,win
+primera-division,Osasuna,Ath Bilbao,BTTS,Med conf,+10,24.10.20,0.86,1.49,lose
+primera-division,Sevilla,Eibar,1X,Low conf,-37,24.10.20,0.80,2.00,lose
+primera-division,Ath Madrid,Betis,BTTS,Med conf,+10,24.10.20,0.86,1.49,lose
+liga-1,Astra,Poli Iasi,1X,Med conf,+2,24.10.20,0.75,1.49,win
+liga-1,Sepsi Sf. Gheorghe,Din. Bucuresti,1X,Med conf,+7,24.10.20,0.75,1.49,win
+primeira-liga,Nacional,Pacos Ferreira,X2,High conf,+38,24.10.20,0.75,1.00,win
+primeira-liga,Santa Clara,Sp Lisbon,<2.5,High conf,+47,24.10.20,0.67,1.00,lose
+primeira-liga,Porto,Gil Vicente,1,Med conf,-18,24.10.20,0.89,1.59,win
+ligue-1,Lorient,Marseille,2,High conf,+60,24.10.20,0.88,1.00,win		
+ligue-1,Paris SG,Dijon,1,High conf,-9,24.10.20,0.93,1.18,win
+bundesliga,Bayern Munich,Ein Frankfurt,1,Med conf,-15,24.10.20,0.75,1.49,win
+bundesliga,Mainz,M'gladbach,2,High conf,+20,24.10.20,0.83,1.25,win
+bundesliga,RB Leipzig,Hertha,1,Med conf,-1,24.10.20,0.75,1.49,win
+bundesliga,Union Berlin,Freiburg,1X,High conf,+31,24.10.20,0.83,1.00,win
+bundesliga,Dortmund,Schalke 04,1,Med conf,-15,24.10.20,0.75,1.49,win
+serie-a,Atalanta,Sampdoria,1,Med conf,+1,24.10.20,0.88,1.41,lose
+serie-a,Lazio,Bologna,1,Med conf,+13,24.10.20,0.88,1.41,win
+premier-league,West Ham,Man City,2,Med conf,+4,24.10.20,0.80,1.33,lose
+premier-league,Fulham,Crystal Palace,2,Med conf,+39,24.10.20,0.80,1.33,win
+premier-league,Man United,Chelsea,X2,Med conf,+9,24.10.20,0.75,1.49,win
+premier-league,Liverpool,Sheffield United,1,High conf,+1,24.10.20,0.91,1.25,win
 ligue-1,Dijon,Rennes,1X,Med conf,+32,16.10.20,0.80,1.33,win
 ligue-1,Nimes,Paris SG,2,High conf,+6,16.10.20,0.83,1.25,win
 liga-1,Sepsi Sf. Gheorghe,U Craiova,12,High conf,+31,22.08.20,0.80,1.00,win
