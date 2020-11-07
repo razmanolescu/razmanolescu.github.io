@@ -1,58 +1,58 @@
 league,opp,opp2,result,conf,ROI,date
-liga-1,Din. Bucuresti,Astra,1X,High conf,-1,30.10.20,0.89,1.14,1.13
-primeira-liga,Pacos Ferreira,Porto,2,High conf,+15,30.10.20,0.83,1.25,1.53
-jupiler-league,Genk,Eupen,X2,High conf,+40,30.10.20,0.86,1.20,2.35
-bundesliga,Schalke 04,Stuttgart,2,High conf,+37,30.10.20,0.86,1.20,2.18
-premier-league,Wolves,Crystal Palace,1X,High conf,+23,30.10.20,0.67,1.00,1.29
-primera-division,Real Madrid,Huesca,>2.5,Low conf,-3,31.10.20,0.80,2.00,1.90
-primera-division,Ath Bilbao,Sevilla,X2,Med conf,+4,31.10.20,0.88,1.41,1.49
-primera-division,Osasuna,Ath Madrid,X2,Low conf,-31,31.10.20,0.67,2.00,1.24
-primera-division,Alaves,Barcelona,X2,High conf,+15,31.10.20,0.80,1.00,1.18
-liga-1,Academica Clinceni,Sepsi Sf. Gheorghe,1X,High conf,+32,31.10.20,0.89,1.14,1.80
-liga-1,FC Hermannstadt,U Craiova,X2,High conf,+28,31.10.20,0.75,1.00,1.38
-primeira-liga,Rio Ave,Moreirense,<2.5,Med conf,+22,31.10.20,0.80,1.33,1.90
-primeira-liga,Maritimo,Nacional,1X,High conf,+28,31.10.20,0.75,1.00,1.39
-ligue-1,Nantes,Paris SG,2,Med conf,+5,31.10.20,0.89,1.33,1.43
-mls,FC Dallas,Houston Dynamo,1X,Med conf,-4,31.10.20,0.95,1.47,1.40
-bundesliga,Bielefeld,Dortmund,<2.5,High conf,+47,31.10.20,0.75,1.00,1.90
-bundesliga,Ein Frankfurt,Werder Bremen,X,High conf,+76,31.10.20,0.50,1.00,4.12
-bundesliga,Augsburg,Mainz,1X,Med conf,+1,31.10.20,0.80,1.33,1.36
-bundesliga,FC Koln,Bayern Munich,2,High conf,-2,31.10.20,0.86,1.20,1.18
-bundesliga,M'gladbach,RB Leipzig,2,High conf,+40,31.10.20,0.86,1.20,2.32
-serie-a,Crotone,Atalanta,X2,Low conf,-52,31.10.20,0.75,3.03,1.17
-serie-a,Bologna,Cagliari,2,Low conf,+17,31.10.20,0.90,2.27,3.68
-premier-league,Sheffield United,Man City,2,Med conf,-5,31.10.20,0.88,1.41,1.32
-premier-league,Burnley,Chelsea,X2,Med conf,-17,31.10.20,0.75,1.49,1.20
-premier-league,Liverpool,West Ham,1X,Med conf,-20,31.10.20,0.75,1.49,1.15
-primera-division,Betis,Elche,1X,Med conf,-19,01.11.20,0.75,1.49,1.16
-primera-division,Celta,Sociedad,X2,Med conf,+4,01.11.20,0.88,1.41,1.49
-primera-division,Granada,Levante,1,Med conf,+29,01.11.20,0.92,1.37,2.26
-primera-division,Valencia,Getafe,1,Med conf,+42,01.11.20,0.92,1.37,3.25
-liga-1,Poli Iasi,Viitorul Constanta,2,Med conf,+34,01.11.20,0.91,1.43,2.74
-liga-1,CFR Cluj,Gaz Metan Medias,1,High conf,+9,01.11.20,0.94,1.14,1.26
-primeira-liga,Portimonense,Santa Clara,X2,High conf,+45,01.11.20,0.88,1.00,1.81
-primeira-liga,Gil Vicente,Guimaraes,2,High conf,+37,01.11.20,0.83,1.25,2.31
-primeira-liga,Sp Lisbon,Tondela,1,Med conf,-1,01.11.20,0.91,1.43,1.41
-jupiler-league,Anderlecht,Antwerp,1X,Med conf,-3,01.11.20,0.86,1.49,1.43
-jupiler-league,Standard,Oostende,1X,High conf,+22,01.11.20,0.83,1.00,1.28
-jupiler-league,Waasland-Beveren,Gent,2,Med conf,-4,01.11.20,0.92,1.56,1.47
-ligue-1,St Etienne,Montpellier,12,High conf,+11,01.11.20,0.86,1.20,1.40
-ligue-1,Angers,Nice,2,Med conf,+45,01.11.20,0.89,1.33,3.34
-ligue-1,Dijon,Lorient,1,High conf,+56,01.11.20,0.94,1.14,3.15
-ligue-1,Nimes,Metz,12,High conf,+13,01.11.20,0.86,1.20,1.43
-ligue-1,Reims,Strasbourg,1X,Low conf,-11,01.11.20,0.88,1.75,1.46
-ligue-1,Monaco,Bordeaux,>2.5,Med conf,+22,01.11.20,0.80,1.33,1.90
-ligue-1,Lille,Lyon,12,High conf,+13,01.11.20,0.86,1.20,1.43
-mls,Columbus Crew,Philadelphia Union,1,Med conf,+28,01.11.20,0.96,1.37,2.21
-bundesliga,Freiburg,Leverkusen,X2,Low conf,-24,01.11.20,0.80,2.00,1.36
-bundesliga,Hertha,Wolfsburg,X2,High conf,+37,01.11.20,0.50,1.00,1.59
-serie-a,Udinese,Milan,2,Low conf,-12,01.11.20,0.90,2.27,1.79
-serie-a,Spezia,Juventus,BTTS,High conf,+26,01.11.20,0.86,1.20,1.75
-serie-a,Torino,Lazio,2,Low conf,+7,01.11.20,0.90,2.27,2.70
-serie-a,Napoli,Sassuolo,X2,Low conf,-2,01.11.20,0.75,3.03,2.82
-serie-a,Roma,Fiorentina,1X,Med conf,-15,01.11.20,0.83,1.67,1.33
-serie-a,Sampdoria,Genoa,1,Low conf,-30,01.11.20,0.90,4.55,1.94
-premier-league,Aston Villa,Southampton,X2,Med conf,+15,01.11.20,0.80,1.33,1.68
-premier-league,Newcastle,Everton,1X,High conf,+50,01.11.20,0.67,1.00,1.98
-premier-league,Man United,Arsenal,1,Med conf,+18,01.11.20,0.94,1.49,2.06
-premier-league,Tottenham,Brighton,1X,Med conf,-14,01.11.20,0.75,1.49,1.23
+primera-division,Huesca,Eibar,1,Med conf,+15,07.11.20,0.93,1.56,2.05
+primera-division,Barcelona,Betis,BTTS,Low conf,-11,07.11.20,0.93,2.17,1.75
+primera-division,Sevilla,Osasuna,BTTS,Low conf,-11,07.11.20,0.93,2.17,1.75
+liga-1,FC Voluntari,Poli Iasi,1,Med conf,+33,07.11.20,0.95,1.28,2.21
+liga-1,Sepsi Sf. Gheorghe,FC Hermannstadt,1,Med conf,+22,07.11.20,0.95,1.28,1.77
+liga-1,FC Steaua Bucuresti,FC Botosani,1,Med conf,+8,07.11.20,0.95,1.28,1.42
+primeira-liga,Tondela,Santa Clara,2,Med conf,+24,07.11.20,0.90,1.49,2.30
+primeira-liga,Guimaraes,Sp Lisbon,2,Med conf,+16,07.11.20,0.90,1.49,1.95
+jupiler-league,Eupen,Waasland-Beveren,1X,High conf,+15,07.11.20,0.86,1.00,1.18
+jupiler-league,St Truiden,Genk,12,High conf,+27,07.11.20,0.90,1.00,1.38
+ligue-1,Bordeaux,Montpellier,12,Med conf,+8,07.11.20,0.90,1.28,1.44
+ligue-1,Paris SG,Rennes,1,High conf,+16,07.11.20,0.95,1.19,1.48
+bundesliga,Augsburg,Hertha,1X,High conf,+40,07.11.20,0.88,1.00,1.65
+bundesliga,Mainz,Schalke 04,X2,High conf,+44,07.11.20,0.67,1.00,1.80
+bundesliga,RB Leipzig,Freiburg,1X,High conf,+14,07.11.20,0.88,1.00,1.16
+bundesliga,Union Berlin,Bielefeld,1,High conf,+30,07.11.20,0.86,1.20,1.88
+bundesliga,Stuttgart,Ein Frankfurt,1X,High conf,+37,07.11.20,0.88,1.00,1.60
+bundesliga,Dortmund,Bayern Munich,X,Low conf,+25,07.11.20,0.80,2.00,4.07
+serie-a,Cagliari,Sampdoria,BTTS,High conf,+32,07.11.20,0.90,1.12,1.75
+serie-a,Benevento,Spezia,1,Low conf,-3,07.11.20,0.92,2.38,2.20
+serie-a,Parma,Fiorentina,BTTS,High conf,+32,07.11.20,0.90,1.12,1.75
+premier-league,Everton,Man United,2,Med conf,+35,07.11.20,0.90,1.28,2.34
+premier-league,Crystal Palace,Leeds,<2.5,Med conf,+7,07.11.20,0.83,1.67,1.90
+premier-league,Chelsea,Sheffield United,1,Med conf,-8,07.11.20,0.94,1.59,1.41
+premier-league,West Ham,Fulham,1X,High conf,+23,07.11.20,0.80,1.00,1.30
+primera-division,Getafe,Villarreal,1X,High conf,+13,08.11.20,0.83,1.25,1.50
+primera-division,Sociedad,Granada,BTTS,Low conf,-11,08.11.20,0.93,2.17,1.75
+primera-division,Levante,Alaves,1X,Med conf,-2,08.11.20,0.88,1.41,1.37
+primera-division,Valladolid,Ath Bilbao,1,Med conf,+36,08.11.20,0.93,1.56,3.63
+primera-division,Valencia,Real Madrid,>2.5,Low conf,-3,08.11.20,0.80,2.00,1.90
+liga-1,Viitorul Constanta,Din. Bucuresti,1,Med conf,+36,08.11.20,0.95,1.28,2.40
+primeira-liga,Nacional,Gil Vicente,1X,High conf,+34,08.11.20,0.67,1.00,1.52
+primeira-liga,Porto,Portimonense,1,Med conf,-4,08.11.20,0.90,1.28,1.22
+primeira-liga,Benfica,Sp Braga,1,Med conf,+16,08.11.20,0.90,1.28,1.61
+jupiler-league,Antwerp,Standard,12,High conf,+30,08.11.20,0.90,1.00,1.43
+jupiler-league,Gent,Anderlecht,1,Med conf,+25,08.11.20,0.95,1.47,2.31
+ligue-1,Lens,Reims,BTTS,Low conf,-0,08.11.20,0.88,1.75,1.75
+ligue-1,Lorient,Nantes,BTTS,Low conf,-0,08.11.20,0.88,1.75,1.75
+ligue-1,Metz,Dijon,1,High conf,+28,08.11.20,0.95,1.19,1.77
+ligue-1,Nimes,Angers,1X,Med conf,+13,08.11.20,0.92,1.37,1.68
+ligue-1,Nice,Monaco,1X,Med conf,+20,08.11.20,0.92,1.37,1.88
+ligue-1,Lyon,St Etienne,1,High conf,+11,08.11.20,0.95,1.19,1.37
+mls,Chicago Fire,New York City,X2,Med conf,+1,08.11.20,0.89,1.59,1.62
+mls,DC United,Montreal Impact,<2.5,Low conf,-28,08.11.20,0.94,4.00,1.90
+mls,New York Red Bulls,Toronto FC,1X,High conf,+30,08.11.20,0.91,1.00,1.43
+mls,Philadelphia Union,New England Revolution,1,Med conf,+29,08.11.20,0.97,1.27,2.02
+bundesliga,Wolfsburg,Hoffenheim,X,High conf,+73,08.11.20,0.67,1.00,3.74
+bundesliga,Leverkusen,M'gladbach,1,High conf,+40,08.11.20,0.86,1.20,2.35
+serie-a,Lazio,Juventus,2,Med conf,+19,08.11.20,0.91,1.43,1.98
+serie-a,Genoa,Roma,2,Med conf,+11,08.11.20,0.91,1.43,1.70
+serie-a,Torino,Crotone,1,Low conf,-8,08.11.20,0.92,2.38,2.00
+serie-a,Bologna,Napoli,2,Med conf,+11,08.11.20,0.91,1.43,1.69
+serie-a,Milan,Verona,>2.5,Med conf,+14,08.11.20,0.75,1.49,1.90
+premier-league,West Brom,Tottenham,2,Med conf,+13,08.11.20,0.90,1.28,1.53
+premier-league,Leicester,Wolves,1X,High conf,+10,08.11.20,0.83,1.25,1.43
+premier-league,Man City,Liverpool,2,Med conf,+49,08.11.20,0.90,1.28,3.48
+premier-league,Arsenal,Aston Villa,1,Med conf,+5,08.11.20,0.94,1.59,1.72
