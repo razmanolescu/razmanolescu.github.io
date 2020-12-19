@@ -1,46 +1,56 @@
 league,opp,opp2,result,conf,ROI,date
-primera-division,Valencia,Ath Bilbao,X2,High conf,+32,12.12.20,0.80,1.00,1.46
-primera-division,Getafe,Sevilla,1,Med conf,+42,12.12.20,0.96,1.47,3.85
-primera-division,Huesca,Alaves,X,Low conf,-1,12.12.20,0.95,3.33,3.21
-primera-division,Real Madrid,Ath Madrid,X,Low conf,-0,12.12.20,0.95,3.33,3.28
-liga-1,Gaz Metan Medias,Sepsi Sf. Gheorghe,X2,High conf,+26,12.12.20,0.88,1.00,1.36
-liga-1,Chindia Targoviste,Viitorul Constanta,2,Med conf,+18,12.12.20,0.92,1.33,1.76
-jupiler-league,St Truiden,Charleroi,X,High conf,+71,12.12.20,0.75,1.00,3.39
-ligue-1,Marseille,Monaco,1,Low conf,+20,12.12.20,0.96,2.00,3.29
-ligue-1,Lens,Montpellier,2,Med conf,+34,12.12.20,0.93,1.45,2.88
-bundesliga,Dortmund,Stuttgart,12,Low conf,-22,12.12.20,0.90,1.79,1.28
-bundesliga,M'gladbach,Hertha,X2,High conf,+39,12.12.20,0.89,1.14,2.05
-bundesliga,Mainz,FC Koln,1X,High conf,+23,12.12.20,0.90,1.12,1.51
-bundesliga,RB Leipzig,Werder Bremen,<2.5,Med conf,+10,12.12.20,0.89,1.59,1.90
-bundesliga,Freiburg,Bielefeld,<2.5,Med conf,+10,12.12.20,0.89,1.59,1.90
-bundesliga,Union Berlin,Bayern Munich,12,Low conf,-27,12.12.20,0.90,1.79,1.20
-serie-a,Crotone,Spezia,2,Med conf,+32,12.12.20,0.95,1.47,2.80
-serie-a,Torino,Udinese,X2,High conf,+18,12.12.20,0.86,1.20,1.53
-serie-a,Lazio,Verona,X2,High conf,+40,12.12.20,0.86,1.20,2.33
-premier-league,Wolves,Aston Villa,1,Med conf,+22,12.12.20,0.95,1.61,2.50
-premier-league,Newcastle,West Brom,1,Med conf,+19,12.12.20,0.95,1.61,2.34
-premier-league,Man United,Man City,1X,High conf,+58,12.12.20,0.80,1.00,2.41
-premier-league,Everton,Chelsea,2,Med conf,+10,12.12.20,0.94,1.49,1.76
-primera-division,Sociedad,Eibar,X,High conf,+74,13.12.20,0.80,1.00,3.78
-primera-division,Betis,Villarreal,X2,Med conf,-1,13.12.20,0.92,1.49,1.47
-primera-division,Elche,Granada,1X,Low conf,-2,13.12.20,0.90,1.79,1.74
-primera-division,Barcelona,Levante,1X,Low conf,-33,13.12.20,0.90,1.79,1.12
-liga-1,Academica Clinceni,FC Arges,1,Med conf,+16,13.12.20,0.95,1.54,2.04
-liga-1,FC Hermannstadt,FC Voluntari,X,Low conf,+20,13.12.20,0.80,2.00,3.33
-liga-1,CFR Cluj,FC Steaua Bucuresti,X2,High conf,+21,13.12.20,0.88,1.16,1.54
-jupiler-league,Gent,Standard,1,Low conf,+8,13.12.20,0.94,1.89,2.24
-ligue-1,Nice,Rennes,BTTS,Low conf,-28,13.12.20,0.88,3.45,1.75
-ligue-1,Lorient,Nimes,12,Med conf,-9,13.12.20,0.89,1.59,1.39
-ligue-1,Nantes,Dijon,1X,Med conf,-17,13.12.20,0.89,1.59,1.25
-bundesliga,Augsburg,Schalke 04,1,Med conf,+28,13.12.20,0.95,1.28,2.01
-bundesliga,Leverkusen,Hoffenheim,1X,High conf,+14,13.12.20,0.90,1.12,1.34
-serie-a,Atalanta,Fiorentina,1X,High conf,+14,13.12.20,0.92,1.09,1.28
-serie-a,Bologna,Roma,2,Med conf,+17,13.12.20,0.95,1.47,1.95
-serie-a,Napoli,Sampdoria,1,Low conf,-21,13.12.20,0.96,2.00,1.40
-serie-a,Genoa,Juventus,X2,High conf,-4,13.12.20,0.88,1.16,1.11
-serie-a,Milan,Parma,1,Low conf,-26,13.12.20,0.96,2.00,1.31
-premier-league,Southampton,Sheffield United,1,Med conf,+4,13.12.20,0.95,1.61,1.71
-premier-league,Crystal Palace,Tottenham,12,Low conf,-16,13.12.20,0.93,1.75,1.36
-premier-league,Fulham,Liverpool,2,Med conf,-6,13.12.20,0.94,1.49,1.37
-premier-league,Arsenal,Burnley,<2.5,Low conf,+4,13.12.20,0.88,1.75,1.90
-premier-league,Leicester,Brighton,<2.5,Low conf,+4,13.12.20,0.88,1.75,1.90
+primera-division,Ath Bilbao,Huesca,1X,High conf,+24,18.12.20,0.50,1.00,1.32
+liga-1,U Craiova,FC Steaua Bucuresti,2,High conf,+39,18.12.20,0.92,1.22,2.32
+jupiler-league,Charleroi,Anderlecht,X2,High conf,+34,18.12.20,0.67,1.00,1.53
+bundesliga,Union Berlin,Dortmund,1X,High conf,+39,18.12.20,0.92,1.20,2.28
+primera-division,Ath Madrid,Elche,1,Med conf,-21,19.12.20,0.95,1.67,1.23
+primera-division,Barcelona,Valencia,1,Med conf,-16,19.12.20,0.95,1.67,1.32
+primera-division,Levante,Sociedad,X2,High conf,+8,19.12.20,0.83,1.25,1.39
+primera-division,Osasuna,Villarreal,X2,Med conf,-9,19.12.20,0.92,1.56,1.38
+primera-division,Sevilla,Valladolid,1X,Med conf,-26,19.12.20,0.91,1.67,1.16
+liga-1,Chindia Targoviste,FC Arges,X2,High conf,+35,19.12.20,0.88,1.16,1.97
+liga-1,Gaz Metan Medias,Viitorul Constanta,2,High conf,+30,19.12.20,0.92,1.22,1.91
+primeira-liga,Maritimo,Belenenses,1X,High conf,+32,19.12.20,0.75,1.00,1.48
+primeira-liga,Tondela,Moreirense,2,Low conf,+20,19.12.20,0.94,1.89,3.06
+jupiler-league,Waregem,St Truiden,12,Med conf,-5,19.12.20,0.90,1.49,1.39
+jupiler-league,Genk,Kortrijk,1,Med conf,-1,19.12.20,0.95,1.64,1.60
+ligue-1,Metz,Lens,1X,Med conf,+16,19.12.20,0.89,1.33,1.70
+ligue-1,Marseille,Reims,12,Med conf,-5,19.12.20,0.86,1.49,1.38
+ligue-1,Nice,Lyon,1X,High conf,+46,19.12.20,0.86,1.20,2.67
+bundesliga,M'gladbach,Hoffenheim,1X,High conf,+27,19.12.20,0.86,1.00,1.37
+bundesliga,Augsburg,Ein Frankfurt,X2,High conf,+27,19.12.20,0.80,1.00,1.36
+bundesliga,Schalke 04,Bielefeld,1X,High conf,+30,19.12.20,0.86,1.00,1.43
+bundesliga,Mainz,Werder Bremen,<2.5,Med conf,+18,19.12.20,0.88,1.41,1.90
+bundesliga,RB Leipzig,FC Koln,1X,High conf,-7,19.12.20,0.92,1.20,1.11
+bundesliga,Leverkusen,Bayern Munich,12,Low conf,-19,19.12.20,0.90,1.79,1.32
+serie-a,Fiorentina,Verona,>2.5,Low conf,+1,19.12.20,0.93,1.85,1.90
+serie-a,Sampdoria,Crotone,1,Low conf,-6,19.12.20,0.95,2.08,1.85
+serie-a,Parma,Juventus,X2,Med conf,-13,19.12.20,0.80,1.33,1.14
+premier-league,Crystal Palace,Liverpool,2,Low conf,-21,19.12.20,0.94,2.27,1.53
+premier-league,Southampton,Man City,1,Med conf,+60,19.12.20,0.94,1.33,6.59
+premier-league,Everton,Arsenal,12,Med conf,+1,19.12.20,0.92,1.37,1.39
+premier-league,Newcastle,Fulham,2,Low conf,+9,19.12.20,0.94,2.27,2.89
+primera-division,Celta,Alaves,X,Low conf,+2,20.12.20,0.96,3.70,3.93
+primera-division,Granada,Betis,X,Low conf,-3,20.12.20,0.96,3.70,3.34
+primera-division,Cadiz,Getafe,1X,Med conf,+0,20.12.20,0.91,1.67,1.67
+primera-division,Eibar,Real Madrid,X2,High conf,+1,20.12.20,0.88,1.16,1.18
+liga-1,FC Hermannstadt,Poli Iasi,1,Med conf,+21,20.12.20,0.94,1.49,2.19
+liga-1,FC Botosani,FC Voluntari,X2,High conf,+56,20.12.20,0.88,1.00,2.27
+liga-1,Academica Clinceni,Din. Bucuresti,1,Med conf,+34,20.12.20,0.94,1.49,3.07
+primeira-liga,Pacos Ferreira,Boavista,<2.5,Med conf,+22,20.12.20,0.80,1.33,1.90
+primeira-liga,Gil Vicente,Benfica,2,Low conf,-18,20.12.20,0.94,1.89,1.41
+primeira-liga,Porto,Nacional,1,Med conf,-4,20.12.20,0.95,1.33,1.26
+jupiler-league,Standard,Mouscron,1,Med conf,-10,20.12.20,0.95,1.64,1.41
+jupiler-league,Waasland-Beveren,Antwerp,1,Med conf,+37,20.12.20,0.95,1.64,4.23
+bundesliga,Freiburg,Hertha,1X,High conf,+20,20.12.20,0.92,1.20,1.58
+bundesliga,Wolfsburg,Stuttgart,1,Med conf,+28,20.12.20,0.95,1.39,2.27
+serie-a,Torino,Bologna,X2,High conf,+38,20.12.20,0.83,1.00,1.61
+serie-a,Benevento,Genoa,>2.5,Low conf,+1,20.12.20,0.93,1.85,1.90
+serie-a,Cagliari,Udinese,>2.5,Low conf,+1,20.12.20,0.93,1.85,1.90
+serie-a,Sassuolo,Milan,2,Med conf,+17,20.12.20,0.95,1.47,1.96
+serie-a,Atalanta,Roma,1X,High conf,+24,20.12.20,0.92,1.10,1.49
+serie-a,Lazio,Napoli,2,Med conf,+28,20.12.20,0.95,1.47,2.51
+premier-league,Brighton,Sheffield United,<2.5,Low conf,-3,20.12.20,0.92,2.00,1.90
+premier-league,Tottenham,Leicester,X2,Med conf,+23,20.12.20,0.89,1.33,1.92
+premier-league,Man United,Leeds,1,Med conf,+17,20.12.20,0.94,1.33,1.72
+premier-league,West Brom,Aston Villa,2,Low conf,-6,20.12.20,0.94,2.27,2.01
