@@ -1,4 +1,8 @@
 league,opp,opp2,result,conf,ROI,date,outcome
+primera-division,Ath Bilbao,Huesca,1X,High conf,+24,18.12.20,true
+liga-1,U Craiova,FC Steaua Bucuresti,2,High conf,+39,18.12.20,true
+jupiler-league,Charleroi,Anderlecht,X2,High conf,+34,18.12.20,false
+bundesliga,Union Berlin,Dortmund,1X,High conf,+39,18.12.20,true
 jupiler-league,Genk,Eupen,X2,High conf,+40,30.10.20,lose
 bundesliga,Schalke 04,Stuttgart,2,High conf,+37,30.10.20,0.86,lose
 premier-league,Wolves,Crystal Palace,1X,High conf,+23,30.10.20,win
