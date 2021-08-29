@@ -69,55 +69,59 @@ premier-league,Newcastle,Southampton,1X,High conf,+35,28.08.21,0.50,1.00,1.55
 premier-league,Norwich,Leicester,2,Low conf,-3,28.08.21,0.86,2.00,1.88
 premier-league,West Ham,Crystal Palace,1X,High conf,+16,28.08.21,0.50,1.00,1.18
 premier-league,Liverpool,Chelsea,1X,High conf,+34,28.08.21,0.50,1.00,1.51
-primera-division,Barcelona,Getafe,1,Low conf,-21,29.08.21,0.89,2.00,1.40
+primera-division,Barcelona,Getafe,1,Low conf,-20,29.08.21,0.89,2.00,1.42
 primera-division,Cadiz,Osasuna,12,Low conf,-68,29.08.21,0.00,100000.00,1.48
-primera-division,Vallecano,Granada,1X,Low conf,-16,29.08.21,0.67,2.00,1.52
-primera-division,Ath Madrid,Villarreal,1,Low conf,-5,29.08.21,0.89,2.00,1.83
-tipico-bundesliga,Admira,Sturm Graz,2,Med conf,+15,29.08.21,0.80,1.33,1.67
+primera-division,Vallecano,Granada,1X,Low conf,-21,29.08.21,0.67,2.00,1.41
+primera-division,Ath Madrid,Villarreal,1,Low conf,-6,29.08.21,0.89,2.00,1.79
+tipico-bundesliga,Admira,Sturm Graz,2,Med conf,+15,29.08.21,0.80,1.33,1.66
 tipico-bundesliga,Austria Vienna,Rapid Vienna,<2.5,High conf,+47,29.08.21,0.50,1.00,1.90
-tipico-bundesliga,Ried,LASK,2,Med conf,+11,29.08.21,0.80,1.33,1.57
-allsvenskan,Hacken,Goteborg,1X,High conf,+29,29.08.21,0.80,1.00,1.42
+tipico-bundesliga,Ried,LASK,2,Med conf,+10,29.08.21,0.80,1.33,1.54
+allsvenskan,Hacken,Goteborg,1X,High conf,+26,29.08.21,0.80,1.00,1.35
 allsvenskan,Norrkoping,Ostersunds,1X,High conf,+11,29.08.21,0.80,1.00,1.12
-allsvenskan,Sirius,Djurgarden,2,Med conf,+13,29.08.21,0.95,1.39,1.70
-allsvenskan,Hammarby,Malmo FF,X2,Med conf,-11,29.08.21,0.83,1.67,1.42
+allsvenskan,Sirius,Djurgarden,2,Med conf,+16,29.08.21,0.95,1.39,1.77
+allsvenskan,Hammarby,Malmo FF,X2,Med conf,-10,29.08.21,0.83,1.67,1.43
 allsvenskan,Kalmar,Elfsborg,X,Low conf,+25,29.08.21,0.90,1.79,3.23
 superliga,Silkeborg,Randers FC,X2,Low conf,-61,29.08.21,0.00,100000.00,1.64
-superliga,Sonderjyske,Viborg,X2,Low conf,-17,29.08.21,0.67,2.00,1.50
-superliga,Vejle,FC Copenhagen,2,High conf,+37,29.08.21,0.90,1.00,1.58
-superliga,Aarhus,Odense,X2,Low conf,-60,29.08.21,0.00,100000.00,1.68
-superliga,Brondby,Midtjylland,2,High conf,+52,29.08.21,0.90,1.00,2.10
-primeira-liga,Benfica,Tondela,1,Low conf,-50,29.08.21,0.75,3.03,1.20
-primeira-liga,Sp Braga,Guimaraes,1,Low conf,-25,29.08.21,0.75,3.03,1.72
+superliga,Sonderjyske,Viborg,X2,Low conf,-16,29.08.21,0.67,2.00,1.51
+superliga,Vejle,FC Copenhagen,2,High conf,+35,29.08.21,0.90,1.00,1.54
+superliga,Aarhus,Odense,X2,Low conf,-60,29.08.21,0.00,100000.00,1.67
+superliga,Brondby,Midtjylland,2,High conf,+55,29.08.21,0.90,1.00,2.23
+primeira-liga,Benfica,Tondela,1,Low conf,-56,29.08.21,0.75,3.03,1.12
+primeira-liga,Sp Braga,Guimaraes,1,Low conf,-25,29.08.21,0.75,3.03,1.73
 primeira-liga,Portimonense,Pacos Ferreira,1X,Low conf,-72,29.08.21,0.50,100000.00,1.38
-primeira-liga,Santa Clara,Gil Vicente,1,Low conf,-5,29.08.21,0.75,3.03,2.66
-jupiler-league,Gent,Club Brugge,12,Low conf,-69,29.08.21,0.00,100000.00,1.44
-jupiler-league,Genk,Anderlecht,12,Low conf,-69,29.08.21,0.00,100000.00,1.45
-jupiler-league,Oostende,Waregem,1X,Med conf,-3,29.08.21,0.80,1.33,1.29
+primeira-liga,Santa Clara,Gil Vicente,1,Low conf,-5,29.08.21,0.75,3.03,2.60
+jupiler-league,Gent,Club Brugge,12,Low conf,-69,29.08.21,0.00,100000.00,1.45
+jupiler-league,Genk,Anderlecht,12,Low conf,-71,29.08.21,0.00,100000.00,1.41
+jupiler-league,Oostende,Waregem,1X,Med conf,-4,29.08.21,0.80,1.33,1.27
 ligue-1,Troyes,Monaco,<2.5,Med conf,+14,29.08.21,0.75,1.49,1.90
-ligue-1,Angers,Rennes,1X,High conf,+39,29.08.21,0.50,1.00,1.64
-ligue-1,Clermont,Metz,X,High conf,+73,29.08.21,0.50,1.00,3.72
-ligue-1,Lens,Lorient,1X,High conf,+20,29.08.21,0.50,1.00,1.25
+ligue-1,Angers,Rennes,1X,High conf,+39,29.08.21,0.50,1.00,1.63
+ligue-1,Clermont,Metz,X,High conf,+73,29.08.21,0.50,1.00,3.71
+ligue-1,Lens,Lorient,1X,High conf,+20,29.08.21,0.50,1.00,1.24
 ligue-1,Strasbourg,Brest,2,Med conf,+35,29.08.21,0.83,1.67,4.00
 ligue-1,Lille,Montpellier,<2.5,Med conf,+14,29.08.21,0.75,1.49,1.90
-ligue-1,Reims,Paris SG,2,Med conf,-25,29.08.21,0.83,1.67,1.18
+ligue-1,Reims,Paris SG,X2,High conf,+7,29.08.21,0.50,1.00,1.07
 bundesliga,Union Berlin,M'gladbach,X2,High conf,+38,29.08.21,0.67,1.00,1.62
-bundesliga,Wolfsburg,RB Leipzig,1X,High conf,+48,29.08.21,0.50,1.00,1.91
+bundesliga,Wolfsburg,RB Leipzig,1X,High conf,+47,29.08.21,0.50,1.00,1.88
 ekstraklasa,Wisla Plock,Rakow,<2.5,Low conf,-33,29.08.21,0.83,5.00,1.90
-ekstraklasa,Zaglebie,Slask Wroclaw,12,High conf,+30,29.08.21,0.67,1.00,1.42
-ekstraklasa,Wisla,Legia,2,Med conf,+31,29.08.21,0.89,1.33,2.25
-serie-a,Santos,Flamengo RJ,12,High conf,+14,29.08.21,0.90,1.12,1.33
-serie-a,Gremio,Corinthians,1X,High conf,+12,29.08.21,0.83,1.25,1.47
-serie-a,Palmeiras,Athletico-PR,1X,Low conf,-27,29.08.21,0.93,1.85,1.24
-serie-a,America MG,Ceara,1,Med conf,+35,29.08.21,0.95,1.33,2.47
-liga-1,Sepsi Sf. Gheorghe,FC Botosani,X2,High conf,+45,29.08.21,0.67,1.00,1.81
-liga-1,CFR Cluj,FC Steaua Bucuresti,1,Low conf,+17,29.08.21,0.92,1.72,2.41
+ekstraklasa,Zaglebie,Slask Wroclaw,12,High conf,+30,29.08.21,0.67,1.00,1.43
+ekstraklasa,Wisla,Legia,2,Med conf,+33,29.08.21,0.89,1.33,2.36
+serie-a,Genoa,Napoli,2,High conf,+21,29.08.21,0.86,1.20,1.62
+serie-a,Sassuolo,Sampdoria,1X,High conf,+28,29.08.21,0.67,1.00,1.38
+serie-a,Milan,Cagliari,1,High conf,+31,29.08.21,0.67,1.00,1.44
+serie-a,Salernitana,Roma,2,High conf,+18,29.08.21,0.86,1.20,1.55
+serie-a,America MG,Ceara,1,Med conf,+36,29.08.21,0.95,1.33,2.55
+serie-a,Juventude,Sao Paulo,X2,High conf,+24,29.08.21,0.83,1.00,1.32
+serie-a,Gremio,Corinthians,1X,High conf,+7,29.08.21,0.83,1.25,1.36
+serie-a,Palmeiras,Athletico-PR,1X,Low conf,-27,29.08.21,0.93,1.85,1.23
+liga-1,Sepsi Sf. Gheorghe,FC Botosani,X2,High conf,+46,29.08.21,0.67,1.00,1.84
+liga-1,CFR Cluj,FC Steaua Bucuresti,1,Low conf,+10,29.08.21,0.92,1.72,2.10
 super-league,Luzern,Lausanne,<2.5,Low conf,-53,29.08.21,0.00,100000.00,1.90
-super-league,Basel,Young Boys,X,Low conf,-27,29.08.21,0.00,100000.00,3.64
-super-league,Grasshoppers,Servette,1,Low conf,+15,29.08.21,0.67,2.00,2.82
-eredivisie,Utrecht,Feyenoord,X2,Low conf,-65,29.08.21,0.00,100000.00,1.53
-eredivisie,Ajax,Vitesse,1,High conf,+5,29.08.21,0.88,1.16,1.24
-eredivisie,Heracles,Nijmegen,X2,High conf,+55,29.08.21,0.67,1.00,2.23
-eredivisie,Heerenveen,AZ Alkmaar,2,Med conf,+9,29.08.21,0.83,1.67,1.95
-premier-league,Burnley,Leeds,2,Low conf,+8,29.08.21,0.86,2.00,2.37
-premier-league,Tottenham,Watford,1,Low conf,-20,29.08.21,0.86,2.00,1.43
-premier-league,Wolves,Man United,X2,High conf,+20,29.08.21,0.67,1.00,1.25
+super-league,Basel,Young Boys,X,Low conf,-27,29.08.21,0.00,100000.00,3.65
+super-league,Grasshoppers,Servette,1,Low conf,+18,29.08.21,0.67,2.00,3.09
+eredivisie,Utrecht,Feyenoord,X2,Low conf,-62,29.08.21,0.00,100000.00,1.62
+eredivisie,Ajax,Vitesse,1,High conf,+1,29.08.21,0.88,1.16,1.17
+eredivisie,Heracles,Nijmegen,X2,High conf,+54,29.08.21,0.67,1.00,2.16
+eredivisie,Heerenveen,AZ Alkmaar,2,Med conf,+10,29.08.21,0.83,1.67,2.01
+premier-league,Burnley,Leeds,2,Low conf,+6,29.08.21,0.86,2.00,2.25
+premier-league,Tottenham,Watford,1,Low conf,-19,29.08.21,0.86,2.00,1.45
+premier-league,Wolves,Man United,X2,High conf,+21,29.08.21,0.67,1.00,1.26
