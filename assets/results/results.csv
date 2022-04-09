@@ -1,86 +1,91 @@
 league,opp,opp2,result,conf,ROI,date,confidence,classif_odds,book_odds
-laliga,Getafe,Mallorca,1,Med conf,+24,02.04.22,0.97,1.41,2.15
-laliga,Levante,Villarreal,X2,High conf,+13,02.04.22,0.90,1.12,1.31
-laliga,Celta,Real Madrid,X2,High conf,+13,02.04.22,0.90,1.12,1.32
-laliga,Ath Madrid,Alaves,1,Med conf,-1,02.04.22,0.97,1.41,1.39
-liga-portugal,Belenenses,Portimonense,X,Low conf,+7,02.04.22,0.83,2.50,3.03
-liga-portugal,Arouca,Gil Vicente,<2.5,High conf,+27,02.04.22,0.91,1.25,1.90
-liga-portugal,Estoril,Vizela,BTTS,Med conf,+3,02.04.22,0.91,1.67,1.75
-jupiler-pro-league,Waregem,St Truiden,<2.5,Low conf,-3,02.04.22,0.92,2.00,1.90
-jupiler-pro-league,Mechelen,Kortrijk,<2.5,Low conf,-3,02.04.22,0.92,2.00,1.90
-ligue-1,Nice,Rennes,X2,High conf,+15,02.04.22,0.86,1.20,1.47
-ligue-1,Lille,Bordeaux,12,High conf,+23,02.04.22,0.89,1.00,1.29
-ligue-1,St Etienne,Marseille,X2,High conf,+14,02.04.22,0.88,1.16,1.39
-championship,Blackpool,Nott'm Forest,1X,Med conf,+6,02.04.22,0.93,1.56,1.71
-championship,Barnsley,Reading,X2,Low conf,-9,02.04.22,0.92,2.00,1.69
-championship,Bournemouth,Bristol City,1X,Med conf,-22,02.04.22,0.93,1.56,1.16
-championship,Cardiff,Swansea,<2.5,Med conf,+12,02.04.22,0.96,1.54,1.90
-championship,Coventry,Blackburn,12,Med conf,+9,02.04.22,0.93,1.27,1.43
-championship,Derby,Preston,X2,High conf,+24,02.04.22,0.88,1.16,1.60
-championship,Peterboro,Middlesbrough,2,Med conf,+4,02.04.22,0.93,1.56,1.68
-championship,QPR,Fulham,1X,Med conf,+24,02.04.22,0.93,1.56,2.52
-championship,Stoke,Sheffield United,2,Med conf,+22,02.04.22,0.93,1.56,2.37
-bundesliga,Hoffenheim,Bochum,1,High conf,+15,02.04.22,0.94,1.25,1.54
-bundesliga,Bielefeld,Stuttgart,1,High conf,+50,02.04.22,0.94,1.25,3.31
-bundesliga,Leverkusen,Hertha,1,High conf,+10,02.04.22,0.94,1.25,1.42
-bundesliga,Ein Frankfurt,Greuther Furth,1,High conf,+8,02.04.22,0.94,1.25,1.38
-bundesliga,Freiburg,Bayern Munich,X2,Med conf,-15,02.04.22,0.90,1.49,1.22
-bundesliga,Dortmund,RB Leipzig,X2,Med conf,+7,02.04.22,0.90,1.49,1.67
-ekstraklasa,Warta Poznan,Rakow,2,High conf,+28,02.04.22,0.91,1.25,1.91
-ekstraklasa,Leczna,Pogon Szczecin,X2,Low conf,-34,02.04.22,0.91,2.00,1.20
-ekstraklasa,Legia,Lechia Gdansk,<2.5,Low conf,+2,02.04.22,0.92,1.82,1.90
-serie-a,Spezia,Venezia,X2,Med conf,+17,02.04.22,0.92,1.37,1.79
-serie-a,Lazio,Sassuolo,1X,Med conf,-9,02.04.22,0.88,1.41,1.25
-serie-a,Salernitana,Torino,X2,High conf,+23,02.04.22,0.93,1.00,1.30
-super-league,Zurich,Grasshoppers,1X,High conf,+3,02.04.22,0.91,1.25,1.29
-super-league,Sion,St. Gallen,2,High conf,+30,02.04.22,0.83,1.25,2.01
-eredivisie,Groningen,Ajax,2,Med conf,-6,02.04.22,0.94,1.33,1.23
-eredivisie,Twente,PSV Eindhoven,X2,High conf,+24,02.04.22,0.88,1.00,1.32
-eredivisie,AZ Alkmaar,Vitesse,X2,Med conf,+21,02.04.22,0.91,1.67,2.54
-eredivisie,Waalwijk,Utrecht,X2,High conf,+24,02.04.22,0.88,1.00,1.31
-eredivisie,Feyenoord,Willem II,1,High conf,-7,02.04.22,0.96,1.25,1.15
-premier-league,Liverpool,Watford,1,Med conf,-14,02.04.22,0.97,1.41,1.17
-premier-league,Brighton,Norwich,1,Med conf,+4,02.04.22,0.97,1.41,1.50
-premier-league,Burnley,Man City,2,Med conf,-3,02.04.22,0.95,1.28,1.23
-premier-league,Chelsea,Brentford,1,Med conf,-1,02.04.22,0.97,1.41,1.38
-premier-league,Leeds,Southampton,2,Med conf,+42,02.04.22,0.95,1.28,2.76
-premier-league,Wolves,Aston Villa,1,Med conf,+39,02.04.22,0.97,1.41,3.09
-premier-league,Man United,Leicester,1,Med conf,+8,02.04.22,0.97,1.41,1.58
-laliga,Ath Bilbao,Elche,BTTS,Med conf,+13,03.04.22,0.91,1.43,1.75
-laliga,Betis,Osasuna,1,Med conf,+20,03.04.22,0.97,1.41,1.97
-laliga,Granada,Vallecano,1,Med conf,+34,03.04.22,0.97,1.41,2.69
-laliga,Valencia,Cadiz,1X,High conf,+10,03.04.22,0.90,1.12,1.27
-laliga,Barcelona,Sevilla,1X,High conf,+2,03.04.22,0.89,1.14,1.16
-liga-portugal,Maritimo,Tondela,BTTS,Med conf,+3,03.04.22,0.91,1.67,1.75
-liga-portugal,Moreirense,Guimaraes,BTTS,Med conf,+3,03.04.22,0.91,1.67,1.75
-liga-portugal,Sp Lisbon,Pacos Ferreira,1,Low conf,-29,03.04.22,0.96,1.85,1.21
-jupiler-pro-league,Standard,St. Gilloise,2,Med conf,+7,03.04.22,0.90,1.49,1.67
-jupiler-pro-league,Cercle Brugge,Gent,X2,High conf,+10,03.04.22,0.83,1.25,1.43
-jupiler-pro-league,Anderlecht,Charleroi,1,Med conf,+12,03.04.22,0.95,1.27,1.50
-jupiler-pro-league,Genk,Eupen,BTTS,Med conf,+6,03.04.22,0.89,1.59,1.75
-ligue-1,Strasbourg,Lens,1,Med conf,+21,03.04.22,0.97,1.49,2.16
-ligue-1,Clermont,Nantes,2,Low conf,+21,03.04.22,0.92,1.82,2.94
-ligue-1,Troyes,Reims,1,Med conf,+27,03.04.22,0.97,1.49,2.50
-ligue-1,Metz,Monaco,X2,High conf,+1,03.04.22,0.88,1.16,1.18
-ligue-1,Montpellier,Brest,<2.5,Med conf,+16,03.04.22,0.94,1.45,1.90
-ligue-1,Lyon,Angers,1,Med conf,-4,03.04.22,0.97,1.49,1.41
-ligue-1,Paris SG,Lorient,1X,High conf,+7,03.04.22,0.89,1.00,1.07
-championship,Birmingham,West Brom,X2,High conf,+13,03.04.22,0.88,1.16,1.36
-bundesliga,Augsburg,Wolfsburg,<2.5,High conf,+37,03.04.22,0.91,1.11,1.90
-bundesliga,M'gladbach,Mainz,<2.5,High conf,+37,03.04.22,0.91,1.11,1.90
-ekstraklasa,Termalica B-B.,Radomiak Radom,BTTS,Low conf,-7,03.04.22,0.86,2.00,1.75
-ekstraklasa,Jagiellonia,Zaglebie,1X,High conf,+35,03.04.22,0.83,1.00,1.55
-ekstraklasa,Wisla,Piast Gliwice,X2,High conf,+37,03.04.22,0.80,1.00,1.60
-serie-a,Fiorentina,Empoli,1X,High conf,+0,03.04.22,0.86,1.20,1.21
-serie-a,Atalanta,Napoli,X2,High conf,+42,03.04.22,0.93,1.00,1.72
-serie-a,Udinese,Cagliari,1X,High conf,+4,03.04.22,0.86,1.20,1.27
-serie-a,Sampdoria,Roma,2,Low conf,+0,03.04.22,0.94,1.89,1.89
-super-league,Luzern,Lugano,2,High conf,+47,03.04.22,0.83,1.25,3.07
-super-league,Basel,Young Boys,1X,High conf,+23,03.04.22,0.91,1.25,1.77
-super-league,Lausanne,Servette,12,High conf,+28,03.04.22,0.83,1.00,1.40
-eredivisie,Zwolle,Go Ahead Eagles,1,High conf,+31,03.04.22,0.96,1.25,2.03
-eredivisie,For Sittard,Heracles,1X,Low conf,-13,03.04.22,0.80,2.00,1.59
-eredivisie,Sparta Rotterdam,Heerenveen,X2,High conf,+45,03.04.22,0.88,1.00,1.81
-eredivisie,Cambuur,Nijmegen,2,Med conf,+38,03.04.22,0.94,1.33,2.70
-premier-league,West Ham,Everton,1,Med conf,+16,03.04.22,0.97,1.41,1.82
-premier-league,Tottenham,Newcastle,1,Med conf,+8,03.04.22,0.97,1.41,1.58
+laliga,Cadiz,Betis,>2.5,High conf,+27,09.04.22,0.83,1.25,1.90
+laliga,Mallorca,Ath Madrid,BTTS,Med conf,+12,09.04.22,0.93,1.45,1.75
+laliga,Villarreal,Ath Bilbao,1,Med conf,+30,09.04.22,0.98,1.39,2.38
+laliga,Real Madrid,Getafe,1,Med conf,+2,09.04.22,0.98,1.39,1.42
+liga-portugal,Pacos Ferreira,Maritimo,1X,High conf,+18,09.04.22,0.88,1.16,1.47
+liga-portugal,Benfica,Belenenses,1,Low conf,-25,09.04.22,0.95,1.72,1.20
+liga-portugal,Boavista,Arouca,<2.5,High conf,+30,09.04.22,0.86,1.20,1.90
+liga-portugal,Tondela,Sp Lisbon,2,Med conf,+1,09.04.22,0.93,1.30,1.31
+jupiler-pro-league,Eupen,Oostende,X2,Med conf,+21,09.04.22,0.90,1.28,1.76
+jupiler-pro-league,Antwerp,Cercle Brugge,1X,High conf,+15,09.04.22,0.89,1.14,1.37
+ligue-1,Reims,Rennes,X2,High conf,+0,09.04.22,0.83,1.25,1.26
+ligue-1,Clermont,Paris SG,2,Med conf,-11,09.04.22,0.92,1.56,1.33
+championship,Sheffield United,Bournemouth,12,Med conf,+3,09.04.22,0.94,1.37,1.44
+championship,Blackburn,Blackpool,1,Med conf,+13,09.04.22,0.96,1.47,1.81
+championship,Bristol City,Peterboro,1,Med conf,+13,09.04.22,0.96,1.47,1.82
+championship,Middlesbrough,Hull,1,Med conf,+4,09.04.22,0.96,1.47,1.57
+championship,Millwall,Barnsley,1,Med conf,+13,09.04.22,0.96,1.47,1.83
+championship,Nott'm Forest,Birmingham,12,Med conf,-2,09.04.22,0.94,1.37,1.34
+championship,Preston,QPR,12,Med conf,+4,09.04.22,0.94,1.37,1.46
+championship,Reading,Cardiff,1X,Low conf,-25,09.04.22,0.88,2.33,1.47
+championship,Swansea,Derby,1X,Low conf,-17,09.04.22,0.90,1.79,1.37
+championship,West Brom,Stoke,12,High conf,+29,09.04.22,0.83,1.00,1.41
+bundesliga,Bayern Munich,Augsburg,12,High conf,+0,09.04.22,0.90,1.12,1.13
+bundesliga,FC Koln,Mainz,<2.5,Med conf,+20,09.04.22,0.92,1.37,1.90
+bundesliga,Greuther Furth,M'gladbach,1,Med conf,+52,09.04.22,0.95,1.35,4.62
+bundesliga,Wolfsburg,Bielefeld,1,Med conf,+17,09.04.22,0.95,1.35,1.75
+bundesliga,Hertha,Union Berlin,12,High conf,+21,09.04.22,0.90,1.12,1.48
+ekstraklasa,Piast Gliwice,Leczna,1X,High conf,+2,09.04.22,0.88,1.16,1.19
+ekstraklasa,Lech Poznan,Legia,1X,Med conf,-5,09.04.22,0.90,1.28,1.21
+ekstraklasa,Lechia Gdansk,Termalica B-B.,1X,Med conf,-0,09.04.22,0.90,1.28,1.28
+serie-a,Empoli,Spezia,1,Med conf,+15,09.04.22,0.97,1.56,2.05
+serie-a,Cagliari,Juventus,2,Low conf,-9,09.04.22,0.94,1.89,1.60
+serie-a,Fluminense,Santos,12,Med conf,+2,09.04.22,0.92,1.37,1.41
+super-league,Young Boys,Lausanne,1,Med conf,-3,09.04.22,0.94,1.33,1.29
+super-league,Grasshoppers,Luzern,2,High conf,+47,09.04.22,0.89,1.14,2.44
+eredivisie,Utrecht,For Sittard,1X,Low conf,-28,09.04.22,0.88,1.75,1.18
+eredivisie,Ajax,Sparta Rotterdam,1,Med conf,-12,09.04.22,0.96,1.27,1.10
+eredivisie,Nijmegen,Twente,X2,High conf,+16,09.04.22,0.90,1.12,1.38
+premier-league,Everton,Man United,2,Med conf,+25,09.04.22,0.95,1.28,1.89
+premier-league,Arsenal,Brighton,1X,Med conf,-12,09.04.22,0.91,1.43,1.22
+premier-league,Southampton,Chelsea,2,Med conf,+28,09.04.22,0.95,1.28,2.00
+premier-league,Watford,Leeds,1,Med conf,+32,09.04.22,0.98,1.47,2.76
+premier-league,Aston Villa,Tottenham,2,Med conf,+33,09.04.22,0.95,1.28,2.21
+laliga,Osasuna,Alaves,1,Med conf,+21,10.04.22,0.98,1.39,1.98
+laliga,Espanol,Celta,X2,Low conf,-32,10.04.22,0.75,3.03,1.55
+laliga,Elche,Sociedad,X2,High conf,+6,10.04.22,0.91,1.25,1.34
+laliga,Levante,Barcelona,X2,Low conf,-52,10.04.22,0.75,3.03,1.18
+liga-portugal,Santa Clara,Estoril,12,Med conf,+7,10.04.22,0.80,1.33,1.47
+liga-portugal,Guimaraes,Porto,2,Med conf,+9,10.04.22,0.93,1.30,1.48
+liga-portugal,Vizela,Sp Braga,2,Med conf,+26,10.04.22,0.93,1.30,1.96
+jupiler-pro-league,Charleroi,Waregem,>2.5,Low conf,+5,10.04.22,0.92,1.72,1.90
+jupiler-pro-league,Club Brugge,Mechelen,1X,High conf,+0,10.04.22,0.89,1.14,1.14
+jupiler-pro-league,Kortrijk,Anderlecht,1X,High conf,+59,10.04.22,0.89,1.14,3.44
+jupiler-pro-league,St Truiden,Standard,1X,Med conf,-8,10.04.22,0.90,1.49,1.33
+ligue-1,Bordeaux,Metz,1X,High conf,+24,10.04.22,0.89,1.00,1.31
+ligue-1,Angers,Lille,12,High conf,+19,10.04.22,0.89,1.14,1.46
+ligue-1,Monaco,Troyes,1X,Low conf,-39,10.04.22,0.80,2.00,1.12
+ligue-1,Brest,Nantes,2,Med conf,+30,10.04.22,0.92,1.56,2.92
+ligue-1,Lens,Nice,X2,High conf,+23,10.04.22,0.83,1.25,1.74
+ligue-1,Strasbourg,Lyon,12,High conf,+17,10.04.22,0.89,1.14,1.41
+ligue-1,Marseille,Montpellier,1,Med conf,+3,10.04.22,0.97,1.47,1.53
+championship,Fulham,Coventry,1,Med conf,+1,10.04.22,0.96,1.47,1.49
+bundesliga,Bochum,Leverkusen,1X,Low conf,-5,10.04.22,0.83,2.50,2.23
+bundesliga,Ein Frankfurt,Freiburg,X2,Low conf,-11,10.04.22,0.67,2.00,1.65
+bundesliga,RB Leipzig,Hoffenheim,X2,Low conf,+17,10.04.22,0.67,2.00,3.00
+ekstraklasa,Warta Poznan,Cracovia,1,High conf,+39,10.04.22,0.94,1.25,2.46
+ekstraklasa,Wisla,Gornik Z.,>2.5,Med conf,+14,10.04.22,0.86,1.49,1.90
+ekstraklasa,Rakow,Slask Wroclaw,1,High conf,+14,10.04.22,0.94,1.25,1.52
+serie-a,Genoa,Lazio,>2.5,Med conf,+14,10.04.22,0.86,1.49,1.90
+serie-a,Napoli,Fiorentina,1,Med conf,+7,10.04.22,0.97,1.56,1.76
+serie-a,Sassuolo,Atalanta,>2.5,Med conf,+14,10.04.22,0.86,1.49,1.90
+serie-a,Venezia,Udinese,2,Low conf,+8,10.04.22,0.94,1.89,2.20
+serie-a,Roma,Salernitana,>2.5,Med conf,+14,10.04.22,0.86,1.49,1.90
+serie-a,Torino,Milan,2,Low conf,+1,10.04.22,0.94,1.89,1.91
+serie-a,Atletico GO,Flamengo RJ,<2.5,Low conf,+3,10.04.22,0.90,1.79,1.90
+serie-a,Palmeiras,Ceara,1X,High conf,+6,10.04.22,0.94,1.06,1.14
+serie-a,Coritiba,Goias,2,Med conf,+51,10.04.22,0.92,1.37,4.58
+serie-a,Atletico-MG,Internacional,1,High conf,+29,10.04.22,0.97,1.03,1.48
+super-league,Servette,Zurich,12,High conf,+28,10.04.22,0.80,1.00,1.38
+super-league,Lugano,Sion,>2.5,Med conf,+22,10.04.22,0.80,1.33,1.90
+super-league,St. Gallen,Basel,1X,High conf,+35,10.04.22,0.75,1.00,1.53
+eredivisie,Heerenveen,Groningen,1,Med conf,+38,10.04.22,0.96,1.27,2.41
+eredivisie,PSV Eindhoven,Waalwijk,1,Med conf,-9,10.04.22,0.96,1.27,1.13
+eredivisie,Vitesse,Cambuur,12,High conf,+5,10.04.22,0.86,1.20,1.29
+eredivisie,Heracles,Feyenoord,2,Med conf,+12,10.04.22,0.94,1.33,1.58
+eredivisie,Zwolle,AZ Alkmaar,X2,Low conf,-30,10.04.22,0.91,2.00,1.25
+premier-league,Brentford,West Ham,BTTS,Med conf,+10,10.04.22,0.86,1.49,1.75
+premier-league,Leicester,Crystal Palace,X2,High conf,+40,10.04.22,0.75,1.00,1.66
+premier-league,Norwich,Burnley,X2,High conf,+33,10.04.22,0.75,1.00,1.50
+premier-league,Man City,Liverpool,BTTS,Med conf,+10,10.04.22,0.86,1.49,1.75
